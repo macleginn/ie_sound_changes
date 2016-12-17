@@ -4240,3 +4240,171 @@ sch.-gäl.dial.suth.,o-r.
 
 s-sch.-gäl.
 w > 0 /V̄_V̆ O’Rahilly 1972: 211
+
+*urbrit.
+sk > xs /_ Jackson 1956: 534f.
+sɸ > ɸs /_ Jackson 1956: 529
+ɸ > x /_s Jackson 1956: 529
+[x > s /_s# Jackson 1956: 535, 637]
+s > x /x_ Jackson 1956: 535-540 {vor lat. LW}
+h > 0 /V_V Jackson 1956: 514f., 521-525
+j > 0 /'V_V Jackson 1956: 348-358
+j > ʝ /'i_V Jackson 1956: 348-355; Schrijver 1995: 280
+j > ʝ /r_'V Jackson 1956: 472f.; Schrijver 1995: 281f.
+ʝ > ð /_ Jackson 1956: 348-355, 472f.
+j > jj /V _V Jackson 1956: 358-362
+s > f /#_r Jackson 1956: 541
+t > s /{-#}s_{-r,l} Jackson 1956: 529-534
+kʷ > p /_ Jackson 1956: 394f.; McCone 1996: 67f.
+p > b; t > d; k > g /V(#)_[+voice] Jackson 1956: 394, 396-399, 402f., 543ff., 553-557 {2. Lenierung}
+*k > *kʷ (> kw) /s_e Schrijver 1992
+
+*g-brit.
+s > h /(#)#_ [Jackson 1956: 515-521] {verallgemeinert aus Sandhi?}
+w > gʷ /{-V}#_ Jackson 1956: 367f., 385-394
+g > ɣ /V_n Jackson 1956: 412
+ɣ > j /V[+front]_j,V[+front] Jackson 1956: 448-455
+ɣ > j /V_l,r,n Jackson 1956: 460ff.
+β > w /l,r,n Jackson 1956: 414f., 418-424 {sporad.}
+ɣ > w /V[-front]_u Jackson 1956: 440-444
+ð > j /V_r,n Jackson 1956: 429-432
+ð > l /l_ Jackson 1956: 432f.
+ɣ > 0 /V[+front]_# Jackson 1956: 455ff.
+ɣ > 0 /V[+front]_V[-front] Jackson 1956: 459f.
+ɣ > 0 /V[-front]_# Jackson 1956: 458f.
+ɣ > 0 /V[-front]_V[+front] Jackson 1956: 460 {‹g› > 0}
+ɣ > 0 /V[-front]_V[-front] Jackson 1956: 457f.
+j > 0 /V[+front]_j,V[+front] Jackson 1956: 448-455
+b > β; g > ɣ /ð_ Schrijver 1995: 460
+b > β; d > ð; g > ɣ /l,r_ Russel 1985; Schrijver 1995: 460
+d > ð /V_l,n Schrijver 1995: 360-365 {*t}
+x > ç > j /_t,s Jackson 1956: 404-411, 535-539
+T > T: /C>0#_ Jackson 1956: 634-638
+T: > T /_ [Jackson 1956: 634-638]
+p > f; t > θ; k > x /V(L)(#)_[+voice] Greene 1966 {3. Lenierung}
+w > ww /V_'V Jackson 1956: 383ff. {sporadisch}
+w > ww /'V_V,j Jackson 1956: 369-383
+p > pʰ; t > tʰ; k > kʰ /_V
+
+*g-brit.{-bret.dial.}
+b > m; d > n; g > ŋ /N(#)_ Jackson 1956: 508-513
+
+akymr.
+β > 0 /'au̯_# Jackson 1956: 416f.
+β > 0 /V _# Jackson 1956: 417f.
+ɣ > ə ~ 0 /l,r_# Jackson 1956: 466-469
+ɣ > ʝ /l,r_V Jackson 1956: 466-469
+n > 0; l > 0 /_θr,l Jackson 1956: 401, 498
+l > l̥/#_; _:; n_; r > r̥/#_; n_ Jackson 1956: 471-480
+l > l̥/_θ,t Jackson 1956: 400f.
+θ > t /l_# [Jackson 1956: 400f.]
+θ > l̥ /l̥_ Jackson 1956: 400f.
+N > N̥ /_(#)p,t,k [Jackson 1956: 596-506]
+p > m̥ʰ; t > n̥ʰ; k > ŋ̊ʰ /N̥(#)_ Jackson 1956: 496-506 {„Nasalierung“}
+t > s /#s_ Jackson 1956: 530-533
+
+mkymr.
+β̃ > β /_ Lewis & Pedersen 1961: 54
+β > 0 /ui̯_ Jackson 1956: 414f.
+β > 0 /y_ Jackson 1956: 415f.
+ʝ > j /l,r_V Jackson 1956: 466-469
+h > 0 /_{-'V} Jackson 1956: 506f. {nach Akzentverschiebung}
+l̥l̥> l̥ /V̀_ Jackson 1956: 477 {􀃆 ‹ll› = [l]̥}
+l̥> ɬ /_
+β > v /_ Evans 1964: 9
+
+n-mkymr.
+h > x /#_w Jackson 1956: 525ff.
+
+nkymr.
+x > χ /_
+
+nkymr.dial.
+ð > d /_$l Schrijver 1995: 360-365
+
+s-nkymr.
+ð > 0 /V _l Schrijver 1995: 360-364
+
+acorn.,abret.
+ɣ > x /l,r_ Jackson 1956: 466-469 {‹g,(c)h› > ‹(g)h,g› > ‹ch›}
+
+mcorn.
+β̃ > β /_ Lewis & Pedersen 1961: 54
+t > *ts > s /l,n_# Jackson 1956: 401, 507f. {‹s›}
+d > *dz > z /V_# Jackson 1956: 397f. {‹s›}
+t > ṯʃ /_V[+front]; d > ḏʒ /_j,V[+front] Jackson 1956: 397 {‹s,g,j› > ‹dzh, dg›}
+d > dz /_w Jackson 1956: 397 {‹s›}
+
+ncorn.
+dz > ḏʒ /_w>0 Jackson 1956: 397
+w > 0 /dz>ḏʒ_ Jackson 1956: 397
+
+abret.
+θ > 0; x > 0 /_f Jackson 1967: 328
+ð > θ /t,θ,d,ð,f Jackson 1967: 326f.
+D > T /T,D,h Jackson 1967: 326
+θ > t /t,θ>t,d>t Jackson 1967: 326f.
+Ð > Þ /_h Jackson 1967: 327 {vor C > C:}
+β > f /ð,x_ Jackson 1967: 328
+C > C: /_h>0 Jackson 1967: 327
+h > 0 /Ð,l,r,n_ Jackson 1967: 327 {partiell}
+D > T /_# {nach Synkope/Apokope}
+
+mbret.
+ɣ > x /#_V Jackson 1956: 435-439; 1967: 313f.
+ɣ > 0 /{-#}_ Jackson 1956: 435-439; 1967: 313f.
+d > ð /_r,n Jackson 1956: 399
+θ > s̪; ð > z̪ /_ Jackson 1956: 399f. 424ff.; 1967: 668ff., 687
+β̃ > β /V>Ṽ_ Lewis & Pedersen 1961: 54
+β > v /_
+
+mbret.{-s-K.dial.,V.}
+s̪> z̪ /X_ Jackson 1967: 671ff., 674f., 681f., 687
+
+mbret.{-w-L.,so-K.,BV.}
+s̪> z̪ /#_ Jackson 1956: 399f.
+
+mbret.s-/sw-K.dial.,V.
+s̪> h /_ Jackson 1967: 681-684, 687
+z̪ > 0 /X_ Jackson 1967: 697-681, 687 {nach s > z}
+
+mbret.T.K.dial.
+z̪ > 0 /X_ Jackson 1967: 676-679, 687 {vor s > z}
+
+mbret.z-,o-T.,no-K.,-V.
+f > v; s̺> z̺ /#_ Jackson 1967: 511f.
+g-bret.
+j > ʝ /t,k,d,g_ Jackson 1967: 410-416
+ʝ > ç /t_ Jackson 1967: 412-415
+s > ʃ /_j Jackson 1967: 419, 423
+ç > ʃ /t>ʃ,k>ʃ_ Jackson 1967: 410-416
+bret.dial.
+ʝ > ʒ /d,g>ʒ_ Jackson 1967: 412-416
+x > χ /_
+f > v; s̺> z̺; s̪̪> z̪/V(l,r)_ Jackson 1967: 362-375 {“new lenition”}
+f > v; s̪̪> z̪; s̺> z̺/V#_ Jackson 1967: 362-375 {“new lenition”, eingeschränkter als /X_}
+
+bret.dial.T.(K.,n-V.)
+z > ʒ /_j Jackson 1967: 419-423
+
+g-nbret.dial.
+s̪> s /#_ Jackson 1967: 686ff.
+
+nbret.K.,so-V.dial.
+h > 0 /X_ Jackson 1967: 682ff., 687, 732ff.
+
+nbret.T.,K.,V.{-no-dial.}
+z̪ > z /_ Jackson 1967: 675f., 687 {früh}
+
+nbret.L.
+z̪ > z /_ Jackson 1967: 673f., 687 {spät}
+
+nbret.L.,K.{-dial.},V.
+w > wʲ /_V[+front] Jackson 1967: 437
+
+nbret.V.
+w > wʲ /_j Jackson 1967: 411
+
+z-bret.dial.
+χ > ħ /_ Wmffre 2002: 6
+ħ > h /_V Wmffre 2002: 6
