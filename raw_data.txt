@@ -3844,3 +3844,154 @@ T > 0 /#_ʎ Lausberg 1956: 21
 
 aspan.,aport.
 ð > 0 /V_V Zauner 1921: 36f.; Williams 1938: 68; Lausberg 1956: 36f.; Spaulding 1963: 93f.
+
+aspan.
+ɟ > ḏʒ /#_o,ue,u Zauner 1921: 34
+ɟ > ʝ > j /#_a,'e Zauner 1921: 34; Garcia de Diego 1970: 89f.
+ɟ > ʝ > j /V_ Zauner 1921: 36f.; Lausberg 1956: 41, 61
+j > 0 /#_è Zauner 1921: 34
+j > 0 /V_V Zauner 1921: 36f.; Lausberg 1956: 41, 61
+ð > 0 /V_V Zauner 1921: 36f.; Lausberg 1956: 36f.; Spaulding 1963: 93f.
+ḏʒ > ʒ /_ Zauner 1921: 34
+s > 0 /_ts Garcia de Diego 1970: 126
+ł > w /V_C Lausberg 1956: 45 {sporad.}
+ł > l /V_C Lausberg 1956: 45
+
+aspan.{-arag.}
+ʎ > j /_ Garcia de Diego 1959: 158f.; 182; 251; Spaulding 1963: 97
+
+aspan.{-arag.,ast.-leon.}
+j > ʝ > ʒ /_ Entwistle 1962: 226; Spaulding 1963: 97
+
+aspan.{-w-ast.-leon.}
+t > c > ṯɕ /j_ Lausberg 1956: 51; Garcia de Diego 1959: 157f.; 249; Spaulding 1963: 97
+j > 0 /_ṯɕ Spaulding 1963: 97
+
+aspan.o-ast.-leon.,kast.
+f > h /#_{-r,u̯e} Garcia de Diego 1959: 176f.; 244f.; 1970: 87f.; Entwistle 1962: 160f.
+
+aspan.
+ts > s;̪ dz > z̪/_ Lausberg 1956: 9f.; Entwistle 1962: 188
+
+span.arag.,kast.
+s̪> θ; z̪> ð /_ Lausberg 1956: 9f.
+
+span.arag,kast.,and.,gal.{-dial.}
+ð > θ; z̺> s;̺ ʒ > ʃ /_ Lausberg 1956: 38, 40; Entwistle 1962: 188-191; 307f. {vor ʃ > x}
+
+sp.arag.,gal.dial.
+ḏʒ > ṯʃ /_ Garcia de Diego 1959: 245; Entwistle 1962: 226; 307f.
+
+span.w-/s-arag.,kast.,and.,g-am.
+ʃ > x /_ Entwistle 1962: 190f., 250
+
+span.arag.
+v > w /_(V>0)# Garcia de Diego 1959: 247
+
+span.arag.,and.dial.
+ɾ > 0 /_# Entwistle 1962: 226
+
+span.kast.
+β > b /#_ Lausberg 1956: 6
+h > 0 /_
+b > β; d > ð; k > ɣ /V_ Lausberg 1956: 33, 37, 42f.
+
+span.and.,g-am.{-mex.,kol.,per.Hochland}
+s > h /_$ Entwistle 1962: 220f.; 255; 259
+
+span.and.dial.
+l > 0 /_#
+
+span.and.dial.{-murc., extr…},g-am.
+s̺> s̪/_ Lausberg 1956: 9f.; Spaulding 1963: 230f. Entwistle 1962: 249f. {„seseo“}
+
+span.and.dial.sev.,gran.
+s̪> θ /_ Spaulding 1963: 230f. {„ceceo“}
+l > ɾ /_$
+
+span.and.murc.
+ɾ > l /_$
+
+span.ast.,kast.dial.,and.,am.{-dial.mex.,zkol., per.,chil.,arg.}
+ʎ > j /_ Garcia de Diego 1959: 158f. {„yeismo“}
+
+span.am.arg.{-dial.}
+ʑ > ʒ (> ḏʒ) /_ Entwistle 1962: 258; Spaulding 1963: 98
+
+span.am.mex.dial.
+j > 0 /V_V Entwistle 1962: 269
+j > ʒ /#_ Entwistle 1962: 269
+
+span.neukast.,and.,am.mex.dial.,*arg.
+j > ʑ /_ Spaulding 1963: 98
+
+span.pyr.
+p > b /l>w,m_; t > d /l,r,n_; k > g /n_ Garcia de Diego 1959: 229f. {baskischer Einfluss!?}
+
+span.ast.,leon.
+?ʒ > ʃ /#_ Entwistle 1962: 226; Spaulding 1963: 222
+
+*span.ast.-leon.dial.,pyr.dial.
+ʎ > j > ç > c > ṯʃ /_ Garcia de Diego 1959: 149f.,154, 177, 181f.; 228 {pyr. nur -ll-}
+
+span.dial.w-leon.,pyr.arag.
+ṯʃ > ṯʲ /_ Garcia de Diego 1959: 150; 228 {dial. nach ʎ > ṯʃ…}
+
+*span.w-leon.,gal.-port.
+ʎ > j > ç > c > ṯʃ /#p,k,f_ Entwistle 1962: 141;286ff.; Spaulding 1963: 222
+
+span.leon.dial.
+ṯʃ > ʃ /#_ Entwistle 1962: 228,286ff.
+
+gal.-port.,span.ast.-leon.
+ł > w /a_t,p; /a,o_ts Williams 1938: 89f.; Garcia de Diego 1959: 64; 157f.; 179f.
+n > 0 /V>Ṽ_V Williams 1938: 70-73; Lausberg 1956: 43f.; Garcia de Diego 1959: 61f., 152f., 177f.; Entwistle 1962: 288ff. {vor C: > C}
+l > 0 /V_V Lausberg 1956: 38f.; Garcia de Diego 1959: 62f.,153, 178; Entwistle 1962: 288ff. {vor C: > C}
+
+gal.-port.
+ts > s̪; dz > z̪/_ Williams 1938: 60, 79f.; Lausberg 1956: 9f., 40, 55; Entwistle 1962: 285; 302f.
+β > v /_ Williams 1938: 65f.; Lausberg 1956: 6, 35f.
+l > ɾ /$b,p,f_V Williams 1938: 62f. {sekundäre Gruppen}
+n > ɲ /'i_a,o Williams 1938: 71
+bj > bʲ > jbʲ > jb; vj > vʲ > jvʲ > jv /V_ Williams 1938: 79
+
+gal.
+s̺> ʃ /_ Garcia de Diego 1959: 59, 61 {sporad.}
+s̪> θ /_ Entwistle 1962: 306f. {kastil. Einfluss}
+
+port.
+ḏʒ > ʒ /_ Williams 1938: 60; Entwistle 1962: 302f.
+b > v /r,l_ Williams 1938: 91; Lausberg 1956: 45
+
+port.{-dial.nördl.}
+s̺> s; z̺> z /_ Williams 1938: 60, 67; Entwistle 1962: 302f.; 321 {nach s > ʃ…}
+
+s-port.
+(b >) β > v /_ Entwistle 1962: 310
+ṯʃ > ʃ /_ Williams 1938: 63; Entwistle 1962: 286f.; 310f.
+
+port.eur.,bras.dial.
+s̺> ʃ; z̺> ʒ /_$ [Entwistle 1962: 321; Noll 1999: 41-45]
+
+port.eur.
+b > β; d > ð; k > ɣ /V_ Lausberg 1956: 33, 37, 42f.; Noll 1999: 55
+
+port.eur.dial.,bras.{-s-}
+r > ʀ /_ {aber ɾ ≡} Noll 1999: 50
+ɾ > ʀ /_$ Noll 1999: 50ff.
+ʀ > ʁ /_ Noll 1999: 50ff.
+
+port.bras.
+s > j ~ 0 /V_## Entwistle 1962: 321
+ʁ > χ /_ Noll 1999: 50ff.
+
+port.bras.{-no-}
+t > ṯʲ > ṯʆ; d > ḏʲ > ḏʓ /_i Noll 1999: 46-49
+
+port.s-bras.
+ɾ > ɹ ̣/_$ Noll 1999: 51f.
+
+port.bras.dial.
+r > 0 /_# Entwistle 1962: 321
+χ > h /_ Noll 1999: 50ff.
+ł > w /V_{$} Noll 1999: 53f.
