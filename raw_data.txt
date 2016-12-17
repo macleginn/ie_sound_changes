@@ -3571,3 +3571,276 @@ zʲ > ʒ /_ Lausberg 1956: 57
 
 rätor.gb.{-surs.}
 ɟ > ḏʒ /_ Lausberg 1956: 41, 61
+
+rätor.gb.surs.
+ḏʒ > ʒ /#_ Lausberg 1956: 14f.
+b > v /_ɟ Lausberg 1956: 62
+
+g-gallor.,kat.
+C: > C /_ (C ≠ r) Lausberg 1956: 67, 69; Badia i Margarit 1994: 195f.
+
+g-gallor.
+s̺> ʆ /j_ Lausberg 1956: 52
+ḏʒ > ʒ /V_V Lausberg 1956: 40
+b > 0 _ḏʒ Lausberg 1956: 62
+ʆ > s /V>Vj_ Lausberg 1956: 49, 57; Fouché 1961: 848f. {vor ṯʃ > ʃ}
+sʲ̺ > s;̺ zʲ > z /V>Vj_ Lausberg 1956: 57; Fouché 1961: 916f.; 921
+v > w ~ 0 /_o,u Lausberg 1956: 36
+ł > w /V_C Lausberg 1956: 45; Fouché 1961: 781; 854- 861
+
+g-frz.,frpr.,n-okz.
+k > c; g > ɟ /_a,e,i Lausberg 1956: 11f., 15f. {auch in LW}
+
+*g-frz.,frpr.,okz.dial.
+ɟ > ʝ > j /V_V Lausberg 1956: 41f.; Fouché 1961: 605- 610 {nach g > ɟ /_a}
+n > ɲ > n /V>Vj_ç Lausberg 1956: 52
+ç > c /p_;ʝ > ɟ /b,v,m_ Lausberg 1956: 61f.; Fouché 1961: 925f.
+
+g-frz., frpr.,okz.gasc.,auv.,w-lang.
+ç > j /_s,t Lausberg 1956: 51f.; Fouché 1961: 815f.
+
+g-frz.,frpr.
+dzʲ > ḏʑ > dz /V>Vj_ Hafner 1955: 158-161; Lausberg 1956: 40, 55, 57; Fouché 1961: 623f. {vor D > T /_#}
+g > ɟ /'V_rV# Fouché 1961: 715 {vor Synkope}
+ɟ > g /V>Vj_r Fouché 1961: 715 {vor Synkope}
+*b > β; *d > ð /V_ Lausberg 1956: 29f., 33, 55, 88f.; Fouché 1961: 600, 617
+ð > r /V̆_r Fouché 1961: 720f.
+ɣ > j /V_l,r Fouché 1961: 714; 716f. {vor g > γ /'V}
+ɣ > j /V{-u}_a Fouché 1961: 614ff.
+ɣ > w /u,u̯_a; /V[+back]_V[+back] Fouché 1961: 613f.; 631f.
+ɣʷ > w /w_a Lausberg 1956: 64f.; Fouché 1961: 723
+g > ɣ /V_V Lausberg 1956: 42f.; Fouché 1961: 613-616 {nach ɣ > j /V_r, vor g > ɣ /_l!}
+gʷ > ɣʷ /V>Vw_V Fouché 1961: 723
+β > w /V[+round]; /V[+round] Fouché 1961: 617f.
+β > w /V_r…'V; /V_rσ2 Fouché 1961: 711f. {vor b > β}
+β > v /V_[+voice] Fouché 1961: 618f.; 621f.; 642-645; 712f.
+Ð > Þ; D > T /_# Fouché 1961: 625; 661ff.
+g > ɣ /V _(r)V ; /'V_(r)σ2 Lausberg 1956: 42f.; Fouché 1961: 613-616; 714 {nach Ð > Þ /_#}
+ð > 0 /V̄_r Fouché 1961: 719f. {nach Dehnung und Diphthongierung}
+ð > 0 /V_V Lausberg 1956: 36f.; Fouché 1961: 600-603
+ɣ > 0 /V[-back]_V,# Lausberg 1956: 42f.; 88f.; Fouché 1961: 629-632
+t > 0 /C_# Lausberg 1956: 85f.; Fouché 1961: 657 {nach Synkope/Apokope}
+
+g-frz.
+j > 0 /C[+pal]_ Fouché 1961: 735ff.
+l > ʎ /j_V Fouché 1961: 716f. {nach γ > j /_l}
+j > 0 /V_'V Fouché 1961: 606
+ṯʃ > t; ḏʒ > d /n,r,s_r Lausberg 1956: 72 {nach Synkope}
+j > ij̯ /'V_V Fouché 1961: 614ff.
+ww > w /V_V Fouché 1961: 723f. {nach ie > i /_ww}
+
+g-frz.{-nw-pik.,wall.,lothr.},frpr.
+w > 0 /_V[+round]; /V[+round]_à Fouché 1961: 619ff.; 633-646 {*b,v, vor *b > β > w}
+w > 0 /V[+round] Fouché 1961: 617f.; 645ff. {*p}
+
+g-frz.{-pik.,(norm.)},g-frpr.,g-okz.
+*ṯɕ > ts /_ Lausberg 1956: 9f.; Fouché 1961: 553
+
+g-frz.{-pik.,wall.,lothr.},frpr.,okz.{-gasc.}
+kʷ > k; gʷ > g /_ Lausberg 1956: 22-25; Fouché 1961: 559-566; 704ff.
+
+frz.angl.
+z̺ > ð /_l,n Fouché 1961: 861f.
+
+frz.dial.,frpr.dial.
+k > c /_y Lausberg 1956: 13 {vor c > ṯʃ}
+
+g-frz.{-pik.,(norm.)},frpr.,okz.dial.
+c > ṯʃ; ɟ > ḏʒ /_ Lausberg 1956: 11f., 14ff., 17, 62f.; Fouché 1961: 555-558; [915], [926]
+
+frz.pik.,(norm.)
+z̺ > r /V_l Fouché 1961: 862
+c > k; ɟ > g /#_ Lausberg 1956: 15f.; Fouché 1961: 558 {oder Archaismus?}
+*ṯɕ > ṯʃ /_ Fouché 1961: 553 Anm. 2
+ṯʃ > ʃ /_ Lausberg 1956: 9f.
+
+afrz.,frpr.
+ts > s;̪ dz > z̪/_ Voretzsch 1903: 221f.; Lausberg 1956: 9f.; Fouché 1961: 553ff.; 780f. {nach Synkope, um 1200}
+
+afrz.{-wall.,(hain.)}
+s̺> h /V_C [Voretzsch 1903: 221]; Joos 1952: 227f.; Fouché 1961: 781, 861ff.
+h > 0 /V>V̄_C; z̺ > 0 /V>V̄_C [Voretzsch 1903: 221]; Joos 1952: 227f.; Fouché 1961: 781, 861ff. {vokalische Differenzen erhalten}
+s̺> s /_ Joos 1952: 230f.
+
+afrz.{-dial.wall.}
+ṯʃ > ʃ; ḏʒ > ʒ /_ Voretzsch 1903: 222; Lausberg 1956: 11f., 14ff.; Fouché 1961: 552
+
+mfrz.
+h > 0 /#_ Fouché 1961: 580-586 {in germ. Wörtern}
+r > z /V_V Fouché 1961: 603ff. {sporad.}
+
+nfrz.
+ʎ > j /_ Lausberg 1956: 47f.; Fouché 1961: 918f.
+n > 0 /V>Ṽ_$ Lausberg 1956: 46
+rr > r /_ Lausberg 1956: 69f.
+r > ʀ /_ Lausberg 1956: 38
+
+nfrz.dial.
+ʀ > ʁ /_
+z̺ > j /_C[+voice] Fouché 1961: 862
+
+frpr.
+ts > s /i̯_# Hafner 1955: 158ff.
+
+frpr.dial.,n-okz.dial.
+ṯʃ > ts; ḏʒ > dz /_ Lausberg 1956: 11f., 15f. {nach ɟ > ḏʒ /_a}
+
+frpr.dial.
+s̪> θ; z̪> ð /_
+
+g-okz.,kat.,g-ibrom.
+t > 0 /n_# Lausberg 1956: 85f.
+t > 0 /V_# Lausberg 1956: 84
+
+g-okz.
+d > ð /_r Lausberg 1956: 47
+ð > j /V_r Lausberg 1956: 47
+m > n /_n Lausberg 1956: 46
+v > w /V_ḏʒ,$ Lausberg 1956: 62; 89f.
+D > T; Ð > Þ /_# Lausberg 1956: 88ff. {nach ð > d /_#, v > w /_#}
+ts > s /_{-#} Lausberg 1956: 9f.; 89
+
+okz.,kat.
+g > jg /a_w Lausberg 1956: 64f.
+
+okz.dial.
+ɣ > 0 /_ Lausberg 1956: 43
+ɣ > g /_ Lausberg 1956: 43
+l > ɾ /V_V Lausberg 1956: 38f.
+ḏʒ > ʒ /_ Lausberg 1956: 14f., 41 {spät}
+ḏʒ > dz /_ Lausberg 1956: 14f., 41
+dz > z̪ /_ Lausberg 1956: 14f., 41 {spät}
+z̪ > ð /_ Lausberg 1956: 14f., 41
+
+okz.dial.{-gasc.}
+*ð > 0 /V_V Lausberg 1956: 36f.
+*ð > z /V_V Lausberg 1956: 36f.
+
+okz.dial.lim.,prov.,o-lang.
+s̺> ʆ /ç>0_ Lausberg 1956: 52
+t > c /ç>0_ Lausberg 1956: 51
+ç > 0 /_c,ṯʃ,ʃ Lausberg 1956: 51f.
+c > ṯʃ /_ Lausberg 1956: 51
+
+okz.gasc.
+β > b /#_ Lausberg 1956: 6
+β > w /X_ Lausberg 1956: 35f.
+ll > ḷḷ > ḍḍ /_ Lausberg 1956: 69
+n > 0 /V>Ṽ_V Lausberg 1956: 43f.
+f > h /#_ Lausberg 1956: 8
+ɟ > ʝ /_ dial. Lausberg 1956: 14
+
+okz.gasc.,kat.,g-ibrom.
+r > rr /#_ Lausberg 1956: 8; Entwistle 1962: 329
+
+*g-ibrom.
+ɸ > x /_s Lausberg 1956: 50 {sporad., vor x > ç}
+b > 0; g > 0 /#_l Lausberg 1956: 21f.
+l > ʎ /#k,p,f_ Lausberg 1956: 20f.; Entwistle 1962: 226
+s > ʆ /j_ Lausberg 1956: 52; Badia i Margarit 1994: 211
+*ç > j /V_t,s Lausberg 1956: 51f.; Badia i Margarit 1994: 210f. {vor s > z, nach t > d}
+kʷ > k; gʷ > g /_i,e Williams 1938: 64; Lausberg 1956: 22f.; Badia i Margarit 1994: 179, 184
+kʷ > k /#_à Williams 1938: 64
+d > ð /V_r Badia i Margarit 1994: 207ff. {Ausnahmen}
+C: > C /_ Zauner 1921: 30ff. {eher spät}
+
+g-kat.,gal.-port.
+*ṯɕ > ts; *ḏʑ > dz /{-ʃ}_ Williams 1938: 60, 67
+
+g-kat.,span.arag.,ast.-leon.{-dial.w.},gal.-port.
+l > ll /#_ Williams 1938: 61; Lausberg 1956: 8; [Garcia de Diego 1959: 149f., 177]; Spaulding 1963: 222; Badia i Margarit 1994: 182 {vor ll > ʎʎ}
+
+g-kat.,aspan.{-ast.}
+nn > ɲɲ; ll > ʎʎ /_ Zauner 1921: 31; Lausberg 1956: 69f.; Garcia de Diego 1959: 153f.; 178; 246f.; Badia i Margarit 1994: 196ff,
+b > m /N_ Zauner 1921: 41; Lausberg 1956: 46; Garcia de Diego 1959: 230; Badia i Margarit 1994: 204
+
+g-kat.,span.arag.
+d > n /n_ Lausberg 1956: 46; Garcia de Diego 1959: 248; Badia i Margarit 1994: 204f.
+
+g-kat.
+β > 0 /_'o,'u Badia i Margarit 1994: 187
+β > w /o,u_r Badia i Margarit 1994: 207
+β > v /_ Badia i Margarit 1994: 186
+ð > 0 /'V_ Badia i Margarit 1994: 187 {sporad.}
+ð > 0 /V _V  Badia i Margarit 1994: 187
+ð > 0 /'V_r Badia i Margarit 1994: 208f.
+ð > j /V_r'V Badia i Margarit 1994: 208f.
+ɣ > 0 /V_r Badia i Margarit 1994: 209
+ɣ > 0 ~ j /_'a Badia i Margarit 1994: 189f.
+ɣ > 0 /_o,u Badia i Margarit 1994: 189f. {sporad.}
+ɟ > ḏʒ /#_; /_: Lausberg 1956: 17, 41; Badia i Margarit 1994: 181f., 194
+ṟʲ > r /V_ Badia i Margarit 1994: 222
+sʲ > s /V>Vj_(:) Badia i Margarit 1994: 217f. {vor s > z}
+s̺> ʃ; ts > ṯʃ /_i,e Badia i Margarit 1994: 179ff. {sporad.}
+D > T /_# Badia i Margarit 1994: 216, 223, 246
+
+akat.
+d̪z̪ > z̪ /_ Lausberg 1956: 40, 55; Entwistle 1962: 89; Badia i Margarit 1994: 187ff., 191f. {‹d,z›}
+z̪ > ð /V_V,# Lausberg 1956: 40, 55; Entwistle 1962: 89; Badia i Margarit 1994: 187ff. {‹d,z›}
+ð > z̪ /'V_V Badia i Margarit 1994: 187ff.
+ð > 0 /_'V Lausberg 1956: 40, 55; Badia i Margarit 1994: 187ff.
+ð > *v /V_$ Lausberg 1956: 89f.; Badia i Margarit 1994: 246
+*v > w /V_$ Lausberg 1956: 89f.; Badia i Margarit 1994: 346
+
+kat.
+t̪s̪ > s̪; ṯʃ > ʃ /_ Lausberg 1956: 9f.; Badia i Margarit 1994: 181f.
+b > β; d > ð; g > ɣ /V_ Lausberg 1956: 41; Badia i Margarit 1994: 184ff., 207f.
+s̪> s̺; z̪> z̺/_ 
+
+g-kat.{-rib.}
+n > 0 /_# Badia i Margarit 1994: 241 {vor t > 0 /_#}
+
+g-kat.{-val.},span.n-/o-arag.
+r > 0 /'V_# Garcia de Diego 1959: 247; Entwistle 1962: 100; Badia i Margarit 1994: 242f.
+
+kat.{-bal.,val.,alg.,tarr.}
+v > β /_ Badia i Margarit 1994: 178f., 192
+β > b /#_ Lausberg 1956: 6; Badia i Margarit 1994: 178f., 192
+
+kat.dial.
+z̺ > r /_ Badia i Margarit 1994: 191 {sporad.}
+
+kat.{-w-}
+ḏʒ > ʒ /{-#}_ Badia i Margarit 1994: 181f., 194
+
+kat.alg.
+ð > r /V_V Badia i Margarit 1994: 185f.
+
+kat.ap.,rib.
+ḏʒ > ṯʃ /V(r)_V Badia i Margarit 1994: 181f. 194, 201
+z > s /_ Badia i Margarit 1994: 190f.
+
+kat.dial.{-ler.,val.,tarr.}
+j > 0 /_ʃ Lausberg 1956: 49; Badia i Margarit 1994: 205, 211
+
+kat.dial.rib.
+ʒ > j /V_a,o,u Badia i Margarit 1994: 194
+
+s-kat.dial..
+ʃ > s /j_ Badia i Margarit 1994: 205 {arab. ‹s›, kastilischer Einfluss?}
+
+kat.dial.zentr.,bal.
+ʎ > j /_ Badia i Margarit 1994: 220f. {vor ll > ʎʎ!}
+
+kat.val., (bal.,ler.)
+ð > 0 /V_V Badia i Margarit 1994: 185
+
+o-kat.
+b > bb; g > gg /V_l Badia i Margarit 1994: 206f.
+ḏʒ > ʒ /#_ Badia i Margarit 1994: 181f. 194
+
+kat.bal.
+bb > pp; gg > kk /_l Badia i Margarit 1994: 207
+ł > w /V_$ Badia i Margarit 1994: 199ff.
+
+*ur-span.
+*ṯɕ > *ts /_ Lausberg 1956: 49 {auch /s_!}
+
+gal.-port.,g-span.
+ł > ʎ > j /o,u_t Williams 1938: 90; Lausberg 1956: 45; Garcia de Diego 1959: 64, 157, 180, 249 {span. vor t > c}
+
+g-span.{-n-arag.}
+T > 0 /#_ʎ Lausberg 1956: 21
+
+aspan.,aport.
+ð > 0 /V_V Zauner 1921: 36f.; Williams 1938: 68; Lausberg 1956: 36f.; Spaulding 1963: 93f.
