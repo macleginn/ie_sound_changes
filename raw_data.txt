@@ -3995,3 +3995,248 @@ port.bras.dial.
 r > 0 /_# Entwistle 1962: 321
 χ > h /_ Noll 1999: 50ff.
 ł > w /V_{$} Noll 1999: 53f.
+
+*urkelt.
+kʷ > k /_#; /_s,t Lewis & Pedersen 1961: 43f.
+Kʷ > K /_j Thurneysen 1946: 115
+kʷ > k /ū̆; /ul_ Lewis & Pedersen 1961: 34f., 43f.
+p > kʷ /_VC₀$kʷ McCone 1996: 44
+t > 0 /ts_ Thurneysen 1946: 96; McCone 1996: 48
+gʷ > b /_ Lewis & Pedersen 1961: 43f.
+Dʱ > D /_
+p > ɸ /_ [Thurneysen 1946: 139f.]; McCone 1996: 44f. {sogar /s_!}
+n > 0 /V>V̄_s# McCone 1996: 50; Wodtko 2003: §21
+k > x /_T,s McCone 1996: 43f.
+ɸ > x /_T,s Thurneysen 1946: 139; McCone 1996: 43f.
+
+*g-kelt.
+ɸ > w /a,o_n Thurneysen 1946: 140; McCone 1996: 45
+ɸ > β /V_L Thurneysen 1946: 139; McCone 1996: 44; Schumacher 2004: 130
+w > β /_n McCone 1996: 48f., 86
+b > β; d > ð; g > ɣ; gʷ > ɣʷ /V(R)_V,# 543ff., 558-561; McCone 1996: 81-87 {1. Lenierung}
+m > β̃ /V(R)_V,# Jackson 1956: 481-493, 560; McCone 1996: 81f., 86f.
+
+*g-kelt.{-lep.}
+ɸ > 0 /V_V Schumacher 2004: 130
+
+kib.
+*ɣ > 0 /u_a Wodtko 2003: §13
+[x > s /_s Wodtko 2003: §21 {‹s ~ x› > ‹s›}]
+s > 0 /V_m Wodtko 2003: §21
+
+kib.,*urinskelt.
+t > s /_s Thurneysen 1946: 96; McCone 1996: 48
+dz > z /_D {vor z > ð} [Lewis & Pedersen 1961: 25]
+
+lep.,gall.
+kʷ > p /_ McCone 1996: 67f.
+
+gall.
+m > b /#_l,r Jackson 1956: 480f.
+m > n /_# McCone 1996: 68f.
+gʷ > w /#_ McCone 1996: 69f.
+
+gall.dial.
+p > b̥; t > d̥; k > ɡ̊ /X_ Watkins 1955: 18f.
+
+*urinskelt.
+j > 0 /V_V
+z > ð /V_(D) Thurneysen 1946: 133f.
+n > nn /_g,d McCone 1996: 90f.
+t > d; k > g /ŋ_ McCone 1996: 91
+n > d; ŋ > g /V>Ṽ_g McCone 1996: 91
+g > 0 /_d McCone 1996: 48
+s > h /V_V,R; /V_#; /V#_V,R Thurneysen 1946: 74, 84; Jackson 1956: 513-521; Lewis & Pedersen 1961: 16; McCone 1996: III 4.3
+n > nn; l > ll; r > rr /#_; _t,d; /s,r,l,n McCone 1996: 81f., 87
+w > β /{-V_(R)V} Thurneysen 1946: 122f.; Lewis & Pedersen 1961: 11
+m > n /_# Thurneysen 1946: 110
+n > 0 /_# Thurneysen 1946: 110
+T > 0 /_# Thurneysen 1946: 110
+
+air.
+ð > dd /_rV Thurneysen 1946: 74
+[x > s /_s Thurneysen 1946: 96, 136, 139; Lewis & Pedersen 1961: 19f.]
+n > s /V>V̄_s Thurneysen 1946: 128
+n > 0 /V>V̄_x Thurneysen 1946: 128
+s > 0 /#_t Thurneysen 1946: 132f.
+t > s /Vs_V Thurneysen 1946: 96
+b > m; d > n; g > ŋ /VN_ Thurneysen 1946: 93f.
+w > 0 /(V)#_ Thurneysen 1946: 85, 124 {nur wenn leniert!}
+β > ɸ /#_ Lewis & Pedersen 1961: 11 {wo nicht leniert}
+w > ɸ /h_ Thurneysen 1946: 84f. {oder h > ɸ /_w>0?}
+h > 0 /_ɸ Thurneysen 1946: 84f.
+h > 0 /V_V Thurneysen 1946: 84 {vor Synkope}
+ɸ > 0 /#s_ {Lewis & Pedersen 1961: 18f.}
+j > 0 /#_ Lewis & Pedersen 1961: 13
+j > i /C_V Lewis & Pedersen 1961: 15f.
+w > 0 /C_ Thurneysen 1946: 124
+w > 0 /ī,̆ē_ Thurneysen 1946: 124
+p > ɸ; t > θ; k > x /V_(l,r,n,w)V Thurneysen 1946: 74, 76g. {2./3.Lenierung}
+x > 0; ð > 0; ɣ > 0 /V>V̄_r,l,m,n Thurneysen 1946: 78f.
+ɸ > β; θ > ð; xʲ > ɣʲ; x > ɣ /V_# Thurneysen 1946: 82f.
+ɸ > β; θ > ð; x > ɣ /V _V Thurneysen 1946: 81f.
+C > Cʲ /#,V[-back]_V[+front] Thurneysen 1946: 102f. {/a/ = [-back], /a:/ = [+back]!}
+C[+cor] > Cʲ /V[+back,-low]_V[+front] Thurneysen 1946: 97f. {/a:/ = [+back,+low]!}
+C > Cʲ /_CʲV>0 Thurneysen 1946: 99f.
+θ > θʲ /ī,̆ē,̆u_ḻʲ, ṟʲ Thurneysen 1946: 100f.
+m > mʲ /_bʲ, pʲ, ḻʲ, ṟʲV Thurneysen 1946: 100f.
+n > ṉʲ /_dʲ,ṯʲ,gʲV Thurneysen 1946: 100f.
+n > nn; l > ll /m,l,r,nV _$ Thurneysen 1946: 89
+θ > t /l,n,s Thurneysen 1946: 88 {nach Synkope}
+C > Cʲ /Cʲ_; Cʲ > C /C_ Thurneysen 1946: 98f. {nach Synkope}
+kʷ > k; gʷ > g; xʷ > x; ɣʷ > ɣ /#_ {nach Synkope}
+h > R /_R Thurneysen 1946: 93-96 {nach Synkope}
+Þ > T /T Thurneysen 1946: 86f. {nach Synkope}
+ɸɸ > pp; θθ > tt; xx > kk; ββ > bb; ðð > dd; ɣɣ > gg /_ Thurneysen 1946: 86 {nach Synkope}
+Ð > Þ /Þ Thurneysen 1946: 86f. {nach Synkope}
+Ð > D /D Thurneysen 1946: 86f. {nach Synkope}
+ð > d /l,n Thurneysen 1946: 88 {nach Synkope}
+d > l /l_ Thurneysen 1946: 95
+d > t /_h Thurneysen 1946: 116 {nach Synkope}
+C: > C /_ Thurneysen 1946: 89ff.
+
+mir.
+ðʲ > ɣʲ; ð > ɣ /_ Thurneysen 1946: 77
+θ > h /_ Thurneysen 1946: 76f.
+
+g-nir.,sch.-gäl.,manx
+ŋ > 0 /V>V̄_n O’Rahilly 1972: 183
+
+nir.
+β̃ > β /V>Ṽ_ Thurneysen 1946: 85; Lewis & Pedersen 1961: 54f.
+kʲ > c; gʲ > ɟ; xʲ > ç; ɣʲ > ʝ /_
+sʲ > ʃ /_
+nn > n /V̆[-acc]_ O’Rahilly 1972: 204f.
+p > pʰ; t > tʰ; k > kʰ /#_'V O’Rahilly 1972: 148f. {wohl nicht phonologisch}
+
+nir.,manx
+nn > n; ll > l; rr > r /V>V̄_
+
+nir.,sch.-gäl.
+rṟʲ > rr /_ O’Rahilly 1972: 204f.; Ternes 1989: 23
+ṟʲ > r /_sʲ O’Rahilly 1972: 206
+
+nir.dial.{-U.}
+hR > Rh /_ O’Rahilly 1972: 208f.
+
+nir.kil.,dial.m.
+nṉʲ > ŋŋʲ /_ O’Rahilly 1972: 184; 205
+
+nir.dial.Ring
+ł > ɣ ~ ʁ /_ Breatnach 2001: 50ff.
+
+nir.dial.w-m.
+ŋʲ > ṉʲ /V̀_
+
+n-nir.
+hʲ > ç /{-#}_ O’Rahilly 1972: 207;209
+ç > 0; h > 0 'V̄_#; /V̀_ O’Rahilly 1972: 207
+ɣʲ > 0 /V>V̄_ O’Rahilly 1972: 54
+ɣ > β /V_# O’Rahilly 1972: 66f.
+βʲ > vʲ /V_V
+β > w /_ O’Rahilly 1972: 211
+ṉʲ > nṉʲ; ḻʲ > lḻʲ /_ O’Rahilly 1972: 205
+
+n-nir.,sch.-gäl.
+sʲ > s /r_ O’Rahilly 1972: 206
+
+n-nir.,sch.-gäl.dial.,manx
+w > 0 /ə>u_# O’Rahilly 1972: 66ff.; 76f.
+ŋŋ > nn /V̀_ O’Rahilly 1972: 184
+h > 0 /'V_ O’Rahilly 1972: 208
+n > r /#k,g,m,t_ O’Rahilly 1972: 22f.; Russell 1995: 64
+ṯʲ > ṯʃ; dʲ > ḏʒ /_ O’Rahilly 1972: 203f.
+
+n-nir.dial.u.,sch,-gäl.,manx
+βʲ > β /V_# O’Rahilly 1972: 79
+
+n-nir.u.,c.
+βʲ > 0 /i>i:_# O’Rahilly 1972: 76f.
+
+n-nir.dial.u.
+R > R̥ /h>0_ O’Rahilly 1972: 208f.
+
+n-nir.dial.s-/so-u.
+h > 0 /_t O’Rahilly 1972: 210
+
+n-nir.dial.U.N-Meath
+x > h /{-#}_ O’Rahilly 1972: 210
+
+n-nir.u.{-don.}
+ŋ > 0 /V>Ṽ:_V O’Rahilly 1972: 183
+
+s-nir.
+βʲ > 0 /V_V O’Rahilly 1972: 24ff.
+ɣ > 0 /V_# O’Rahilly 1972: 65f. {Ausnahmen bei Verben}
+x > h /#_ O’Rahilly 1972: 210f.
+ç > h /{-#}_ O’Rahilly 1972: 207; 209
+
+s-nir.{-mu.}
+β > 0; βʲ > 0 /V_# O’Rahilly 1972: 76f.
+
+s-nir.dial.Laighin,King's
+ɣʲ > 0 /_ O’Rahilly 1972: 54
+
+s-nir.dial.mu.
+ɣʲ > gʲ /_ O’Rahilly 1972: 53f.
+
+s-o-nir.
+h > x /V(σ1)_# O’Rahilly 1972: 207
+
+manx,sch.-gäl.
+p > pʰ; t > tʰ; k > kʰ /#_'V O’Rahilly 1972: 148f.; Russel 1995: 63f.
+b > b̥; d > d̥; g > ɡ̊ /{-N(#)}_ O’Rahilly 1972: 153f.; Russel 1995: 63f.
+p > ʰp; t > ʰt; k > ʰk /'V_# O’Rahilly 1972: 148f.; Russel 1995: 63f.
+β > v; βʲ > vʲ /_ O’Rahilly 1972: 211
+p > b; t > d; k > g; pʰ > bʰ; tʰ > dʰ; kʰ > gʰ /N_ O’Rahilly 1972: 153f.
+
+manx
+β > 0; ð > 0; ɣ > 0 /{-#}_ O’Rahilly 1972: 117
+f > 0; θ > 0; xʲ > 0 /{-#}_ O’Rahilly 1972: 117
+ɣʲ > 0 /V>V̄_ O’Rahilly 1972: 57
+b > v; d > ð; g > ɣ /V_V O’Rahilly 1972: 118; Russel 1995: 64
+h > 0 /V_ O’Rahilly 1972: 208
+m > bm; n > dn; ŋ > gŋ /#C₀V̄>V̆_#
+p > b; t > d; k > g /V_V O’Rahilly 1972: 118; Russel 1995: 64
+ʃ > ʒ /V_V O’Rahilly 1972: 118
+k > t /{-#}s_ O’Rahilly 1972: 117
+r > s /_s O’Rahilly 1972: 118
+
+manx,sch.-gäl.dial.
+ʰT > h+T /_ O’Rahilly 1972: 184; 205
+
+sch.-gäl.
+ɣʲ > 0 /'V>V̄_ O’Rahilly 1972: 57
+ɣʲ > xʲ /V̀_ O’Rahilly 1972: 56f.; Russell 1995: 62 {vor ðʲ > γʲ!}
+h > 0 /'V_ O’Rahilly 1972: 208f.
+t > k /x_ O’Rahilly 1972: 150
+ll > l /_ O’Rahilly 1972: 206
+
+sch.-gäl.dial.
+ŋ > ɣ /V>Ṽ_ O’Rahilly 1972: 183 {dial. vor γ > w}
+s > ṣˠ; n > ṇˠ; l > ł ̣/rˠ>ʵ_ Ternes 1989: 90-96
+ṉʲ > nṉʲ /_ O’Rahilly 1972: 206
+ṟʲ > r /_ O’Rahilly 1972: 205f.; Ternes 1989: 30f.
+h > ç /i_p,ṯʲ,kʲ Ternes 1989: 58
+h > x /V_k Ternes 1989: 58
+
+n-sch.-gäl.dial.
+ŋŋ > g /V _ O’Rahilly 1972: 184
+
+sch.-gäl.dial.arr.,w-r.,o-inv.
+ɣ > g /V_# O’Rahilly 1972: 68f.
+
+sch.-gäl.dial.bad.,inv.
+ɣ > 0 /V_# O’Rahilly 1972: 68f.
+
+sch.-gäl.dial.festl.
+Dʰ > D /_ Ternes 1989: 20ff.2
+
+sch.-gäl.dial.Lewis
+b > m; d > n; g > ŋ /ŋ#_ O’Rahilly 1972: 154
+
+sch.-gäl.dial.suth.,o-r.
+ɣ > w /V_# O’Rahilly 1972: 68f.
+
+s-sch.-gäl.
+w > 0 /V̄_V̆ O’Rahilly 1972: 211
