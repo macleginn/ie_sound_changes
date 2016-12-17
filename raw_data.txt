@@ -3065,3 +3065,352 @@ k > *c /_i,ie,ū; g > *ɟ /_i,ie Lausberg 1956: 9f., 13f. {nach ē > ai}
 *c > ṯʃ; ɟ > *ḏʒ /_ Lausberg 1956: 9f., 13f.
 *ḏʒ > dz /_ Lausberg 1956: 9f., 13f.
 d > ð; g > ɣ /V_ Lausberg 1956: 32f.
+
+g-z-/s-it.
+g > u̯ /_m Rohlfs 1949: 431
+*ɟ > j /V_'V Rohlfs 1949: 357f.
+*β > v /_ Rohlfs 1949: 282ff.; 348ff.
+p > pp; b > bb /_j Lausberg 1956: 61f.
+kʷ > k /#_V[+front] Rohlfs 1949: 276f.
+[*x > t; *ɣ > d /_d Rohlfs 1949: 427f.]
+
+g-z-/s-it.dial.{-abr.dial.}
+*l > ʎ /b,k,f,g,p_ Rohlfs 1949: 294ff.; Lausberg 1956: 20f.
+
+g-z-/s-it.dial.
+m > mm /V̄>V_ Rohlfs 1949: 368ff.
+mj > ɲɲ /_ Rohlfs 1949: 462f.
+C > C: /'V_σ₂ Rohlfs 1949: 377f.
+ɣ > j /_n Rohlfs 1949: 430f.
+n > ɲ /j_ Rohlfs 1949: 430f.
+ʎ > j /_ Rohlfs 1949: 367; 414ff.
+
+g-s-it.,s-z-it.
+b > m; d > n /Vn_ Rohlfs 1949: 418-422
+T > D /N_ Rohlfs 1949: 425ff.
+v > b /r_ Rohlfs 1949: 436f.
+g > ʎ /V_ʎ Rohlfs 1949: 414f.
+
+g-s-it.
+*c > ṯɕ /_ Rohlfs 1949: 451ff.; Lausberg 1956: 60 {altes *kj}
+ṯɕ(:) > ts(:) /_ Rohlfs 1949: 451ff.; Lausberg 1956: 60 {< *kj = *tj gegen neues ṯʆ < c}
+j > ç > c /p_; j > ʝ > ɟ /b_ Rohlfs 1949: 449f., 464f.; Lausberg 1956: 61f..
+c > ṯʆ; ɟ > ḏʓ /_ Rohlfs 1949: 254-257 {nach *kj > *c > ṯɕ > ts}
+ṯʆ > ʆ /ʆ_ Rohlfs 1949: 316f.; 441f. {nach *ṯɕ > ts, *c > ṯʆ}
+j > ç /f>ç_ Rohlfs 1949: 303f.
+pk > kk /_w Lausberg 1956: 64f.
+C > C: /_w>0 Lausberg 1956: 66
+
+g-s-it.{-abr.dial.}
+p > k /(s)_j Rohlfs 1949: 308f.; 417 {nach ʎ > j; weiter wie kj < kʎ}
+
+g-s-it.{-dial.}
+b > v; d > ð; ɟ > ʝ; g > ɣ /(V)#,V_(r)V Rohlfs 1949: 247-250, 257ff., 261ff. {bis Rom - Ancona}
+
+*g-s-it.dial.
+ɟɟ > ʝʝ > jj /V_V Rohlfs 1949: 457ff.
+ll > ḷḷ /_ Rohlfs 1949: 387-392
+ɣ > 0 {~ j ~ w) /#_ Rohlfs 1949: 262f.
+ɣ > 0 /_ʎ Rohlfs 1949: 305f.
+d > t; g > k /V_r Rohlfs 1949: 434
+
+g-s-it.dial.{-kal.dial.}
+*ḷḷ > ḍḍ /_ Rohlfs 1949: 387-392
+ɣ > 0 /V_r Rohlfs 1949: 434
+
+s-it.{-(s-kal.),o-luk.,(ap.)}
+ł > w /V_C[+cor] Rohlfs 1949: 403ff.
+
+n-s-it.
+x > ç; ɣ > ʝ /_C Lausberg 1956: 54
+
+n-s-it.,g-z-it.
+s̺> ʆ /ç>ʆ_ Lausberg 1956: 52
+
+n-s-it.,s-z-it.dial.
+T > D /l,r_ Rohlfs 1949: 407ff.
+l(:) > ʎ(:); n(:) > ɲ(:) /_'i,'u; /_i,u# Rohlfs 1949: 271f., 385f.
+
+n-s-it.dial.,g-z-it.
+s > ʃ /_j>0 Rohlfs 1949: 468-472
+
+n-s-it.dial.
+d > „t“; g > „k“ /_ Rohlfs 1949: 259, 263, 353, 356
+*ç > ʃ Rohlfs 1949: 414
+
+o-s-it.dial.
+ʝ > ʓ > ʆ /_ Rohlfs 1949: 265f.; 458 {nach ɟ/ʎ > j > ʓ}
+
+s-it.dial.,o-z-it.
+l > ʎ /_ɟ Rohlfs 1949: 440
+ɟ > ɲ /ɲ_; ɟ > ʎ /ʎ_ Rohlfs 1949: 423, 440
+
+s-it.dial.
+ββ > bb /_ Lausberg 1956: 6
+ʝ > n /_n Lausberg 1956: 53f.
+ʝ > j /_n Lausberg 1956: 53
+ʎʎ > ll /_ Lausberg 1956: 58
+b > v /r,l_ Rohlfs 1949: 437
+ð > r /#,V_V Rohlfs 1949: 258, 352f.
+d > t /V _V  Rohlfs 1949: 353, 377
+j > 0 /V_rV Rohlfs 1949: 467
+ʎ > dz /_ Rohlfs 1949: 271
+ʎ > j /_ Rohlfs 1949: 271f.; 305f.
+l > ł > w /#_ Rohlfs 1949: 271f.
+l > ł > w /V_V Rohlfs 1949: 366f.
+w > 0 /u_ Rohlfs 1949: 367
+l > r /V_C[-cor] Rohlfs 1949: 403ff. {nach l > w}
+ts > dz /#_ Lepschy 1986: 82
+p > b; t > d; k > g /'V_σ₂ Rohlfs 1949: 333, 336, 377 {sporad.}
+n > m /_f Rohlfs 1949: 426f.
+f > p /m_ Rohlfs 1949: 426f. {teilweise vor T > D /N_}
+s̺> ʃ /_kj Rohlfs 1949: 314, 317
+j > 0 /ʃk_ Rohlfs 1949: 314, 317
+s̺> ʃ /_ṭṛ Rohlfs 1949: 443
+ṭṛ > ʃ /ʃ_ Rohlfs 1949: 443
+ḍḍ > ɟɟ /_ Rohlfs 1949: 388f.
+ḍḍ > dd /_ Rohlfs 1949: 388f.
+f > h /#_ Rohlfs 1949: 260
+
+s-it.(s-)kamp.dial.
+s̺> ʃ /_k,p Rohlfs 1949: 314
+
+s-it.abr.
+b > v /#_l Rohlfs 1949: 297 {nur regulär}
+ʎ(:) > ḍ(:) /_ Rohlfs 1949: 271, 388f., 391
+ll > ḷḷ > ḍḍ /_i,u Rohlfs 1949: 391
+ll > ddz /_ Rohlfs 1949: 391f. {über ʎʎ?!}
+
+s-it.abr.,s-ap.
+s̺> ʃ /_t Rohlfs 1949: 314
+
+s-it.abr.dial.
+ʎʎ > jj /_ Rohlfs 1949: 461f.
+l > j /V_C Rohlfs 1949: 406
+
+s-it.abr.,z-it.röm.
+b > j /_j Rohlfs 1949: 450f.
+
+s-it.dial.abr.,kal.
+l > r /#T_ Rohlfs 1949: 297, 300, 304, 306f., 310f.
+
+s-it.dial.kal.
+f > p /#s_ Rohlfs 1949: 318
+
+s-it.dial.kal.,luk.
+w > gʷ > g /#_ Rohlfs 1949: 272, 366 {aus *l!}
+
+s-it.dial.n-kal.,siz.
+l > r /V_V Rohlfs 1949: 368
+
+s-it.dial.siz.,kamp.
+l > n /V_C[-cor] Rohlfs 1949: 407
+
+s-it.dial.,z-it.tosk.dial.
+rj > jr /_ Rohlfs 1949: 465ff.; Lausberg 1956: 59
+
+s-it.isch.
+ð > l /#,V_V Rohlfs 1949: 258, 353f.
+
+s-it.n-kal.,s-luk.dial.
+s > z /V(#)_V Rohlfs 1949: 342
+
+s-it.n-kal.dial.
+l > ð /V,#_V Rohlfs 1949: 272, 367
+
+s-it.n-kamp.dial.
+β > w /#_ Rohlfs 1949: 282
+
+s-it.tar.
+ɣ > j /#_r, /V_V Rohlfs 1949: 308, 356
+
+s-s-it.
+[p > s; x > s /_s]
+ɣ > w /_n Lausberg 1956: 53
+
+s-it.dial.,z-it.tosk.dial.
+ʎʎ > ɟɟ /_ Rohlfs 1949: 414f.
+
+s-it.s-apul.
+ʎʎ > j /_ Rohlfs 1949: 462 {nach j > ʃ}
+
+s-it.Scanno
+ʎ > dz /V_V Rohlfs 1949: 367
+
+s-it.siz.
+v > 0 /#_V[+round] Rohlfs 1949: 284
+r > rr /#_ Rohlfs 1949: 278
+
+s-it.siz.,s-kal.
+ts > dz /_{-:} Lepschy 1986: 82
+
+s-it.siz.,kal.
+dd > ḍḍ /_i,u Rohlfs 1949: 259f.
+
+s-it.siz.,kal.,s-ap.
+t > ṭ; d > ḍ /_r Rohlfs 1949: 302, 318, 433
+g > ŋ /ŋ_ Rohlfs 1949: 422f.
+
+s-it.siz.dial.
+r > j /V_C[-cor]>C: Rohlfs 1949: 438f.
+l > j /V_C[-cor] Rohlfs 1949: 406
+
+s-it.so-siz.
+k > ṯʃ (> ʃ) /#_j>0 Rohlfs 1949: 299
+
+s-it.siz.,kal.dial.
+ḏʒ > ṯʃ /ɲ_ Rohlfs 1949: 424f.
+
+s-it.kal.dial.
+f > 0 /#_j Rohlfs 1949: 303
+f > h /V_V Rohlfs 1949: 360
+
+s-it.s-kal.
+l > r /V_C Rohlfs 1949: 404
+ḍ > *ḷ > ʎ /V_V Rohlfs 1949: 388f.
+ḍ > ṛ /_ Rohlfs 1949: 388f.
+ḍ > ɟ /_ Rohlfs 1949: 388f.
+ɟ > ʝ > j /_ Rohlfs 1949: 388f.
+ɟ > ʒ /_ Rohlfs 1949: 388f.
+ḍ > d /_ Rohlfs 1949: 388f.
+
+s-it.s-lat.,w-abr.
+l > j /n,r_ Rohlfs 1949: 416 {nach Synkope}
+
+s-it.dial.s-lat.,kamp.
+l > r /V _V  Rohlfs 1949: 368
+
+s-it.s-lat.
+n > ɲ /_i Rohlfs 1949: 371
+
+s-it.dial.s-lat.,abr.,n-kamp.
+ð > 0 /V(#)_V Rohlfs 1949: 259, 352f.
+
+s-it.siz.,kamp.,z-it.march.
+s̺> ʃ /_k Rohlfs 1949: 314
+
+s-it.n-kal.,siz.,kamp.dial.,z-it.n-/s-z-z-it.tosk.dial.,lat.dial,umbr.
+s̺> ʃ /_p,t,k Rohlfs 1949: 314
+
+s-it.dial.,z-it.pis.,liv.,lucc.
+r > l /V_C Rohlfs 1949: 439
+
+s-it.siz.dial.,z-it.tosk.,lat.
+ṯʆ > ʆ /V(#)_V Rohlfs 1949: 255, 346; Lausberg 1956: 39f.
+
+g-z-it.
+c(:) > ṯʆ(:); ɟ(:) > ḏʒ(:) /_ Rohlfs 1949: 254f., 264, 451
+ṯʆ > ʆ /ʆ_ Rohlfs 1949: 316f.; 441f.
+C > C: /_ʎ,j
+
+z-it.dial.
+s̺> ʃ /_i,e Rohlfs 1949: 280 {sporad.}
+rr > r /(V>V̄)_ Rohlfs 1949: 395f.
+
+z-it.dial.tosk.,umbr.
+gʎ > ɟɟ /V_ Rohlfs 1949: 414f.
+l > r /V_C Rohlfs 1949: 402
+l(:) > ʎ(:); nn > ɲɲ /_'i,i# Rohlfs 1949: 384f., 394
+
+z-it.tosk.
+*ɟ > dz /C_ Rohlfs 1949: 456
+p > v; t > d; k > g /V_(r)V Rohlfs 1949: 321f.; 327f., 334, 432 {sporad., nordit. Einfluss}
+s > z /V_V Rohlfs 1949: 338ff. {sporad., nordit. Einfluss}
+tsʲ > ṯʆ > ʃ /ʃ_ Rohlfs 1949: 479
+b > bb /V_r Rohlfs 1949: 435
+r > j /V_j{-i} Rohlfs 1949: 465
+l > ʎ /V_i Rohlfs 1949: 363
+
+z-it.tosk.dial.
+k > x; g > ɣ /V(#)_ Villafaña Dalcher 2006: ch. 6 {besonders früh und weiter verbreitet}
+b > β; d > ð; ḏʒ > ʒ; g > ɣ /V(#)_ Rohlfs 1949: [351, 355], 468f.; Lausberg 1956: 33 Anm. 1; Lepschy 1986: 319f.; Villafaña Dalcher 2006: ch. 6 Anhänge 382
+p > ɸ; t > θ; k > x /V(#)_V Rohlfs 1949: 322ff., 328f., 334f.; Lausberg 1956: 30f., 32f., 41f.
+ð > r /V_V {sporad.} [Rohlfs 1949: 351]
+ɣ > 0 /V_V {sporad.} [Rohlfs 1949: 355]
+?ɸ > pʰ; θ > tʰ; x > kʰ /V(#)_V Rohlfs 1949: 322ff., 328f., 334f.; Lausberg 1956: 30f., 32f., 41f.
+θ > h /V_V Rohlfs 1949: 328f.
+x > h /V_V Rohlfs 1949: 322
+h > 0 /V_V Rohlfs 1949: 322
+l(:) > ʎ(:); nn > ɲɲ /_i Rohlfs 1949: 384, 394
+
+z-it.pis.lucc.
+l > w /V_C Rohlfs 1949: 402
+
+z-it.röm.,s-umbr.
+j > 0 /Vr_ Rohlfs 1949: 465
+
+z-it.march.dial.
+s̺> ʃ /_ Rohlfs 1949: 313 {sporad.}
+
+z-it.march.,umbr,lat.,n-kors.
+p > b; t > d; k > g /V_(r)V Rohlfs 1949: 336f.
+
+z-it.kors.
+s̺> ʃ /_t Rohlfs 1949: 314
+f > v /V_ Rohlfs 1949: 360
+
+z-it.n-kors.
+ṯʆ > ḏʓ; s > z /V_V Rohlfs 1949: 341, 347
+
+z-it.liv.,kors.dial.
+s > ɬ /_t,k Rohlfs 1949: 443
+
+g-wrom.
+*x > ç /V_t,s,l; *ɣ > ʝ /V_n,l Lausberg 1956: 54; Fouché 1961: 716f.
+l > ʎ /Vç,ʝ_ Lausberg 1956: 47f.
+*ç > ʎ; *ʝ > ʎ /_ʎ Lausberg 1956: 47f.
+j > ɲ /ɲ; j > ʎ /ʎ Lausberg 1956: 53, 57f.
+rj > jṟʲ /_ Lausberg 1956: 59; Fouché 1961: 916; 922 {Zwischenstufe *jrj?}
+*c > ɟ /V _V ; /'V_σ2 Fouché 1961: 626-629 {relativ früher als sonst, fällt mit altem *g zusammen}
+kʷ > gʷ /V_V Fouché 1961: 723
+f > v /V_V Fouché 1961: 611f.; Badia i Margarit 1994: 190
+c > ṯɕ /'V; /C_ [Williams 1938: 60]; Lausberg 1956: 9f.
+ɸ > s; ɸ > t /_t Lausberg 1956: 50; Badia i Margarit 1994: 209f.
+d > ð; g > ɣ /V_[+voice] Lausberg 1956: 33f.
+tsʲ > ttsʲ /_j>0 {sporad. vor tsʲ > dzʲ}
+n > 0 /V _# Lausberg 1956: 78f.; Fouché 1961: 652f.
+
+g-wrom.{-frz.pik,wall.,lothr.}
+w > gʷ /#_ Lausberg 1956: 7; Fouché 1961: 559-566 {Lautersatz in germ. LW}
+
+g-wrom.{-span.pyr.}
+p > b; t > d; tsʲ >; ṯɕ > ḏʑ; k > g /V_[+voice] Williams 1938: 66ff.; Rohlfs 1949: 325f., 329f., 335f., 347f., 476f.; Lausberg 1956: 29, 40; Garcia de Diego 1959: 221-225; Fouché 1961: 600; 922f.
+s̺> z̺/V_[+voice] Williams 1938: 69; Rohlfs 1949: 341; Lausberg 1956: 38, 57
+
+g-wrom.{-rätor.dial.}
+ʝ > ɟ /#_ Williams 1938: 60; Lausberg 1956: 17
+
+*g-wrom.{-span.}
+c > cc /_j>0 Lausberg 1956: 59f.; [Fouché 1961: 911] {vor Lenierungen}
+s̺> ʆ /_ṯɕ Lausberg 1956: 49; Fouché 1961: 848f.
+*ṯɕ > ʆ /s>ʆ_ Lausberg 1956: 49; [Garcia de Diego 1959: 65; 158; 180; 249; Fouché 1961: 848f.]
+
+g-n-it.
+ɟ > ḏʒ /V_V Rohlfs 1949: 358
+g > u̯ /_m Rohlfs 1949: 431
+k > c /_j>0 Rohlfs 1949: 299f.; 410f.
+g > ɟ /_j>0 Rohlfs 1949: 305; 410f. {nach w-n-it. k > g}
+l(:) > ʎ(:); nn > ɲɲ /_i Rohlfs 1949: 384, 394
+gʎ > ɟɟ /V_ Rohlfs 1949: 415
+C: > C /_ Rohlfs 1949: 380ff.
+ts > dz /#_ Lepschy 1986: 82
+
+g-n-it.{-no-lomb}
+l > ʎ > j /b,k,f,g,p_ Rohlfs 1949: 296f., 299f., 303, 305, 308f.; Lausberg 1956: 20f.
+
+g-n-it.,g-gallor.
+kʷ > k /#_V[+front] Lausberg 1956: 22f.
+
+g-n-it.,g-rätor.
+*b > β; *d > ð; *g > ɣ /V_ Lausberg 1956: 29f., 33f., 37f., 42f.; Haiman & Beninca 1992: 71f.
+
+g-n-it.,g-rätor.,g-gallor.{-okz.dial,}
+p > pp; b > bb /_j Lausberg 1956: 62
+β > v /_ Rohlfs 1949: 282, 348; Lausberg 1956: 6, 35f.
+
+g-n-it.,g-rätor.,frz.,frpr.
+ll > l /V̄_ Lausberg 1956: 68
+
+g-n-it.dial.
+c > ṯʆ; ɟ > ḏʓ /_ Rohlfs 1949: 299f., 305, 415,
+mj > ɲɲ /_ Rohlfs 1949: 463
