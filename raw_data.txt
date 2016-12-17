@@ -2111,3 +2111,109 @@ ṯʃ > ts /V_V Skjærvø 1989a: 366
 w > v /#_ Skjærvø 1989a: 366
 f > hv /V_ Skjærvø 1989a: 366
 ts > s /V_V Skjærvø 1989a: 366
+
+*vorurarm.
+*ŋ > w > u̯ /a_gw(ɦ) Meillet 1936: 37; Winter 1962: 257f.= 2005: 557f. {vor *n̥ > *an}
+*k > kh /_h>0
+?*k > *c /#,Vs_
+*“k“ > *c; *“g“ > *ɟ; *“gɦ“ > *ɟɦ bzw. *kw > *k; *gw > *g; *gwɦ > *gɦ /u,u̯ [Winter 1962: 257f. = 20̑05: 557f.]; Huld 1997b: 130f.; vgl. IV.2.B.3
+*“k“ > *c; *“g̑“/g > *ɟ; *“g̑ɦ“/gɦ > *ɟɦ /_
+?*“k“/q > *k; *“g“/ɢ > *g; *“gɦ“/ɢɦ > *gɦ Huld 1997b: 130f.
+*c > *ṯɕ; *ɟ > *ḏʑ; *ɟɦ > *ḏʑɦ /_ Meillet 1936: 28f., 30
+*ṯɕ > *ɕ /{-s}_ Meillet 1936: 30
+/r/ > [ɾ] /{-s}_{-n,s} Dressler 1976: 3410ff.; Praust 2006: 156 Anm. 42
+/r/ [r] > /r/ /s>0 Meillet 1936: 46
+*s > *h /#_(w)V; /V_X[+voice] Meillet 1936: 30f.,38f. *ṯɕ > ts; *ḏʑ > dz; *ḏʑɦ > dzɦ; *ɕ > s /_{-w} Meillet 1936: 27-30; Praust 2006: 155 Anm. 40
+*kh> x /_
+*p > ph; *t > th; *k > kh; *kw > kwh /{-s}_ Meillet 1936: 25f.; 32f. {LV I}
+*ts > tsh /(s>0)_ Meillet 1936: 25f.; 32f. LV I
+
+*urarm.
+*h > 0 /V_V
+*w > *g /u_V Rasmussen 1989b: 158f. {nach s > 0; vor D > T}
+*b > *p; *d > t; *dz > ts; *g > k; *gw > *kw /_ Meillet 1936: 25f.,28f. {LV II}
+*kwh > *ch; gwɦ > ɟɦ /_e,i,j Meillet 1936: 28 [pace Meillet 1936: 30]
+*ɟɦ > gɦ /N_ Meillet 1936: 31 {oder Erhaltung?}
+*w > *γw /_ Meillet 1936: 48ff.; Olsen 1999: 786
+*γw > γ /#_; /V_o,a Meillet 1936: 48ff.
+*j > *ɟɦ /#_; /R_ Meillet 1936: 51f.
+*ch > *ṯɕh; *c > *ṯɕ; *ɟɦ > *ḏʑɦ /{-N}_ Meillet 1936: 28; Praust 2006: 155 Anm. 40
+*x > χ /_ {vor *k > x}
+
+*urarm.{-dial.}
+*Th > *Dɦ /N_ Meillet 1936: 31; Winter 1955 = 2005: 549-553; 1966: 205f. = 2005: 583-584 {vor Th > Þ}
+
+aarm.,g-arm.
+*Th > *Dɦ /#_V̀ Meillet 1936: 33f. {in Pronomina}
+*Th > *Dɦ /L_ Meillet 1936: 31; Winter 1955 = 2005: 549-553
+*bɦ > *β; *dɦ > *ð /V_V Meillet 1936: 27
+*ḏʑh > ʑ; *dzɦ > z /V_ Meillet 1936: 27f.
+*dɦ > ḏʑɦ /_j Winter 1962: 261 = 2005: 561; 1997: 350 = 2005: 609
+*ṯɕh > ṯʃh; *ḏʑɦ > ḏʒɦ; *ɕ > ʃ; *ʑ > ʒ /(e>ei)̯ _ Meillet 1936: 28; Praust 2006: 155 Anm. 40
+*ph > ɸ; th > θ; kh > *x; *kwh > *xw /_ Winter1954= 2005: 544-548; 1955 = 2005: 549-553
+*ð > ɾ /V_V Jasanoff 1979: 144f.; Praust 2006: 150-156 [vgl. Klingenschmitt 1982: 19; Matzinger 2005: 59 Anm. 256; 114f.] {auch in LW}
+*ɸ > *β; *θ > *ð; *x > *γ /V_ [Meillet 1936: 31ff.; Winter 1955 = 2005: 549-553]
+*θ > *x /_w
+*γw > xw /h>0_ [Meillet 1936: 50f.]
+*h > x /?_# Meillet 1936: 56
+*w > 0 /s>ʃ_
+*n > 0 /_S,Þ Winter 1954: 199 = 2005: 546
+*m > w /u,o Olsen 1999: 792f.
+m > n /_# ̀ Olsen 1999: 794 {nach *N̥ > aN}
+*dɦ > 0 /Vn_ [Meillet 1936: 33, 57]
+*γw > w /V_e,i Olsen 1999: 787-790
+*ɸ > h; *θ > h; *x > h /#_V̀, /#_ Meillet 1936: 34; Winter 1955 = 2005: 549-553; 1966: 203f. = 2005: 581f.; 1983: 179-181 = 2005: 592-94 {in Pronomina und sonst sporad.}
+*ɸ > ph; *θ > th /#_, /R_ Winter 1954 = 2005: 544-548; 1955 = 2005: 549-553; 1966: 203f. = 2005: 581f. {sporad.}
+*x > kh /#_; /_#? [Meillet 1936: 29,34, 56f.]; Winter 1954 = 2005: 544-548
+*xw > *kwh /#_ [Meillet 1936: 50f.] Winter 1954 = 2005: 544-548; 1955 = 2005: 549-553
+*γw > gwɦ /#_; /V_o,a Olsen 1999: 787-790; Garrett 1998: 14f. {vor Cw > C}
+*Cw > C /_ [Meillet 1936: 49]
+*ɸ > w; *θ > w; *x > w /V_C Winter 1955 = 2005: 549-553; 1962 = 2005: 554-562
+*l > ḻj; *n > ṉj /ă_j; /ă_i(C0)# [Olsen 1999: 795-798]
+*ð > j /V_V Winter 1955 = 2005: 549-553; 1962 = 2005: 554-562 {aber nach Viredaz 2002: 6f. nur Hiattilger}
+*β > w /V_ Meillet̆ 1936: 27; 31f.
+*ð > w /o_V; /V_a,o,u [Meillet 1936: 27; 32f.]
+*γ > j /V_V Winter 1955 = 2005: 549-553; 1962 = 2005: 554-562 {silbischer Resonant = V}
+*j > 0; *w > 0 /V_V Meillet 1936: 52; Olsen 1999: 787- 790; Viredaz 2002: 1f. mit Anm. 1
+*l̩>al;*r̩>ar;*m̩ >am;*n̩>an/_Winter 1962: 261 = 2005: 561 {spät}
+*h > 0 /#_ Meillet 1936: 30f.,38f. {sporad.,nach ɸ > h}
+*h > 0 /V_V Meillet 1936: 30f., 38f.
+*ṉj > j /{a}_V [Olsen 1999: 795-798]
+*ḻj > jl; *ṉj > jn /_ [Olsen 1999: 795-798] Winter 1962: 261f. = 2005: 561f. {nach ṉj > j /V_?}
+*ḏʒ > jḏʒ /V_j>0 Winter 1962: 261 = 2005: 561; 1997: 350 = 2005: 609
+ll > ł /_ [Meillet 1936: 48] {nach ln > ll}
+l > ł /_$ Meillet 1936: 46f.
+
+marm.
+Dɦ > Th /r_ Karst1901:83f.
+T > D /N_ Karst 1901: 75-80
+r > 0 /_h,S,Th Karst 1901: 81f. {sporad.}
+ł > γ /_ Karst 1901: 99
+
+g-arm.
+x > χ; γ > ʁ /_
+ɾ > ɾ̣ /_[+cor] Vaux 1998: 19
+
+o-arm.dial.
+Dɦ > Th /_# Karst 1901: 83f.; Vogt 1958: 146
+
+o-arm.VI
+Dɦ > D /_ Vogt 1958: 145; Pisowicz 1976a: 209-212; Vaux 1998: 10f. {dial. nach V[+back]>[+front] /Dɦ_}
+
+o-arm.II.dial.
+T > T’ /_ Vogt 1958: 145; Pisowicz 1976b: 18f., 66
+
+w-arm.,o-arm.II,(VI-VII)
+Dɦ > Th /V(L)_ Vogt 1958: 145; Pisowicz 1976a: 199- 203; 209-216
+
+w-arm.IV,o-arm.VII
+Dɦ > T /{-N}_ Vogt 1958: 145; Pisowicz 1976a: 205-208; 212-216; Vaux 1998: 10f. {dial. nach V[+back]>[+front] /Dɦ_}
+
+w-arm.I,III-V
+T > D /_ Karst 1901: 75-80; Vogt 1958: 145; Pisowicz 1976a: 198f., 203-209
+
+w-arm.III
+Dɦ > D /#_ Vogt 1958: 145; Pisowicz 1976a: 203ff.
+
+w-arm.V
+Dɦ > Th /{-N}_ Vogt 1958: 145; Pisowicz 1976a: 208f.
