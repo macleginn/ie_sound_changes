@@ -2662,3 +2662,406 @@ s > 0 /_p,t,k>ph,th,kh Thumb 1910: §29 Anm. 1; 35 Anm. 3
 l > *ł > 0 /_a,o,u Thumb 1910: §32
 t > c; d > ɟ /_i [Thumb1910:§16Anm.2]
 ç > ɕ /_ Thumb 1910: §21
+
+*urital.
+*Kʷ > K /_C Sommer 1910: 187; Meiser 1998: 124f.
+*w > 0 /p,b,bʱ,m_ Meiser 1986: 185; 2003: 31
+*w > 0 /#_r,l Sihler 1995: 179; Meiser 1998: 111f.
+*p > *kʷ /_VC₀$kʷ Meiser 1986: 38; 1998: 97f.
+*d > j; *g > j /V_j Meiser 1986: 38; 1998: 120; 2003: 31
+*bʱ > β; *dʱ > ð; *gʱ > ɣ; *gʷʱ > ɣʷ /{-#}_ Meiser
+1986: 37; 1998: 101f.; 2003: 31; Stuart-Smith
+2004: 196-201, 203f. {Chronologie umstritten}
+*bʱ > pʰ; dʱ > tʰ; gʱ > kʰ; gʷʱ > kʷʰ /#_ Meiser
+1986: 37; 1998: 101f.; Stuart-Smith 2004: 196-203
+*j > 0 /V_V Meiser 1986: 38; 1998: 91; 2003: 31
+*m > n /_j Meiser 1986: 38; 1998: 120; 2003: 31
+k > g /_n Meiser 2003: 31
+*pʰ > f; *tʰ > *θ; *kʰ > *x; kʷʰ > *xʷ /#_ Meiser 1986: 37; 1998: 101f.; 2003: 31; Stuart-Smith 2004: 196-203
+*s̺ > z̺ /[+voice] Meiser 1998: 112; 119; 2003: 31
+s > *θ; z > *ð /_r Meiser 1998: 112, 119; [Stuart-Smith 2004: 216f.]
+*x > *xʷ /_u
+k > x /n_t Meiser 2003: 31
+t > k /{-s}_l Meiser 1986: 37; 1998: 123
+t > 0 /ts_{-r} Meiser 1986: 37; 1998: 124
+ts > ss /_ Meiser 1998: 124; 2003: 31
+dz > z /_T [Meiser 1998: 124] {vor *dʰ > *tʰ?}
+?*x > *ɣ /#_l,r
+
+*g-ital.
+*ɣ > *β /r_V J. T. Katz 1998b: 205-210; Stuart-Smith 2004: 218
+*xʷ > f /_ [Meiser 2003: 31]; Stuart-Smith 2004: 209f.
+*θ > f /_; *ð > v /_r [Meiser 2003: 31]; Stuart-Smith 2004: 213-218
+*z̺ > r /_w Meiser 1986:183f.; 1998: 117; 2003: 31
+*β > b; *ð > d; *ɣ > g; *ɣʷ > gʷ /n_ Meiser 1986: 75ff.; 2003: 31; Stuart-Smith 2004: 211 {nach umbr. ND > N!}
+
+venet.
+*b > β; *d > ð; *g > ɣ /V_ Rix 1997: 241ff. {umstritten}
+*gʷ > w /_
+x > h /#_
+m > n /_# Lejeune 1974: 140f.
+k > x /_s,t [Lejeune 1974: 142f.]; Rix 1997: 242
+ts > ss /V_# Lejeune 1974: 147, 152
+?s > ss /{-V}_# Lejeune 1974: 153f.
+w > s /s_ Lejeune 1974: 133
+n > s /V_s# Lejeune 1974: 152
+
+*venet.dial.
+h > 0 /_ Lejeune 1974: 148ff. {seit Este-III}
+t > ts /_j>0 Lejeune 1974: 152 {‹tś›, sporad., jung: Este-IV}
+
+*ursab.
+x > h /#_; ɣ > ɦ ~ h /_Stuart-Smith 2004: 207f.
+*β > v; *ð > v /_ Stuart-Smith 2004: 206
+*kʷ > p; *gʷ > b; *ɣʷ > β /_ Meiser 1986: 79f.; Stuart-Smith 2004: 210
+b > m /m_; d > n /n_ Meiser 1986: 93f. {vor g-ital. Dʰ/Ð > D /N_!}
+p > f; k > x /_s,t Meiser 1986: 92f.
+k > g /n_l Meiser 1986: 95
+t > k /_n Meiser 1986: 96
+f > s /_s Meiser 1986: 169f.
+s ̺> f /n_ Meiser 1986: 98ff., 164
+n > 0 /_f#, /_xt Meiser 1986: 98ff.
+
+spik.
+d > h /V_#
+n > 0 /V_h#
+
+osk.
+[0 > t /n_s Buck 1904: 72]
+n > l /_l Buck 1904: 70
+[x > s /_s$ = /_s#, /_sC Meiser 1986: 169-172]
+n > 0 /_s>s:# Buck 1904: 72 {präsynkopal}
+d > 0 /#_j Buck 1904: 84 {früh}
+w > 0 /d_ Meiser 1986: 185f. {fraglich}
+n > 0 /V>Ṽ_t Buck 1904: 70f.
+t > 0 /s_m,l Buck 1904: 87
+p > m /_m Buck 1904: 79
+[x > 0 /l,n_t Buck 1904: 91f.]
+C > CC /_j Buck 1904: 66, 99
+C > CC /_r,w Buck 1904: 99
+s > ss /_t Buck 1904: 99
+s > r /r_ Buck 1904: 76 {nach Synkope}
+z > 0 /V>V̄r_ Buck 1904: 76; Meiser 1986: 172f.
+
+osk.bant.
+j > "s" /t,k_; j > "z" /d_ Buck 1904: 66 {‹s›, ‹x›, ‹z›}
+
+umbr.
+n > l /_l Meiser 1986: 168f.
+l > n /_n Meiser 1986: 164-168
+[f > s /_s; x > s /_s Meiser 1986: 169-172]
+f > *x > h /_t Meiser 1986: 178f.
+w > r /r_ Meiser 1986: 192-196 {vor Synkope}
+d > 0 /#_j Meiser 1986: 159f.
+g > 0 /#_n Meiser 1986: 160f.
+d > 0 /_# Meiser 1986: 152f.
+s > l /l_; s > r /r_# Meiser 1986: 154
+w > 0 /d_ Meiser 1986: 185f. {unsicher}
+k > *c /_V[+front]
+*l > *ḻʲ /_j,V[+front] Meiser 1986: 206-218 {Zwischenstufe}
+l > *ł > w /#_V Meiser 1986: 155-159
+l > * ł > 0 /_t Meiser 1986: 177f.
+*ḻʲ > ɹ ̝/_ Meiser 1986: 206-218
+d > ɹ ̝/V_V Meiser 1986: 218-230 {Zwischenstufen?}
+t > d /_n Meiser 1986: 164
+ss > f; z > v /r_ Meiser 1986: 172-175 {sekundäre Gruppen}
+p > m /_m Meiser 1986: 164
+m > n /_sV Meiser 1986: 163
+z > s /r,ɹ_̝ Meiser 1986: 174f.
+z̺ > r /V_V Meiser 1986: 239
+ɹ ̝> r /_s Meiser 1986: 174f.
+*c > j /V_t Meiser 1986: 179; 200f.
+*g > ɟ /_j,V[+front] Meiser 1986: 205f.
+*ɟ > ʝ > j /_j,V[+front] Meiser 1986: 205f.
+*c > ʃ /_(l)V Meiser 1986: 200
+
+altumbr.
+h > 0 /C$_ Meiser 1986: 285f.
+N > 0 /V>Ṽ_# Meiser 1986: 275f.
+f > v; s > z /V_# Meiser 1986: 276-279
+t > d; k > g /n_ Meiser 1986: 162f.
+
+*neuumbr.
+g > ɟ > ʝ > j /ī_ Meiser 1986: 287f.
+t > d; p > b /_r,ɹ ̝Meiser 1986: 283f.
+*z > r /_# Meiser 1986: 277ff.
+
+fal.
+f > h; h > f /_ Giacomelli 1978: 515; Stuart-Smith 2004: 206 {sporad.}
+ð > v /_ Giacomelli 1978: 515 {‹f›}
+
+*urlat.
+*ð > *v > *β /ū̆_; /r; /_l; /_w Meiser 1998: 104f.; 120; Stuart-Smith 2004: 213-218
+
+frühlat.
+n > 0 /V>V:_s# Sihler 1995: 215
+ɣ > h ~ ɦ /_ Sihler 1995: 158f.; Meiser 1998: 101f.; Stuart-Smith 2004: 208
+*d > t /_r Sihler 1995: 211f.; Meiser 1998: 123
+*gʷ > w /{-n}_ Sihler 1995: 164f.; Meiser 1998: 100
+*ɣʷ > w /_{-r} Sihler 1995: 164f.; Meiser 1998: 104
+*ɣʷ > *β /_r Sihler 1995: 163ff.; Meiser 1998: 123; Stuart-Smith 2004: 218
+*ð > d; *β > b /_ Sihler 1995: 139ff., 147, 148f.; Meiser 1998: 101f.; 103f.; Stuart-Smith 2004: 204f.; 207-209
+*ɣ > g /_C Sihler 1995: 158; Meiser 1998: 104; Stuart-Smith 2004: 211; 213
+t > l /_l Sihler 1995: 210f.; [Meiser 1998: 118f.] {nur sekundär möglich?}
+t > n /_n Sihler 1995: 209; Meiser 1998: 121f. {vor Synkope}
+p > m; b > m; β > m /_N Sihler 1995: 206f.; Meiser 1998: 121
+d > m /_m Sihler 1995: 209; Meiser 1998: 121f.
+k > ŋ; g > ŋ /_N Sihler 1995: 207f.; Meiser 1998: 94f.; 121
+d > l /l Sihler 1995: 209f.; Meiser 1998: 123 {vor Synkope}
+n > l /l Sihler 1995: 209f.; Meiser 1998: 122 {vor Synkope}
+z̺ > l /l_ Sihler 1995: 209f.; Meiser 1998: 116, 118
+m > b /#_l; m > b /_r Sihler 1995: 211; Meiser 1998: 112; 122
+*w > 0 /Vl_V Sihler 1995: 180f.; Meiser 1998: 120
+*w > u /t_V Sommer 1914: 161; Meiser 1998: 93
+*j > i /C_V Sommer 1914: 161; Meiser 1998: 91
+
+alat.
+w > 0 /X_ō ̆Sihler 1995: 178f.; Meiser 1998: 92
+kʷ > k /_ō̆,ū̆ Sihler 1995: 178f.; Meiser 1998: 92, 99
+z̺ > j /_j Sihler 1995: 189; Meiser 1998: 117
+d > 0 /#_j Sihler 1995: 189; Meiser 1998: 111
+g > 0 /#_n Meiser 1998: 112f. {oder ŋ > 0?}
+d > l /_V Meiser 1998: 100 {sporad., „sabinisches“ l}
+w > 0 /V_V  (V=V) Sihler 1995: 180; Meiser 1998: 92
+N > 0 /V>Ṽ:_S,Þ Sihler 1995: 214f.; Meiser 1998: 78f.; 117 {oder früher, vor x > 0 /n_t}
+m > 0 /V>Ṽ_# Meiser 1998: 94
+h > 0 /_ Sihler 1995: 158f.; Meiser 1998: 105
+s > s ~ h /V_# Meiser 1998: 96
+dw > b /#_ Sihler 1995: 180; Meiser 1998: 111
+z̺ > r /r_ Sihler 1995: 210f.; Meiser 1998: 119
+z̺ > r /V_g Sihler 1995: 213; Meiser 1998: 119
+z̺ > 0 /V>V̄_C Sihler 1995: 213; Meiser 1998: 118f.
+z̺ > r /V_V Sihler 1995: 168f., 172; Meiser 1998: 95f.
+t > d /_n Meiser 1998: 122 {nach Synkope}
+*d > 0 /V_w Sihler 1995: 180; Meiser 1998: 120
+dn > nd /_ Meiser 1998: 122; [Sihler 1995: 209] {nach Synkope}, nach t > d /_n
+d > 0 /V_# Sihler 1995: 228; Meiser 1998: 100 {nach kurzem V umstritten}
+r > l /_l Sihler 1995: 209f.; Meiser 1998: 123
+*x > 0 /n_t Sihler 1995: 221
+*x > h /_ Sihler 1995: 158f.
+
+lat.
+T > Tʰ /L Sommer 1914: 199-202; Allen 1965: 26f. {sporad.}
+l > ł /_$; /$C_ Sihler 1995: 174; Meiser 1998: 52 {vor Binnensilbenhebung}
+t > tt /'V_w Sihler 1995: 181; Meiser 1998: 126
+RR > R /_'V [Sihler 1995: 222f.]; Meiser 1998: 125 {„Mamilla-Gesetz“}
+ll > l /VU̯_ Sihler 1995: 222; Meiser 1998: 125
+
+spätlat.
+w > β /{-k,g}_ Lausberg 1956: 33; Leumann 1977: 139; 544; Meiser 1998: 93
+j > ʝ /{-V}_ Rohlfs 1949: 361f.; Leumann 1977: 130
+s̺s̺> s̺ /V̄_ Meiser 1998: 125
+
+*vlat.,g-rom.
+h > 0 /_ Lausberg 1956: 5
+m > 0 /{-'V}_# Lausberg 1956: 78; Fouché 1961: 650f.
+m > n /'V_# Lausberg 1956: 78; Fouché 1961: 651f.
+r > s /_s
+b > β /V_ Lausberg 1956: 33
+p > ɸ; k > x /_t,s Lausberg 1956: 49-53
+g > ɣ /V_C Lausberg 1956: 53f.
+t > k /_l Lausberg 1956: 71f.
+t > tsʲ /{-s}_j Lausberg 1956: 55; Fouché 1961: 909f.
+d > ɟ /V_j>ɟV Rohlfs 1949: 453-458; Lausberg 1956: 61; [Fouché 1961: 908f.] {nach i > j /C_V, dial. d > dzʲ}
+k > c /_j>0 Lausberg 1956: 59; Fouché 1961: 911f.
+g > ɟ /V_j>ɟV Rohlfs 1949: 459f.; Lausberg 1956: 61; {nach i > j /C_V, weiter wie sonst}
+C > C: /_w>0 Rohlfs 1949: 481
+w > 0 /s_V Rohlfs 1949: 481
+C > C: /_j {sporad.}
+
+vlat.,g-rom.{-sard.}
+k > c; g > ɟ /_i,e Lausberg 1956: 9f.
+l > ʎ > ʎʎ; n > ɲ > ɲɲ /_j>0 Rohlfs 1949: 460-464; Lausberg 1956: 57f.
+j > ʎ /ʎ_ Rohlfs 1949: 460ff.
+*ɟ > j > 0 /C_'V Fouché 1961: 903-906 {außer analogisch}
+
+g-sard.,g-s-,z-it.,rätor.gb.,n-it.dial.
+tsʲ > ttsʲ /_j>0 Lausberg 1956: 59
+
+g-sard.
+c > *ṯɕ > tṯɕ /_j>0 Lausberg 1956: 59
+ṯɕ(:) > ts(:) /_ Lausberg 1956: 59
+j > ʝ > ɟ /n,l_ Lausberg 1956: 57f.
+j > 0 /ts>tts_ Wagner 1941: 109f.; Lausberg 1956: 55f.
+d > ð; g > ɣ /V_ Wagner 1941: 78f.; Lausberg 1956: 31f., 35f.
+f > v /V_V Wagner 1941: 90, 93 {vor dial. v/β > 0}
+β > v /V_ Wagner 1941: 78f.; Lausberg 1956: 31f., 35f.
+w > gʷ /#_ Lausberg 1956: 7f.
+r > rr /#_ Lausberg 1956: 8
+k > g /_w Lausberg 1956: 24f., 64f.
+gʷ > b; gw > bb /_ Lausberg 1956: 24f., 64f.
+ll > ḷḷ > ḍḍ /_ Lausberg 1956: 69
+ɣ > n /_n Lausberg 1956: 53f.
+[x > s̺/_s̺; x > t /_t Lausberg 1956: 50f., 52f.]
+C > C: /_w>0 Lausberg 1956: 53f.
+
+*g-sard.{-log.dial.,camp.dial.}
+ɟɟ > ʝʝ > j /V_V
+
+g-sard.{-bitt.}
+β > b /#_ Wagner 1941: 97f.; Lausberg 1956: 6
+
+g-sard.{-z-sard.dial.}
+s̺> z̺/V_ Wagner 1941: 102f.; Lausberg 1956: 38
+
+g-sard.{-camp.?}
+ts(:) > s̪(:) /_ Wagner 1941: 109f.; Lausberg 1956: 55f.
+s̪> θ /_ Wagner 1941: 109f.; Lausberg 1956: 55f.
+ł > l /V_C Lausberg 1956: 46
+
+g-sard.{-bitt.,barb.dial.}
+v > β /l,r>l_ Wagner 1941: 177f.
+
+g-sard.dial.
+l > ɾ /C_ Lausberg 1956: 20, 47f.
+
+z-sard.
+j > 0 /s̺_ Lausberg 1956: 55ff.
+
+z-sard.,log.
+ɟ > dz /l_ Lausberg 1956: 58
+l > d /_dz Lausberg 1956: 58
+
+z-sard.{-bitt., nuor.,or.fonn.(dorg.)},log.,camp.
+ð > 0; ɣ > 0 /_ Wagner 1941: 79f.
+
+z-sard.{-bitt.nuor.barb.},log.
+θ(:) > t(:) /_ Wagner 1941: 107; Lausberg 1956: 7, 60
+
+z-sard.{-nuor.,bitt.}
+j > ɟ /_ Wagner 1941: 87f.
+
+z-sard.{-nuor.}
+j > ʝ /r_ Wagner 1941: 87f.
+
+z-sard.barb.
+k > ʔ /{-ŋ}_{-l,r} Wagner 1941: 71f.; Contini 1987: 118-132
+
+z-sard.bitt.
+ddz > tts /_ Lausberg 1956: 58
+
+z-sard.bitt.,barb., bar.
+f > 0 /#_
+
+z-sard.bitt.,n-bar.,sass.-gall.
+r > ʎ /_j>0 Contini 1987: 387-390 {jung}
+
+z-sard.dorg.,urz.
+k > x > χ ~ h /V(#)_ Wagner 1941: 71f.; Contini 1987: 317-336
+
+z-sard.dorg.
+p > ɸ; t > θ /V(#)_ Contini 1987: 209, 229, 317-336
+
+z-sard.nuor.
+t > *θ > ð /_ Wagner 1941: 69 {Lautersatz nach log. Vorbild?}
+
+*sard.log.,camp.
+p > *ɸ; t > *θ; k > *x /V(#)_ Wagner 1941: 69; Lausberg 1956: 31f.
+*ɟ > dz /r,n Lausberg 1956: 58
+*β > 0 /V_ Wagner 1941: 79f.; Lausberg 1956: 31f., 35f.
+*ɸ > β; *θ > ð; s̺> z̺; *x > ɣ /V_ Wagner 1941: 69, 102f.; Lausberg 1956: 31f.
+ʝ > ɟ /r,n_ Lausberg 1956: 57ff.
+s̺s̺ > ʃʃ /_j>0 Lausberg 1956: 57
+s̺ > s; z̺ > z /_ Wagner 1941: 102f.
+
+sard.log.
+β > 0 /V_j Lausberg 1956: 62
+
+n-sard.dial.
+r > l /_T Wagner 1941: 189ff.
+
+nw-sard.dial.
+l > ɬ /_t; l > ɮ /_d Wagner 1941: 189ff.; Contini 1987: 337-352
+
+*sard.camp.
+k > c; g > ɟ; ɣ > ʝ /_e,i Wagner 1941: 73f., 84f.; Lausberg 1956: 9f.
+c > ṯʃ; ɟ > ḏʒ; ʝ > ʒ /_
+ð > 0; ɣ > 0 /V _V Wagner 1941: 74f.
+*θ > ts /_ Wagner 1941: 109; Lausberg 1956: 7, 60 {Lautersatz?}
+
+sard.camp.dial.
+l > ł > ʁ /V_V Lausberg 1956: 38f.
+
+sard.camp.s-barb.,no
+ts > s /_ Wagner 1941: 107
+
+sard.camp.Sulcis
+ts > ṯʃ /_ Wagner 1941: 107
+
+*g-orom.,g-wrom.{-span.?}
+s̺> ʆ /_c,ṯɕ Rohlfs 1949: 313ff.; Lausberg 1956: 49, 56
+
+g-orom.
+s̺> j /V_# Lausberg 1956: 82
+j > 0 /u_# Lausberg 1956: 82
+*ṯɕ > ʆ /s>ʆ_ Lausberg 1956: 49 {vor *c > ṯɕ}
+
+rum,n-it.dial.,rätor.
+d > dzʲ > ddzʲ /_j>0 Lausberg 1956: 56
+
+rum.
+r > *rr /#_ [Puşcariu 1943: 287] {Wirkung auf Vokale wie inlautendes rr}
+*c > ṯɕ; d > ḏʑ /'V_j{-'o,'u} Gartner 1904: 113f.; Tiktin 1905: 63f., 66; Puşcariu 1943: 288; Lausberg 1956: 55f.; 59f.
+?*j > *ʝ /d,ts,c_'o,'u Gartner 1904: 113f.; Tiktin 1905: 63f., 66; Puşcariu 1943: 288; Lausberg 1956: 55f., 59f. {oder etwa wie sonst und dann ɕ > ʃ; ʑ > ʒ /_o,u?}
+?*ʝ > *ç /ts,c_'V Gartner 1904: 113f.; [Tiktin 1905: 63f., 66; Puşcariu 1943: 288]; Lausberg 1956: 55f., 59f.
+*kʷ > k > c /_i,e Lausberg 1956: 22ff.
+x > ɸ; ɣ > β /_C Lausberg 1956: 50-53
+*kʷ > p; *gʷ > b /_ Lausberg 1956: 24f., 64f.
+t > ṯɕ; d > ḏʑ; s̺> ɕ; l > ʎ; n > ɲ /_j,i,ie Gartner 1904: 107f., 109f., 112-115; Lausberg 1956: 8
+ṯɕ > t; ṯʆ > t /ʆ_ Lausberg 1956: 49
+C > C: /_j>0 Lausberg 1956: 57, 61f.
+[x > s /_s {sporad.}]
+*ɸ > s /_s Lausberg 1956: 50
+*ɸ > p /_s,t Lausberg 1956: 50f., 52
+*ɕ > ʃ /_ Gartner 1904: 114f.; Lausberg 1956: 49
+*ʝ > ḏʒ /_ Gartner 1904: 117; Lausberg 1956: 17, 55f., 59f.
+?ç > ʃ; ʝ > ʒ /C_ Gartner 1904: 113f.; Lausberg 17, 55f., 59f.
+*ṯɕ > ts; *ḏʑ > dz /_
+*β > 0 /V_V Gartner 1904: 110f.; Lausberg 1956: 35f.
+*β > b /l,r_ Gartner 1904: 112
+*β > w /V_l Lausberg 1956: 47f.
+*β > m /_n Lausberg 1956: 53
+*β > v /V_V Gartner 1904: 111; Lausberg 1956: 6
+*ł > l /_C Lausberg 1956: 46
+l > ɺ > ɾ ~ r /V_V Gartner 1904: 106f.; Lausberg 1956: 38f.
+l > w /í, á_a Gartner 1904: 107; Lausberg 1956: 69
+bj > jb /_ Lausberg 1956: 62
+m > w /a_n Gartner 1904: 108; Lausberg 1956: 46
+n > 0 /V_V Gartner 1904: 109 {sporad.}
+t > 0 /_# Lausberg 1956: 78, 84ff.
+n > 0 /_# Lausberg 1956: 78, 85f.
+r > 0 /_# Gartner 1904: 106
+C: > C /_ Lausberg 1956: 67
+*d > g /i,ī_a,ə Tiktin 1905: 69
+v > g /u Tiktin 1905: 69 {sporad.}
+l > n; r > n /V_V Gartner 1904: 106 {sporad.}
+*c > ṯʆ; ɟ > ḏʓ /_ [Tiktin 1905: 63, 66] {nach n-rum. ḏʒ > ʒ!}
+ṯʆ > *ʆ /_C Tiktin 1905: 63
+
+rum.dial.,arom.
+n > ɾ̃ > ɾ /V>Ṽ_V Gartner 1904: 109 {anderswo nur dissimilatorisch}
+
+*n-rum.
+l > ʎ /k,g_ Gartner 1904: 107; Lausberg 1956: 20
+
+n-rum.{-Banat}
+ʎ > j /_ Gartner 1904: 107f.; Lausberg 1956: 57f.
+ʎ > j /k,g_ Gartner 1904: 107f.; Lausberg 1956: 20
+ɲ > j /_ Gartner 1904: 109f.; Lausberg 1956: 57f.
+
+n-rum.{-dial.}
+dz > z; ḏʒ > ʒ /_ Gartner 1904: 113f., 117; Tiktin 1905: 60f.; 63
+
+*arom.
+j > ʝ > ɟ /b,v_; j > ç > c /p,f_
+f > 0; p > 0 /_c; b > 0 /_ɟ
+j > ɲ /m_
+m > 0 /_ɲ
+ṯʃ > ts; ḏʒ > dz /_ {sporad.}
+
+*dalm.
+kʷ > k /_i,e Lausberg 1956: 21ff.
+k > *c /_i,ie,ū; g > *ɟ /_i,ie Lausberg 1956: 9f., 13f. {nach ē > ai}
+*c > ṯʃ; ɟ > *ḏʒ /_ Lausberg 1956: 9f., 13f.
+*ḏʒ > dz /_ Lausberg 1956: 9f., 13f.
+d > ð; g > ɣ /V_ Lausberg 1956: 32f.
