@@ -2311,3 +2311,354 @@ nn > n /_ Huld 1983: 150; Orel 2000: 29; Matzinger 2006: 74
 alb.tosk.{-dial.}
 ʎ > j /k,g Huld 1983: 150; Demiraj 1997: 65; Matzinger 2006: 73
 k > c; g > ɟ /_j>0 Orel 2000: 32; Matzinger 2006: 73 {alte *kl, gl}
+
+urgr.
+?*h > *ç /_j>0 [Lejeune 1972: 165-168; Sihler 1995: 187f.]
+*ç > h /#_ [Lejeune 1972: 165-168; Sihler 1995: 187f.]
+*Kw > K /u,u̯; /_j Rix 1976: 86
+?*Kw > KKw /_ Lejeune 1972: 83f.; Rix 1976: 93; Sihler 1995: 159f. {fraglich nach Balles 2002}
+*d > l /_l Rix 1976: 94
+*n > l /l_ Lejeune 1972: 153f.
+*Dɦ > D /_N {sporad.}?
+*Dɦ > D /'VN_ Schwyzer 1939: 333; Miller 1977a; 1977b; Rasmussen 1989b: 165
+*Dɦ > Th /_ Sihler 1995: 141f., 147, 148f., 158, 162f.
+*Th > T /_s,j Rix 1976: 92
+*j > *ç > *c /p_ Sihler 1995: 194f. [Rix 1976: 92]
+*c > *t /p_ Sihler 1995: 194f. [Rix 1976: 92]
+k > *c; g > *ɟ /_j Brixhe 1982: 210f.
+t > *c; d > *ɟ /_j Brixhe 1982: 210f. {nach dial. t > ts}
+*j > *ɟ /#_ Lejeune 1972: 165-168; Sihler 1995: 187f.
+*t > ts /_w Lejeune 1972: 81ff.; 105f.; Rix 1976: 93
+ts > s /_t,th Rix 1976: 96
+
+*g-agr.
+*D > 0 /_#
+*s > *h /#,V(I̯)_V Lejeune 1972: 86f.; 92-98; Sihler 1995: 170, 173
+*s > *h /#,V_R,J Lejeune 1972: 119-123; 132-136; Sihler 1995: 170, 174, 216, 218
+*s > *h /N_V Lejeune 1972: 128f.; Sihler 1995: 170, 174, 216, 218
+*h > R /R [R = L,N,J] Lejeune 1972: 121ff., 128, 132f., 135f.; [Dunkel 2002]
+*0 > h /#_V(R)h(R)V Nussbaum 1998a: 137; Lejeune 1972: 95f. {mit Ausnahmen bei °hV́}
+*w > j /V_j Lejeune 1972: 171ff.; Sihler 1995: 195f. [anders Rix 1976: 64]
+*ts > s /#_ Lejeune 1972: 109f.
+l > ḻj; n > ṉj; r > ṟj /_j Bartoněk 1961: 50-53; Sihler 1995: 192f., 195; H. H. Hock 2004 [vgl. Lejeune 1972: 155f., 171]
+
+g-sgr.
+t > ts /_j>0 Bartoněk 1961: 63-7; Risch 1966: 150-152; Lejeune 1972: 103-107, 109f.; [Brixhe 1982: 210f.]; Sihler 1995: 190f. {vor g-gr. *t > c, analogische Ausnahmen}
+ts > ss /_
+t > s /{-#,s}_i Risch 1966: 150ff.; Lejeune 1972: 63ff.
+t > s /{-s}_u Lejeune 1972: 65f. {sporad. bei Alternation}
+ss > s /_ dial. {vor g-gr. tts > ss}
+
+*g-agr.
+*c > *cc > tṯɕ; *ɟ > *ɟɟ > dḏʑ /_j>0 Brixhe 1982: 211f.
+ḻj > lḻj; ṉj > nṉj; ṟj > rṟj /_j>0 Bartoněk 1961: 50-53; Sihler 1995: 192f., 195; H. H. Hock 2004 [vgl. Lejeune 1972: 155f., 171]
+*nṉj > jnṉj > jṉj > jn; *rṟj > jrṟj > jṟj > jr /a,o_j>0 Lejeune 1972: 155f.; Rix 1976: 61; Sihler 1995: 192f., 195; H. H. Hock 2004
+h > 0 /V_V Lejeune 1972: 94; 168ff.; Rix 1976: 60f.; Sihler 1995: 171f.
+TK > KT; TP > PT /_ Lejeune 1972: 69f.; Rix 1976: 96
+nṉj > nn; rṟj > rr /_ Rix 1976: 61; Sihler 1995: 192f., 195; [H. H. Hock 2004]
+w > 0 /ts>tts_ Lejeune 1972: 81ff., 105f.; Rix 1976: 93
+w > 0 /p,b,ph,th_ Lejeune 1972: 80-83
+w > 0 /(V>V̄)d_ Lejeune 1972: 81f.
+N > 0 /_s,zC Lejeune 1972: 113f.; 138f.
+k > g; kh > g /_$m Lejeune 1972: 76ff.; Rix 1976: 94
+g > ŋ /_n Rix 1976: 94; [Lejeune 1972: 78f.]
+p > m; ph > m; b > m /_m Lejeune 1972:76ff.; Rix 1976: 94
+b > m /_n Lejeune 1972: 78f.; Rix 1976: 94
+r > r̥ /_C[-voice] Nussbaum 1998a: 139-142 Anm. 146
+w > hw /_VrC̥ Nussbaum 1998a: 139-142 Anm. 146
+w > hw /V_s$ Nussbaum 1998a: 139-142 Anm. 146
+
+g-agr.{-myk.}
+h > 0 /_(R)V(R)Th Lejeune 1972: 56ff.; Rix 1976: 97
+Th > T /_(R)V(R)Th Lejeune 1972: 56ff.; Rix 1976: 97 {Grassmanns Gesetz}
+T > Th /_s>0C Lejeune 1972: 74, 137; Sihler 1995: 219
+T > Th /Ls>0_ Rix 1976: 78
+*ṯɕ(:) > ts(:); *ḏʑ(:) > dz(:) ‹ζ› /_ Lejeune 1972: 103-107; 109f.; Brixhe 1982: 211-214; Sihler 1995: 193f.
+kw > p; kwh > ph; gw > b /_ Lejeune 1972: 52; Sihler 1995: 160-165 {nach Palatalisierung} 
+
+*g-agr.{-myk.,aiol.}
+kw > c /_e(:); i(:) Lejeune 1972: 47-51; Sihler 1995: 160-165
+kwh > ch; gw > *ɟ /_e(:) Lejeune 1972: 47-51; Sihler 1995: 160-165
+*c > ṯɕ; *ch > ṯɕh; *ɟ > ḏʑ /_ Lejeune 1972: 50f.; Rix 1976: 87 {a.-k. ‹τζ, „ś“, ζ›}
+
+*g-agr.{-a-k.}
+*ṯɕ > t; *ṯɕh > th; *ḏʑ > d /_ Lejeune 1972: 47-51; Rix 1976: 87 {früh}
+
+*g-agr.{-kypr.?}
+lḻj > ll /_ Bartoněk 1961: 53; Lejeune 1972: 156; Rix 1976: 61; Sihler 1995: 195 
+
+*g-agr.{-thess.lesb.}
+RR > R /V>V̄_ Lejeune 1972: 121ff., 128, 132f., 135f.; H. H. Hock 2004: 163f. {anders Bartoněk, nicht jj, lḻj}
+
+*g-agr.dial.{-thess.}
+ss > s /V̄_ Lejeune 1972: 74f.; 102f.; 105ff.; Sihler 1995: 190f.
+
+agr.dial. (myk.,hom.+)
+w > 0 /_o(:) {mit analogischen Ausnahmen) Hackstein 2002: 129f.
+
+g-agr.wgr.{-z-kret.},lesb.,(thess.),ark.-kypr.
+tts > ss /_ Bartoněk 1961; Brixhe 1982: 211f., 215f. {a.-k. vor *ṯɕ > ts, dial. alt noch Sonderzeichen} agr.att.dial.,boi.,(thess.)
+tts > tt; ddz > dd /_ Brixhe 1982: 211-214; Colvin 2004 {att. ‹δ› auf Ostraka}
+
+agr.w-ion.,att.,boi.,(thess.)
+tts > tt /_ Brixhe 1982: 211f. {aber dz erhalten}
+
+agr.i-a.
+w > 0 /V_V Lejeune 1972: 179f.; Rix 1976: 63
+
+agr.boi.,i-a.,n̄ wgr.,lak.,sar.,kret.{-z-}
+n > 0 /V>V_s Lejeune 1972: 129f. {i.-a. nach a: > æ:}
+
+agr.i.-a.{-att.dial.},lesb.,(thess.),warg.
+dz(:) > zd /_ Lejeune 1972: 112f.; Brixhe 1982: 212ff.; Sihler 1995: 194
+
+agr.ion.,att.
+j > 0 /a>a:_V Lejeune 1972: 247; Rix 1976: 63f. {nach w > 0 /V_V}
+
+agr.o-,z-ion.,arg.,ins.,kret.
+w > 0 /V>V̄R_V Lejeune 1972: 59f.; 158f.; Rix 1976: 63
+
+agr.o-ion.,lesb.,zkret.,el.
+h > 0 /#_ Lejeune 1972: 281f.
+
+agr.o-ion.
+tts > ss /_ Lejeune 1972: 101 Anm. 6; 105f.; Brixhe 1982: 215f. {spät, vorher Sonderzeichen ‹T›} 
+
+agr.w-ion.,att.
+s > r /r_ Lejeune 1972: 122f.
+
+agr.w-ion.z-eub.
+s > z > r /V_V Lejeune 1972: 98f.
+
+agr.att.,lesb.,thess.,nwgr.,el.,lak.,sar.
+w > 0 /VR_V Lejeune 1972: 158f.
+
+agr.att.
+d > z /z_ Lejeune 1972: 115f.
+Ts > sTh /_s Lejeune 1972: 72f. {„vulgär“}
+
+agr.ark.,kypr.
+dz(:) > z(:) /_ Bartoněk 1961 {a.-k. vor *dɕ > dz}
+ṯɕ > t; ṯɕh > th; ḏʑ > d /_ Lejeune1972:50f.;Rix 1976: 87 {spät}
+
+agr.ark.
+n > 0 /V_s# Lejeune 1972: 131f.
+l > n /_t,d,th Lejeune 1972: 152f.
+
+agr.kypr.
+lḻj > jl /a,e_ Lejeune 1972: 156 Rix 1976: 61; Sihler 1995: 195
+
+agr.lesb.
+w > β /#_r Lejeune 1972: 156ff.; 178f.
+w > 0 /#_{-r}
+w > 0 /V_V Lejeune 1972: 179ff.; Rix 1976: 63
+n > j /_s Lejeune 1972: 129-132
+dj > dj /_V PH?
+
+agr.thess.
+w > 0 /V_V Lejeune 1972: 179ff.; Rix 1976: 63
+w > 0 /#_V Lejeune 1972: 176ff.; Rix 1976: 63
+
+agr.boi.,(thess.)
+dz(:) > dd /_
+
+agr.boi.
+w > 0 /#_V Lejeune 1972: 176ff.; Rix 1976: 63
+w > β /a,e_C Lejeune 1972: 231; Rix 1976: 48
+
+agr.boi.,el.
+w > 0 /V_V Lejeune 1972: 179ff.; Rix 1976: 63
+
+agr.boi.,warg.,lak.,el.
+b > β; d > ð; g > ɣ /_ Bartoně k1961:191; Lejeune 1972: 55f.
+
+agr.kret.
+b > β; d > ð; g > ɣ /_ Bartoněk 1961: 191; Lejeune 1972: 55f.
+w > 0 /#_ {zentral später}
+w > β /V_V? Lejeune 1972: 55f.
+
+agr.z-kret.
+tts > tt; ddz > dd /_ Lejeune 1972: 105ff., 115
+th > t /_n,r Lejeune 1972: 59f.
+tt > tth /_ Lejeune 1972: 106ff.
+?dd > tt /_ Lejeune 1972: 115
+
+agr.kret.dial.
+z > r /_m Lejeune 1972: 124
+l > w /a,e_C Lejeune 1972: 141f.
+
+agr.ins.kyr.
+n > j /_sV Lejeune 1972: 129f.
+
+agr.warg.,lak.
+s > h /V_V Lejeune 1972: 98f.
+w > β /#_ Lejeune 1972: 55f.
+
+agr.warg.
+th > t /n_ Lejeune 1972: 59f.
+
+agr.lak.
+th > θ ~ s /_ Lejeune1972:61
+w > 0 /V_V Lejeune 1972: 179ff.; Rix 1976: 63
+?dd > tt /_ Lejeune 1972: 115
+
+agr.junglak.
+h > 0 /V_V Lejeune 1972: 98f.; 279f.
+s > r /V_# Lejeune 1972: 271f.
+s > 0 /_p,t,k>ph,th,kh {vgl. ngr.tsak.}
+
+agr.el.
+n > j /_s# Lejeune 1972: 131f.
+s > h /V_V Lejeune 1972: 98f.
+s > r /V_# Lejeune 1972: 271f.
+w > β /#_ Lejeune 1972: 55f.
+
+agr.nwgr.
+th > t /s_ Lejeune1972:59f.
+
+agr.pamph.
+b > β; d > ð; g > ɣ /_ Bartoněk 1961: 190; Lejeune 1972: 55f.
+β > w /_o Lejeune 1972: 55f.; 177f.
+w > β /#,V_i,e,a Lejeune 1972: 55f.; 177f. {‹ϝ›}
+*ɣ > j /e_V Lejeune 1972: 55f.; Szemerényi 1968b {‹ι, Ø›}
+*ð > r /V_V Lejeune 1972: 55f.; Dressler 1965 {areal!}
+t > d /n_ Lejeune 1972: 145ff. {areal!}
+n > 0 /V>Ṽ_T Lejeune 1972: 145ff. {areal!}
+
+sp-agr.hell.
+b > β; d > ð; g > ɣ /{-N}_ Lejeune 1972: 55f.; Rix 1976: 83
+w > β /a,e_C Lejeune 1972: 231; Rix 1976: 48
+ph > ɸ; th > θ; kh > x /_ Lejeune 1972: 60f.; Rix 1976: 85
+
+mgr.
+*β > *ɸ /_C[-voice] Lejeune 1972: 231; Rix 1976: 48
+h > 0 /#_ Lejeune 1972: 281f.
+p > *ɸ; k > x /_t Thumb1910:§14
+θ > t /ɸ,s,x_; x > k /ɸ,s_ Thumb 1910: §18
+
+mgr.,g-ngr.
+k > c; g > ɟ; x > ç; ɣ > ʝ /_V[+front],j Thumb1910:§17
+ɸ > f; β > v /_
+p > b; t > d; k > g /N(#)_ Thumb1910:§15
+
+ngr.
+l > r /V_C Thumb 1910: §31
+m > 0; n > 0; ŋ > 0 /#_g Thumb 1910: §15 {nach Apokope} ngr.{-dial.}
+0 > ɲ /m_j Thumb 1910: §30
+θ > f /_n Thumb1910:§20
+θ > x /_l,n Thumb 1910: §20
+N > 0 /_Þ Thumb1910:§§33
+
+ngr.{-dial.ital.s-östl.kapp.}
+C: > C /_ Thumb1910:§36
+
+ngr.{-dial.zypr.äg.pont.}
+n > 0 /_#{-V,p,t,k} Thumb 1910: §34
+
+ngr.{-it.}
+ɸ > p /_s Thumb 1910: §19 mit Anm.1
+
+ngr.dial.
+v > 0; ɣ > 0 /_m Thumb1910:§24
+ɣ > 0 /V_V Thumb 1910: §22 {sporad.}?
+0 > ɣ /V_V Thumb 1910: §23
+c > ṯɕ; ɟ > ḏʑ; t > ts /_i Thumb 1910: §35 Anm. 1 {sporad.}
+n > ɲ; l > ʎ; r > ṟj /_j>0 Thumb 1910: §30
+z > dz /_ Thumb1910:§28
+*ɕ > ʃ /_ Thumb 1910: §21 {sporad.}
+
+ngr.dial. (östl.)
+ʝ > ç /C[-voice]_ Thumb 1910: §10 Anm. 5
+ç > ɕ /_ Thumb 1910: §21
+
+ngr.dial.s-östl.
+ð > 0; ɣ > 0 /V_V Thumb 1910:§24
+
+ngr.dial.(zypr.äg.)
+θ > t; x > k /r_ Thumb1910:§18Anm.3
+
+ngr.dial.kret.,äg.
+ç > ɕ; ʝ > ʑ /C[+voice]_ Thumb 1910: §10 Anm. 5
+ɕ > s; ʑ > z /_ Thumb 1910: §21
+
+ngr.dial.äg.,o-kret.
+j > 0 /s,z_ Thumb 1910: §10 Anm. 4
+
+ngr.dial.chi.
+*ç > c; *ʝ > ɟ /T_ Thumb 1910: §10 Anm. 5
+p > ph; t > th; k > kh /_ Thumb 1910: §35 Anm. 3 {sporad.}?
+
+ngr.dial.chi.,kal.
+ɣ > ɡ̊ /r,v_ Thumb 1910: §26 ngr.dial.kal.
+pp > pɸ; tt > tθ; kk > kx /_ Thumb1910:§35Anm.3
+s > ts /_j; /_: Thumb 1910: §28
+
+ngr.skyr.
+ṟj > ɹj̝ /_ Thumb 1910: §31 Anm.2
+
+ngr.dial.kret.
+t > θ; d > ð /_j Thumb1910:§16Anm.3
+l > ṛ /_a,o,u Thumb 1910: §31 Anm. 2
+
+ngr.dial.kykl.,lesb.
+m 0; n > 0; ŋ > 0 /V_ð Thumb1910:§15Anm.2
+
+ngr.dial.lesb.
+t > c; d > ɟ /_i [Thumb1910:§16Anm.2]
+
+ngr.dial.Velv.
+ç > c /ɸ,θ,s_ Thumb 1910: §10 Anm. 5
+
+ngr.dial.rhod.
+ð > t /r_; ɣ > k /r,v_ Thumb 1910: §26
+
+ngr.dial.zypr.
+ð > t /r,v,ɣ_; ɣ > k /r,v_ Thumb 1910: §26
+ç > c /C_ Thumb1910:§10Anm.5
+
+ngr.dial.anat.
+θ > t /_ Thumb1910:§20Anm.1
+
+ngr.dial.pont.
+t > s /#s_ Thumb1910:§16Anm.4
+
+ngr.dial.pont.,kyz.,ik
+ɸ > p /s_ Thumb 1910: §18
+
+ngr.dial.samothr.
+l > 0; r > 0 /V_V Thumb1910:§32
+
+ngr.dial.nax.,kapp.
+l > *ł > 0 /_a,o,u Thumb1910:§32
+
+ngr.kapp.dial.
+ṯɕ > ḏʑ /_ Thumb 1910: §17
+
+ngr.dial.Maina
+ʝ > ʑ /_ Thumb 1910: §27
+
+ngr.dial.it.
+x > f /_t,s Thumb1910:§14Anm.2;35Anm.2
+l > ḍḍ /V_V Thumb 1910: §31 Anm. 2 {areal!?}
+s > 0 /_# Thumb 1910: §10 Anm. 4
+ɣ > g /_ Thumb 1910: §26
+
+ngr.dial.otr.
+θ > t /#_ Thumb 1910: §20 Anm. 1
+ð > d /#_ Thumb 1910: §26
+θ > s /V_ Thumb 1910: §20 Anm. 1
+
+ngr.dial.bov.
+p > t; k > t /_s Thumb1910:§35Anm.2
+*ts > dz /_ Thumb 1910: §35 Anm. 2
+f > s /_t Thumb1910:§14Anm.2{nachx > f}
+ç > h /_ Thumb 1910: §21
+x > kh /_ Thumb 1910: §21
+
+ngr.tsak.
+T > Th /s>0_ Thumb 1910: §35 Anm. 3
+s > 0 /_p,t,k>ph,th,kh Thumb 1910: §29 Anm. 1; 35 Anm. 3
+*θ > s /_ Thumb 1910: §20 Anm. 1 {schon agr.?}
+l > *ł > 0 /_a,o,u Thumb 1910: §32
+t > c; d > ɟ /_i [Thumb1910:§16Anm.2]
+ç > ɕ /_ Thumb 1910: §21
