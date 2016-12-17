@@ -2217,3 +2217,97 @@ Dɦ > D /#_ Vogt 1958: 145; Pisowicz 1976a: 203ff.
 
 w-arm.V
 Dɦ > Th /{-N}_ Vogt 1958: 145; Pisowicz 1976a: 208f.
+
+*urphryg.
+"k"̑ >k;"g̑">g;"g̑ɦ">gɦ/_RDiakonoff&Neroznak 1985: 5
+[?*kw > k; *gw > g; "gwɦ > gɦ /_j Brixhe 1982: 237 Anm. 1; 247 Anm. 1]
+"k"̑ (= *k) > ṯɕ; "g̑" > ḏʑ; "g̑ɦ" > ḏʑɦ /_(i,e?) [Brixhe 1982: 235-246; Diakonoff & Neroznak 1985: 5]
+*kw > k; *gw > g; "gwɦ > gɦ /_ Brixhe 1982: 235ff.; Dia- konoff & Neroznak 1985: 5
+?p > ph; t > th; ṯɕ > ṯɕh; k > kh /_ Diakonoff&Neroz- nak 1985: 5; 43 n.2; Lubotsky 2004: 230f. {unsicher, da graphisch kaum differenziert}
+*b > p; *d >t; *ḏʑ > *ṯɕ; *g > k /_ [Lejeune1979]; Diakonoff & Neroznak 1985: 5; Lubotsky 2004
+*bɦ > b; *dɦ > d; *ḏʑɦ > *ḏʑ; *gɦ > gLubotsky 1989b: 148f.; 2004: 230
+
+phryg.
+*ṯɕh > tsh; *ṯɕh > tsh; *ḏʑ > dz /_ Brixhe 1982: 235-246; Diakonoff & Neroznak 1985: 5
+*s > *h /V_V Diakonoff & Neroznak 1985: 5; 43 n. 4; Lubotsky 1988b: 15, 17f., 19
+*m > n /_# Diakonoff & Neroznak 1985: 5
+*h > 0 /V_V nphryg.
+*w > 0 /_o Brixhe 2004: 783; Lubotsky 2004: 230
+n > 0 /(V>Ṽ?)_# Brixhe 2004: 783 {aber graphisch erhalten!}
+[?ts > s; dz > z /_ Brixhe 1982: 237, 241; 2004: 783]
+
+*ural̑ b.
+*"k" > *c; "g̑" > *ɟ; *"g̑ɦ" > *ɟɦ /_ Huld 1983: 144ff.; Demiraj 1997: 63f.; Matzinger 2006: 71f.
+*c > k; *ɟ > g; *ɟɦ > gɦ /_l,r{-i} Huld 1983: 144ff.; De- miraj 1997: 63; Matzinger 2006: 71f.
+*c > *ṯɕ; *ɟ > *ḏʑ; *ɟɦ > *ḏʑɦ /{-s}_ Huld 1983: 144ff.; Demiraj 1997: 63f.; Matzinger 2006: 71f.
+?*c > k /s_
+*ṯɕ > *ts; *ḏʑ > *dz; *ḏʑɦ > *dzɦ /_{-w,u,j} Huld 1983: 144ff.; Matzinger 2006: 71
+*ṯɕ > *ṯʆ; *ḏʑ > *ḏʓ /_u,w>0 Huld 1983: 144ff.; [Demiraj 1997: 64]
+*ṯɕ > *ṯʆ; *ḏʑ > *ḏʓ /_j>0 Huld 1983: 144f.; [Demiraj 1997: 65]
+*dzɦ > *dɦ /_ Huld 1983: 144ff.; Demiraj 1997: 63f.
+*Dɦ > D /_ Huld 1983: 142; Matzinger 2006: 68
+kw > *c; gw > *ɟ /_j,V[+front] Huld 1983: 143f.; Demiraj 1997: 64; Matzinger 2006: 72, 76 {vor ē > ā?}
+*c > *ṯʆ; *ɟ > *ḏʓ /_ Huld 1983: 143f.; Demiraj 1997: 64; Matzinger 2006: 72
+*kw > k; *gw > g /_ Huld 1983: 143f.; Demiraj 1997: 64; Matzinger 2006: 72
+*sp > ps /#_ [Huld 1983: 149]; Orel 2000: 34; Matzinger 2006: 78
+*sk > ks /_ [Huld 1983: 149]; Orel 2000: 34f.; Matzinger 2006: 78
+*p > f; k > x /_s,t [Huld 1983: 142; Orel 2000: 35]
+*s > 0 /f,x_ Huld 1983: 149; Matzinger 2006: 78 {oder Assimilation?}
+*n > m /p>0_ Demiraj 1997: 55
+s > 0 /_R,w Huld 1983: 148; Demiraj 1997: 55f.ᛞ
+f > 0; x > 0 /_t [Huld1983:142Orel2000:36]
+d > g /_l Demiraj 1997: 66
+*x > h /_ Huld 1983: 149; Orel 2000: 35; Matzinger 2006: 78
+*s̺ > *ʆ /#_'V Huld 1983: 148; Demiraj 1997: 56; Matzinger 2006: 77 {vor lat. LW}
+*s̺ > *ʆ /_V[+front] [Huld 1983: 147f.; Demiraj 1997: 56; Matzinger 2006: 77]
+*s ̺ > h /{-T} [Matzinger 2006: 77]
+*ʆ > *ʓ > ɟ /#_'V Huld 1983: 148; Demiraj 1997: 56; Matzinger 2006: 77 {vor lat. LW}
+*ts > s̪ > θ; *dz > z̪ > ð /_({-w,u,j}) Huld 1983: 144ff.; Demiraj 1997: 63; Matzinger 2006: 71
+
+g-alb.
+*d > ð /V(r)_V Demiraj 1997: 62; Matzinger 2006: 69ff.
+*b > 0; *g > 0 /V_'V [Huld 1983: 142]; Demiraj 2001; Matzinger 2006: 69, 82f.
+*ð > 0 /V_'V [Huld 1983: 142]; Demiraj 2001; Matzinger 2006: 69ff., 82
+*t > *ṯʆ; *d > *ḏʓ /_j>0 Huld 1983: 143ff.; [Demiraj 1997: 65]; Matzinger 2006: 76
+w > 0 /_V[+round]
+*ṯʆ > ts; *ḏʓ > dz /_ Huld 1983: 143ff.; Demiraj 1997: 64f.; Matzinger 2006: 72
+*ʆ > ʃ /_ (Zusammenfall mit unpalatalisiertem s) [Matzinger 2006: 77]
+s̺ > ʃ /_ Huld 1983: 147f.; Demiraj 1997: 56; Matzinger 2006: 77, 82 (nach LW)
+ts > s; dz > z /_ Huld 1983: 143ff.; Demiraj 1997: 64f.; Matzinger 2006: 72
+j > 0; w > 0 /V_V Huld 1983: 151; Demiraj 1997: 49; Matzinger 2006: 75
+j > ɟ /#_ Huld 1983: 150f.; Demiraj 1997: 47
+*w > 0 /#_r Demiraj 1997: 48; Matzinger 2006: 74
+*w > v /_{-V[+round]} Huld 1983: 150; Demiraj 1997: 48
+*w > 0 /l,r_V Demiraj 1997: 48; Matzinger 2006: 75
+r > rr /#_ Demiraj 52; Matzinger 2006: 74
+T > D /n_ Demiraj 1997: 66; Matzinger 2006: 75
+N > 0 /V>Ṽ_S,# Demiraj 1997: 55
+l > ʎ /k,g Orel 2000: 32; Matzinger 2006: 73
+l > ł /V_V? Demiraj 1997: 48, 52; Matzinger 2006: 73
+l > ʎ; n > ɲ; r> ṟj /_j>0 Huld1983:150; Demiraj 1997: 53, 54
+*ṟj > ʎ /_ Huld 1983: 150; Demiraj 1997: 49; Matzinger 2006: 74
+k > c; g > ɟ /_V[+front] Huld 1983: 144ff.; Demiraj 1997: 64f.; Matzinger 2006: 72f.
+C: > C /_ {C ≠ r}
+θ > f /? Matzinger 2006: 71
+
+alb.{-s-tosk.dial.}
+ɲ > j /_ Meyer 1888: 6; Huld 1983: 150; Matzinger 2006: 73f. alb.{-dial.}
+ł > ʎ; n > ɲ; r> ṟj /_i>0# Matzinger2006:73f.{nachɲ >j}
+ʎ > j /_ Meyer 1888: 6; Huld 1983: 150; Matzinger 2006: 73f.
+
+alb.dial.
+f > h /_u,o Sokolova 1983: 33
+
+alb.dial.östl.
+θ > t ~ s;ð > d ~ z /_ Sokolova1983{inslavischer Umgebung}
+
+alb.skut.
+c > ṯʃ; ɟ > ḏʒ /_ Meyer 1888:6
+
+alb.tosk.
+n > r /V_V Huld 1983: 150; Orel 2000: 16; Matzinger 2006:74{vor nn>n}
+nn > n /_ Huld 1983: 150; Orel 2000: 29; Matzinger 2006: 74
+
+alb.tosk.{-dial.}
+ʎ > j /k,g Huld 1983: 150; Demiraj 1997: 65; Matzinger 2006: 73
+k > c; g > ɟ /_j>0 Orel 2000: 32; Matzinger 2006: 73 {alte *kl, gl}
