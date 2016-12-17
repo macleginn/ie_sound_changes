@@ -3414,3 +3414,160 @@ ll > l /V̄_ Lausberg 1956: 68
 g-n-it.dial.
 c > ṯʆ; ɟ > ḏʓ /_ Rohlfs 1949: 299f., 305, 415,
 mj > ɲɲ /_ Rohlfs 1949: 463
+
+n-it.dial.
+ṯɕ > ts /_ Rohlfs 1949: 255ff.
+l > j /V_C[-cor] Rohlfs 1949: 406
+ʎ > j /V_V Rohlfs 1949: 461 {dial. vor j > ɟ}
+ð > 0 ~ d /V_V Rohlfs 1949: 351f.
+ð > 0 /V_V Rohlfs 1949: 351f.
+ɣ > 0 (~ g) /V_V Rohlfs 1949: 355
+j > 0 /Vz_ Rohlfs 1949: 472f.
+z > ʒ /_j>0 Rohlfs 1949: 472f.
+w > v /#_ Rohlfs 1949: 286
+l > w /V_C[+cor] Rohlfs 1949: 402f.
+n > 0 /Ṽ_ Rohlfs 1949: 371
+tsʲ > tts /_ Rohlfs 1949: 476f.
+dzʲ > ʒ /_ Rohlfs 1949: 476
+Ṽ > Vŋ /_n Rohlfs 1949: 370
+l > ll /#_ Rohlfs 1949: 272f.
+r > ɾ /V_V Rohlfs 1949: 372
+
+o-n-it.
+[x > t /_t Rohlfs 1949: 427]
+ɣ > d /_d Rohlfs 1949: 427
+f > p /V_l Rohlfs 1949: 413f.
+
+o-n-it.,lig.dial.
+j > 0 /Vr_ Rohlfs 1949: 466f.
+
+o-n-it.dial.
+kj > *c > ṯʃ /_ Rohlfs 1949: 411
+
+w-n-it.
+ḏʓ > ʓ /_ Rohlfs 1949: 456f.
+j > ɟ /#b_ Rohlfs 1949: 296 {altes *l}
+ç > c; ʝ > ɟ /b_ Rohlfs 1949: 450, 464f.
+c > ṯʃ; ɟ > ḏʒ /{b}_ Rohlfs 1949: 296, 450, 464f.
+k > ç /_t Rohlfs 1949: 427ff.
+rj > jr /_ Rohlfs 1949: 466
+k > g /_ʎ Rohlfs 1949: 410f.
+*ç > j /_t Rohlfs 1949: 427ff.
+
+w-n-it.dial.
+t > c; d > ɟ /j_ Rohlfs 1949: 428f.
+j > 0; j > 0 /_ɟ Rohlfs 1949: 428f.
+c > ṯʃ; ɟ > ḏʒ /_ Rohlfs 1949: 428f.
+gʎ > ɟɟ /_ Rohlfs 1949: 410f.
+l > r /V_C[-cor] Rohlfs 1949: 402f. {nach l > w}
+
+n-n-it.dial.
+b > m /Vm_ Rohlfs 1949: 422
+d > n /Vn_ Rohlfs 1949: 421
+j > ʝ /#b_; j > ç /#p_
+
+n-it.berg.dial.
+s > h /_ Rohlfs 1949: 257, 281
+
+n-it.dial.tess.,lomb.,em.
+ṯʃ > ʃ /_ Rohlfs 1949: 257, 451f.
+
+n-it.dial.,rätor.w-fri.
+ṯʃ > ts; ḏʒ > dz /_ Rohlfs 1949: 264f., 347f., 464; Lausberg 1956: 14f.
+ʃ > s; ʒ > z /_
+
+n-it.dial.lig.,lomb.,em.,rom.
+dz > z Rohlfs 1949: 264f.
+
+n-it.dial.{-(lig.,tess.,piem.)}
+ts > s /_ Rohlfs 1949: 255f.; 451f., 476f. {*cj, *tj}
+
+n-it.ven.,o-berg.,istr.,rätor.w-fri.dial.
+ts > s̪; dz > z̪ /_ Rohlfs 1949: 255f., 264f., 451
+s̪> θ; z̪ > ð /_ Rohlfs 1949: 255f., 264f., 451
+
+n-it.lig.,s-piem.
+fj > ʃʃ /_ Rohlfs 1949: 303, 413
+
+n-it.lig.,dial.s-piem.,tess.,lomb.
+l > ɾ /V_V Rohlfs 1949: 364
+
+n-it.lig.,lomb.,vals.dial.
+ɾ > 0 /V_V Rohlfs 1949: 364
+
+n-it.lig.dial.
+j > ʝ /#b_; j > ç /#p,f_
+ð > j /V_r Rohlfs 1949: 433f.
+ɾ > 0 /V_V Rohlfs 1949: 372
+ʎ > ḏʒ /_ Rohlfs 1949: 411, 461
+r > j /V_C[-cor] Rohlfs 1949: 438
+
+n-it.lig.,em.,piem.dial.
+ḏʒ > ʒ /V_V Rohlfs 1949: 347 {*c}
+
+n-it.lomb.,piem.dial.
+ḏʒ > ʒ /V_V Rohlfs 1949: 358 {*g}
+
+n-it.n-lomb.dial.,rom.,em.,tess.,berg.
+s̺> ʃ /_p,t,k Rohlfs 1949: 313f.
+
+n-it.n-piem.,tess.
+g > ɟ /V_a Lausberg 1956: 41f.
+ɣ > j /V_V Rohlfs 1949: 325, 355
+
+n-it.o-lomb.,(em.)
+ḏʒ > ʒ /_ Rohlfs 1949: 265 {*g,j}
+
+n-it.piem.dial.
+r > l /V_C Rohlfs 1949: 439
+
+n-it.piem.,trent.,ven.
+s̺> ʃ /_k,p Rohlfs 1949: 314
+
+n-it.rom.
+s̺> ʃ /_ Rohlfs 1949: 313f. {sporad.}
+
+n-it.ven.
+g > 0 /V_r Rohlfs 1949: 434
+v > b /r_ Rohlfs 1949: 436
+l > ʎ /_ Rohlfs 1949: 271f., 365f.
+
+n-it.ven.dial.
+ʎ > 0 /V(#)_V Rohlfs 1949: 271f., 365f.
+ʎ > j /_ Rohlfs 1949: 271f., 365f.
+
+g-rätor.
+c(:) > ṯʃ(:) /_ Lausberg 1956: 51; 59
+ð > 0; ɣ > 0 /V_ Lausberg 1956: 36f., 43
+ḏʒ > ʒ /V_ Lausberg 1956: 29f.
+ð > d /_ {außer dial.}
+ɣ > g /_ Lausberg 1956: 42f.; Haiman & Beninca 1992: 71f.
+j > 0 /C>C:_ [Lausberg 1956: 56]
+k > c; g > ɟ /_'a Lausberg 1956: 11f., 15f.; Haiman & Beninca 1992: 66ff.
+ɟ > ʝ > j /V_a Lausberg 1956: 41f.
+s̺> ʃ /_C Lausberg 1956: 48f.
+s̺s̺> ʃʃ /_j>0 Lausberg 1956: 57
+ç > j /_s Lausberg 1956: 52
+C: > C /_ Lausberg 1956: 67
+t > 0 /V _# Lausberg 1956: 84
+
+g-rätor.{-surs.,zentr.}
+k > c; g > ɟ /_à Lausberg 1956: 11f., 15f.; Haiman & Beninca 1992: 66ff.
+t > 0 /n_# Lausberg 1956: 85f.
+t > 0 /'V_# Lausberg 1956: 84
+
+rätor.dial.
+ɟ > ḏʒ /#_ Lausberg 1956: 17
+ł > w /V_C Lausberg 1956: 45
+
+rätor.dial.fri.,z-lad.
+kʷ > c /_i,e Lausberg 1956: 22ff.
+c > ṯʆ; ɟ > ḏʓ /_ Haiman & Beninca 1992: 37f., 69
+
+rätor.gb.
+k > c /_y,ye Lausberg 1956: 13
+zʲ > ʒ /_ Lausberg 1956: 57
+ʝ > ç > c /p_; ʝ > ɟ /b_ Lausberg 1956: 61f.
+
+rätor.gb.{-surs.}
+ɟ > ḏʒ /_ Lausberg 1956: 41, 61
