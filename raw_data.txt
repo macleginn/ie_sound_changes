@@ -5104,3 +5104,288 @@ c > k; ɟ > g /_{V[+front]} Prins 1974: 227
 ɹ > ṣ; ɹ > ẓ /d>ḍ_ Luick 1964: 1122
 pʰ > pᶲ; tʰ > tˢ; kʰ > kˣ /#_ Hughes & Trudgill 1996: 93; Goblirsch 2005: 26
 pʰ > ɸ; tʰ > s; kʰ > x /V_ Hughes & Trudgill 1996: 93; Goblirsch 2005: 26
+
+ne.shetl.,orkn.
+θ > t; ð > d /#_ Wright 1905: 237f.
+
+ne.m.
+θ > t /#_ Wright 1905: 238
+
+ne.ir.,m.,n-e.
+t > tθ /_r,r̩ Wright 1905: 228f.
+
+ne.z-e.dial.
+d > t /l,n,r_# Wright 1905: 233
+ʃ > s /#_r Wright 1905: 248
+
+ne.nhb.
+r > ʀ /_ Wright 1905: 218
+
+ne.ir.,n-e.
+w > w̥ /#h>0_ Wright 1905: 208f.; Lass 1999: 122
+
+ne.sc.
+h > x /#_w Wright 1905: 208f.; Lass 1999: 122
+
+ne.sc.{-s-}
+d > 0 /n_{-#} Wright 1905: 232f.
+
+ne.sc.,m.
+d > 0 /l,n_# Wright 1905: 234ff.
+
+ne.no-sc.
+xw > f /#_ Wright 1905: 208f.; Luick 1964: 1096
+w > v /#_r Wright 1905: 208
+
+ne.sc.,z-e.dial.
+t > ʔ /V_l̩,r̩ Wright 1905: 229
+
+ne.e.{-dial.}
+r > ɹ /_ Wright 1905: 218
+r > 0 /_{-V} Wright 1905: 218f.
+
+n-ne.dial.
+θ > t /#_r Wright 1905: 238
+
+z-,s-,sw-ne.
+k > t /#_l Wright 1905: 246
+
+ne.w-,w-e.dial.
+v > w /_V Wright 1905: 227
+
+s-,sw-ne.dial.
+r > ṛ ~ ɽ /_ Wright 1905: 218
+d > 0 /n_# Wright 1905: 235f.
+
+ne.sw-e.dial.
+w > v /#_r Wright 1905: 208
+d > 0 /l_# Wright 1905: 234f.
+
+s-ne. dial.
+f > v; θ > ð; s > z /#_ Wright 1905: 226, 237, 241
+l > o /_${-d,t} Wright 1905: 217f.
+ð > d /#_r Wright 1905: 238
+ð > d /#_ Wright 1905: 237
+
+*vor-afr.
+k > c; g > ɟ /#_V[+front]; /X_i,j Steller 1928: 32f. (vor i-Umlaut}
+ɣ > ʝ /_V[+front]; /V[+front]_# Steller 1928: 33
+
+afr.,as.
+β > ɸ /_$d Siebs 1901: 1268; Gallée 1910: 162
+β > ɸ /_$R Siebs 1901: 1268; Gallée 1910: 162; Lasch 1914: 131
+R > R̥ /#h>0_
+
+afr.
+h > 0 /V(R)_V Steller 1928: 34
+w > 0 /C_V Siebs 1901: 1255; Steller 1928: 22; Markey 1981: 108
+w > 0 /i,e_ Siebs 1901: 1255f.; Steller 1928: 22; Markey 1981: 108
+j > ʝ /#_ Siebs 1901: 1257; Steller 1928: 23 {‹i,g›}
+n > 0 /V _# Steller 1928: 26 Anm. 4; Markey 1981: 32f.
+l > ʎ /_i,j Siebs 1901: 1262; Steller 1928: 24f.
+*c > ṯɕ; *ɟ > ḏʑ /_ Steller 1928: 31ff.; Markey 1981: 117 {‹sth,sz,tz,z,tj,tsch,ts,s,tsz›; ‹ds,dz,z,ts,s›}
+x > k /_s Steller 1928: 34 Anm. 2; Markey 1981: 34f.
+rr > r /V>V̄_ Siebs 1901: 1259f.; Steller 1928: 24 Anm.1; Markey 1981: 35
+
+afr.,sp-as.,mnd.
+*ɸ > f /_ Lasch 1914: 152; Steller 1928: 27
+R̥ > R /{#}_ Siebs 1901: 1304; Steller 1928: 33f. Anm. 2; Markey 1981: 117
+
+afr.{-nfr.dial.}
+j > 0 /C_V Siebs 1901: 1257f.; Steller 1928: 23
+
+afr.dial.
+β > m /_n Siebs 1901: 1263f.; Steller 1928: 25 Anm. 2
+l > ł /_C,# Siebs 1901: 1261f.; Steller 1928: 24f. {‹(u)l›}
+
+awfr.
+θ > t /#_ Steller 1928: 29 Anm. 1
+
+aofr.{-dial.}
+θ > t /#_ Steller 1928: 29 Anm. 1
+m > n /V_# Siebs 1901: 1263
+
+sp-afr.
+β > 0 /l,r_ Siebs 1901: 1268f.; Markey 1981: 118
+b > m /m_ Siebs 1901: 1264, 1267; Markey 1981: 117
+n > 0 /V _C Markey 1981: 117
+f > x /_t Markey 1981: 117 {sporad., mnd. Einfluss?}
+
+sp-afr.{-dial.}
+θ > t ~ d /_# Markey 1981: 117
+d > n /n_ Siebs 1901: 1265, 1278f.; Markey 1981: 117
+ð > 0 /V_V Siebs 1901: 1275f.; Markey 1981: 118
+θ > t̪; ð > d̪ /_ Siebs 1901: 1275f., 1279ff.; Markey 1981: 117 {nach ð > 0}
+[d > 0 /V>V̄n,r_# Siebs 1901: 1277]
+
+sp-afr.dial., o-nwfr.dial.,g-nofr.
+k > x /#s_ Siebs 1901: 1286f. {‹sch›}
+
+sp-aofr.
+[d > 0 /V>V̄l_# Siebs 1901: 1277]
+w > ɣ /a,o_V Siebs 1901: 1269f.
+
+g-nfr.
+d > n̪ /Vn>n̪ˠ_#; d > l̪ /Vl>l̪ˠ_# Siebs 1901: 1263, 1265, 1278 mit Anm. 2; Århammar 2001: 762
+w > v /{-s,d,k}_ Siebs 1901: 1251 {areal}
+
+g-nfr.{-strl.}
+β > v /_ Siebs 1901: 1267
+
+g-nfr.{-w-föhr.,sylt.}
+n̪n̪ > nn; l̪l̪ > ll /_ Århammar 2001: 762
+
+g-nfr.,nnd.{-s-wf.,s-of.,nfrk.}
+p > pʰ; t > tʰ; k > kʰ /#_(R)'V Teepe 1973: 156
+
+nfr.dial.
+ł > w /V_C Siebs 1901: 1261f.
+
+nwfr.
+w > 0 /V_V Hoekstra 2001b: 730b
+r > 0 /_d,t,s,n,l Siebs 1901: 1261; Hoekstra 2001b: 731b
+n > 0 /V>Ṽ_Þ,Ð Siebs 1901: 1264f.; Hoekstra 2001b: 731b
+D > T /_# Hoekstra 2001b: 731b {jung}
+k > ṯɕ /_jV; /C[+cor]i_#; Siebs 1901: 1272f., 1294f.; Hoekstra 2001b: 729ff.
+t > ṯɕ; d > ḏʑ /_jV Siebs 1901: 1272f.; Hoekstra 2001b: 730f.
+
+nwfr.{-dial.}
+ṯɕ > ts /X_ Siebs 1901: 1293ff.
+
+nwfr.dial.
+ṯɕ > ṯʃʲ /#_ Siebs 1901: 1293ff.
+h > 0 /#_j Siebs 1901: 1303
+
+nwfr.dial.no-Wouden
+ṯɕ > ts /#_ Siebs 1901: 1293ff.
+
+nwfr.hind.
+x > 0 /V>V̄_$t Siebs 1901: 1305
+ts > s /#_ Siebs 1901: 1293ff.
+
+nwfr.sch.
+t > ts; d > dz /r_ Siebs 1901: 1261 {vor r > 0}
+dz > z /_ Siebs 1901: 1261
+
+wfr.dial.,ofr.
+g > ɣ /#_ ? {unsicher}
+
+nofr.
+ṯɕ > ts /_{-j} Siebs 1901: 1293ff.
+ts > s /#_ Siebs 1901: 1293ff.
+
+nofr.stl.
+*β > w /X_V,# Siebs 1901: 1267f.
+*j > ɟ /#_ Siebs 1901: 1257
+r > 0 /_d Siebs 1901: 1261
+r > d /_n,l Siebs 1901: 1261
+t > ṯɕ /#_j Siebs 1901: 1280
+θ > ð /_# Siebs 1901: 1283
+θ > t /_ Siebs 1901: 1279f.
+ð > d /_ Siebs 1901: 1283, 1389f.
+w > ɣ /l,r_#
+
+nofr.w.
+ð > 0 /V̄[-front]_ Siebs 1901: 1275f.
+θ > t̪; ð > d̪ /_ Siebs 1901: 1382f. {spät}
+r > 0 /_n,d,l Siebs 1901: 1261
+
+nnfr.
+k > c > ṯç /#_j>0 Århammar 2001: 760
+ṯɕ > tsʲ > sʲ /#_ Siebs 1901: 1292f.; [Århammar 2001: 758f.]
+ð > d /r_ Århammar 2001: 761f.
+ɣ > g /V̆_n̩,l̩ Siebs 1901: 1296
+j > 0 /#r_ Århammar 2001: 760 {oder Entpalalalisierung?}
+r > ɐ /V_$ Siebs 1901: 1261
+
+nnfr.{-amr,o-föhr.}
+θ > t /r_# Århammar 2001: 761
+
+nnfr.{-amr.}
+θ > t̪ /#_ Siebs 1901: 1279; Århammar 2001: 761
+
+nnfr.{-helg.,sylt.}
+θ > s̪/_# Siebs 1901: 1283f.; Århammar 2001: 761
+p > b̥; t > d̥; k > ɡ̊ /V̆_V,R Siebs 1901: 1266, 1273, 1290; Århammar 2001: 758b
+
+nnfr.{-karrh.,wied.}
+d > 0 /#_j Århammar 2001: 760
+
+nnfr.{-sylt.,wied.}
+t > c /#_j>0 Århammar 2001: 760
+
+nnfr.{-w-föhr.}
+t̪ > t; s̪> s /_ Århammar 2001: 761 {19. Jh.}
+
+nnfr.dial.
+ɡ̊ > ɣ /(V)_ Siebs 1901: 1290
+w > 0 /_u Siebs 1901: 1252; Århammar 2001: 760
+
+n-nnfr.
+j > 0 /_i: Århammar 2001: 760
+
+nnfr.ins.{-helg}
+ð > z̪ /V_V Siebs 1901: 1281; Århammar 2001: 761f. {sylt. nach d > ð}
+
+nnfr.ins.,s-festl.
+sʲ > s /#_ Århammar 2001: 758f.
+
+nnfr.helg.
+θ > t̪ /_#; ð > d̪ /V_V Århammar 2001: 761f.
+j > ḏʒ /#_ Århammar 2001: 760
+s > ʃ /#_j>c Århammar 2001: 760
+s > ts /#_w Siebs 1901: 1285 {sporad.}
+
+nnfr.helg.,amr.
+j > 0 /#l_ Århammar 2001: 760 {oder Entpalatalisierung?}
+f > ʃ /#_j Århammar 2001: 760
+
+nnfr.helg.,amr.,o-föhr.
+ð > d̪ /V_r,r̩ Århammar 2001: 761f.
+
+nnfr.amr.
+θ > s̪/#_ Siebs 1901: 1280; Århammar 2001: 761
+z̪ > z /V_{-r} Siebs 1901: 1281; Århammar 2001: 761f.
+
+nnfr.amr.,föhr.
+n̪n̪ > ɲ; l̪l̪> ʎ /i:,y:_# Siebs 1901: 1262, 1265, 1278; Århammar 2001: 759
+t > ṯʲ; d > dʲ /i(:)_# Siebs 1901: 1273, 1278; Århammar 2001: 759
+
+nnfr.amr.,o-föhr.
+θ > s /r_# Siebs 1901: 1284; Århammar 2001: 761
+
+nnfr.o-föhr.
+z̪ > l /V_{-r} Siebs 1901: 1281; Århammar 2001: 761f.
+
+nnfr.w-föhr.
+ð > ł /V_r,r̩ Siebs 1901: 1281; Århammar 2001: 761f.
+t̪ > t; s̪> s /_ Århammar 2001: 760 {erst 20. Jh.!}
+
+nnfr.föhr.,amr.,helg.,hall.
+m > ɲ /#_j>0 Århammar 2001: 760
+
+nnfr.sylt.
+d > t /r_ Siebs 1901: 1276; Århammar 2001: 762
+θ > ð /V_# Siebs 1901: 1281; Århammar 2001: 760
+d > ð /V_V Siebs 1901: 1275f., 1278; Århammar 2001: 762 {vor ð > z > r}
+
+nnfr.sylt.,karrh.,wied.,s-gos.
+z̪ > r /V_{-r} Siebs 1901: 1281f.; Århammar 2001: 761f.
+
+nnfr.festl.
+*d > ð /V_V Siebs 1901: 1275f., 1278
+l > 0 /(s)_j Århammar 2001: 760
+s > ʆ /#_(j>0) Århammar 2001: 760
+
+nnfr.hall.,ngoes.
+ð > 0 /V_ Siebs 1901: 1281f.; Århammar 2001: 761f.
+
+nnfr.s-gos.
+ð > l ~ 0 /V_r,r̩ Århammar 2001: 761f.
+
+nnfr.hall.,n-festl.
+sʲ > sj /#_ Århammar 2001: 758f.
+
+nnfr.n-festl.
+t > ṯʲ; d > dʲ /e:,a:,o:_# Siebs 1901: 1273, 1278f.; Århammar 2001: 759
+n̪n̪ > ɲ; l̪l̪> ʎ /e:,a:,o:_# Siebs 1901: 1262, 1265, 1278f.; Århammar 2001: 759
