@@ -5720,3 +5720,368 @@ D > T /_# Paul/Wiehl/Grosse 1998: 130
 b > 0; d > 0; g > 0 /i,e_i Kranzmayer 1956: 79f.; Paul/Wiehl/Grosse 1998: 135ff.
 r > 0 /V̄_# Paul/Wiehl/Grosse 1998: 143
 t > k; d > g /_l Paul/Wiehl/Grosse 1998: 159
+
+mhd.{-mfrk.}
+w > β /_ Kranzmayer 1956: 74f.; Paul/Wiehl/Grosse 1998: 140
+
+mhd.dial.
+t > d̥ /l_ Paul/Wiehl/Grosse 1998: 158f.
+
+mhd.md.
+b > m /m_ Paul/Wiehl/Grosse 1998: 145, 150
+
+mhd.mfrk.,thür.
+w > 0 /l,r_ Paul/Wiehl/Grosse 1998: 141, 174
+
+mhd.omd.
+t > k /#_w Paul/Wiehl/Grosse 1998: 160, 176
+*pʰ > pf /#_ Paul/Wiehl/Grosse 1998: 176
+l > ł /_C Paul/Wiehl/Grosse 1998: 176
+
+mhd.n-omd.
+pf > f /#_ Paul/Wiehl/Grosse 1998: 176
+
+mhd.w-os.
+ʝ > ç /#_ Žirmunskij 1956: 285f.
+
+mhd.wmd.,od.
+t > ts /#_w Paul/Wiehl/Grosse 1998: 160
+
+mhd.ofrk.
+j > w /V_V Paul/Wiehl/Grosse 1998: 142
+j > g /#_ Žirmunskij 1956: 286; Paul/Wiehl/Grosse 1998: 142 {hyperkorrekt}
+
+mhd.al.dial.
+w > 0 /k_V Paul/Wiehl/Grosse 1998: 140
+
+mhd.s-al.
+kx > x /#_
+
+mhd.s-s-al.
+kx > x /ŋ_ Žirmunskij 1956: 277f., 354
+
+mhd.bair.
+g > 0 /a_e Kranzmayer 1956: 79f.; Paul/Wiehl/Grosse 1998: 136f.
+
+mhd. bair.dial.
+b̥ > β /V_V Paul/Wiehl/Grosse 1998: 132
+h > x /X_ Kranzmayer 1956: 91a; Žirmunskij 1956: 336; Paul/Wiehl/Grosse 1998: 168
+w > 0 /k_e>ø,i(:)>y(:);a>o Kranzmayer 1956: 75a; Paul/Wiehl/Grosse 1998: 140
+C > Cʲ /V[+front] Kranzmayer 1956: 71f. {später fast überall wieder verloren (?)}
+
+mhd.n-bair.,o-m-bair.
+ɡ̊ > ɣ /V_V Paul/Wiehl/Grosse 1998: 132
+
+mhd.n-,m-bair.
+ł > ʎʷ /V([+front]>V[+round])_ Kranzmayer 1956: 120a; Žirmunskij 1956: 342
+
+mhd.mbair.
+y̯ > i̯ /V[-front]_ Kranzmayer 1956: 120
+ʎʷ > y̯ /V([+front]>V[+round])_ Kranzmayer 1956: 120; Žirmunskij 1956: 342
+
+mhd.w-mbair.
+y̯ > i̯ /V[+front]_ Kranzmayer 1956: 120b
+
+g-nhd.{-dial.}
+j > 0 /V_V Žirmunskij 1956: 341; Paul/Wiehl/Grosse 1998: 142
+ʝ > g /l,r_ Paul/Wiehl/Grosse 1998: 142
+w > β /#(C)_ Žirmunskij 1956: 338
+
+g-nhd.{-s-al.,bair.}
+C: > C /_ Žirmunskij 1956: 251f.; Paul/Wiehl/Grosse 1998: 129
+
+g-nhd.{-s-al.,s-bair.}
+t > d̥ /#_; kʰ > ɡ̊ /#_r,l,w Žirmunskij 1956: 258; 307f.; Paul/Wiehl/Grosse 1998: 130ff. {noch in Basel-Stadt}
+t > d̥; kʰ > ɡ̊ /X_({-:}) Žirmunskij 1956: 258; Paul/Wiehl/Grosse 1998: 130ff. {nicht Basel-Stadt}
+
+g-nhd.{-s-,sw-,nw-al.sz.,s-bair.z.}
+s̺> ʃ; z̺̊ > ʒ̊ /r_ Jutz 1931: 199f.; Kranzmayer 1956: 88f.; Žirmunskij 1956: 334f.; Paul/Wiehl/Grosse 1998: 164
+
+g-nhd.{-s-al.w.dial.,s-bair.z.,fers.}
+s̺> s; z̺̊ > z /X_V Kranzmayer 1956: 88 Paul/Wiehl/Grosse 1998: 162
+
+g-nhd.{-s-al.w.dial.,s-bair.z.7}
+s̺> s; z̺̊ > z /#_V Kranzmayer 1956: 88; Paul/Wiehl/Grosse 1998: 164
+
+g-nhd.{-s-bair.z.7}
+s̺> ʃ; z̺̊ > ʒ̊ /#_C Kranzmayer 1956: 88f.; Žirmunskij 1956: 333; Paul/Wiehl/Grosse 1998: 164
+s̪> s /_
+
+g-nhd.{-s-od.dial.}
+w > 0 /V[+back]_V Kranzmayer 1956: 75a; Žirmunskij 1956: 340; Paul/Wiehl/Grosse 1998: 141
+
+g-nhd.{-s-al.sz.dial.}
+w > b /l,r_ Žirmunskij 1956: 339f.; Paul/Wiehl/Grosse 1998: 141
+
+nhd.{-n-n-hess.,omd.,n-els.,al.sz.dial.}
+n > 0 /'V_# Žirmunskij 1956: 356
+
+nhd.{-s-bair.dial.}
+h > 0 /l,r_ Kranzmayer 1956: 92a
+
+nhd.{-al.sz.dial.,bair.dial.}
+g > ŋ /ŋ_ Jutz 1931: 186f.; Žirmunskij 1956: 364; Paul/Wiehl/Grosse 1998: 146, 154 {analogisch auch /_#}
+
+nhd.{-th.,s-al.,s-bair.}
+kʰ > ɡ̊ /#_n Žirmunskij 1956: 258; 307f.; Paul/Wiehl/Grosse 1998: 130f.
+
+nhd.{-wmd.,s-bair.}
+m > n /V _# Žirmunskij 1956: 343; Paul/Wiehl/Grosse 1998: 145
+
+nhd.dial.
+ɡ̊ > 0 /ì_# Kranzmayer 1956: 85a; Žirmunskij 1956: 291
+ʁ > ɐ /_$
+x > 0 /_# Jutz 1931: 216; Kranzmayer 1956: 92; Žirmunskij 1956: 337 {analogisch nach h > 0}
+m > n /'V_# Paul/Wiehl/Grosse 1998: 145
+r > ɐ /_$ Kranzmayer 1956: 127; Keller 1961: 170
+
+nhd.dial.{-mfrk.,n-th.,schl.}
+D > D̥ /_ Žirmunskij 1956: 258; 308 {nach Frikativierungen}
+
+nhd.md.,s-,o-frk.,(bair.)
+d > l /l_{-#} Kranzmayer 1956: 83; Žirmunskij 1956: 369
+
+nhd.md,dial.,bair.,s-al.sz.dial.,w.,bas.
+x > k /_s Jutz 1931: 233f.; Žirmunskij 1956: 373, 376
+
+nhd.md.
+pʰ > b̥ /#_r,l Žirmunskij 1956: 258
+
+nhd.md.,n-od.
+x > ç; ɣ > ʝ /{-V[-front]}_ Žirmunskij 1956: 257; 287f.
+
+nhd.md.,w-al.,n-,(o-m-)bair.
+b̥ > β; ɡ̊ > ɣ /V_V Žirmunskij 1956: 287f.; Paul/Wiehl/Grosse 1998: 132
+
+nhd.md.,w-al.sz.
+d > n /n_{-#} Žirmunskij 1956: 364f. {nach Apokope}
+
+nhd.mfrk.,hess.,w-schw.,(bair.)
+x > s̺/_s̺Kranzmayer 1956: 92f.; Žirmunskij 1956: 373- 376; Paul/Wiehl/Grosse 1998: 156
+
+nhd.mfrk.
+r > ə /V>V̄_C[+cor] Žirmunskij 1956: 345
+
+nhd.mfrk.,rhfrk.,n-sfrk.,omd.dial.{-schl.}
+ç > ʆ /_ Žirmunskij 1956: 257
+
+nhd.hess.{-s-},w-pf.,th.,os.
+ɣ > 0 /V_V Žirmunskij 1956: 288f. {vor x > ɣ}
+
+nhd.hess.dial.,rhfrk.,sfrk.
+r > ɐ /V_C Žirmunskij 1956: 345f.
+
+nhd.rip.
+t > k; d > g; n > ŋ /ī>e,ȳ>ø,ū>o_ Žirmunskij 1956: 365
+x > 0 /V>V̄_t Žirmunskij 1956: 372
+
+nhd.rip.,nhess.,omd.{-s-s-os.,laus.}
+d > g /V[+high]n>ŋ_ Žirmunskij 1956: 364; 366
+
+nhd.rip.dial.,rhfrk.,sfrk.,g-al.,w-ofrk.
+n > 0 /ə>ə̃_# Žirmunskij 1956: 357f.
+
+nhd.s-,o-mosfrk.,hess.,pfälz.{-kurpf.}
+*d̥ > *ð /V_V Žirmunskij 1956: 294f.; Paul/Wiehl/Grosse 1998: 132
+*ð > 0 /V_V Žirmunskij 1956: 294f. {sporad.}
+*ð > r /V_V Žirmunskij 1956: 294f.
+
+nhd.s-msfrk.
+ɣ > 0 /V_V Žirmunskij 1956: 289
+
+nhd.lothr.dial.
+β > b̥; ɣ > ɡ̊ /V_l̩ Žirmunskij 1956: 282
+
+nhd.s-msfrk.,pf.,sfrk.,ofrk.,n-al.,schw., omd.
+z̊ > s /_ Žirmunskij 1956: 329 {= alte Geminata}
+
+nhd.n-o-msfrk.,n-hess.dial.,w-th.
+w > b /#_ Žirmunskij 1956: 338 {sporad.}
+
+nhd.m-,n-hess.
+d > n /n_ Žirmunskij 1956: 364
+
+nhd.mhess.
+f > β̥; s > z̊; ç > ʝ̊; x > ɣ̊ /V_V Žirmunskij 1956: 332
+
+nhd.z-mhess.dial.,shess.odw.
+n > 0 /V>Ṽ_s,f,ç,(ts,d) Žirmunskij 1956: 353
+
+nhd.pf.,sfrk.,ofrk.,n-al.,schw., omd.
+v̊ > f /_ Žirmunskij 1956: 329 {= alte Geminata}
+
+nhd.pf.,sfrk.,ofrk.,od.{-s-bair.z.7}
+s̺> ʃ /X_p Kranzmayer 1956: 88f.; Žirmunskij 1956: 333
+
+nhd.pf.,sfrk.,w-ofrk.,al.,w-s-bair.,w-mbair.
+s̺> ʃ /X_t Kranzmayer 1956: 88; Žirmunskij 1956: 333 {früher g-s-bair.}
+
+nhd.s-pf.,sfrk.
+d > n /n_{-#} Žirmunskij 1956: 364f. {vor Apokope}
+
+nhd.s-pf.,ofrk.,os.dial.
+ʝ > ç; ɣ > x /X_ Žirmunskij 1956: 288
+
+nhd.ofrk.,g-al{-dial.südl.},bair.
+nn > n /'V_# Žirmunskij 1956: 356 vor n > 0
+
+nhd.omd.,(bair.)
+d > r /r_ Kranzmayer 1956: 84a; Žirmunskij 1956: 369
+
+nhd.n-os.
+pʰ > b̥; kʰ > ɡ̊ /#_V Žirmunskij 1956: 258f.; 308
+
+nhd.os.laus.,schl.
+f > v; s > z; ʃ > ʒ /V(r)_(#)V Žirmunskij 1956: 313
+
+nhd.od.{-s-al.,s-bair}
+p > b̥ /X_{-:} Žirmunskij 1956: 258 {nicht Basel, nicht gemin.(nur bair.)}
+
+nhd.od.{-dial.bair.,s-al.}
+b > m /m_V Jutz 1931: 176; Žirmunskij 1956: 362f.; Paul/Wiehl/Grosse 1998: 145, 150 {später als md.}
+
+nhd.n-od.dial.
+kx > kʰ /_
+
+nhd.al.
+n > 0 /V>Ṽ_f,s,ʃ Žirmunskij 1956: 353f.
+
+nhd.n-s-al.dial.
+x > 0 /V>V̄_t,#,s Jutz 1931: 216; 232f.; 234 {vor synkope, also nur altes *h}
+
+nhd.al.n-,w-els.dial.
+d > g /Vn>ŋ_V Jutz 1931: 192f.; Žirmunskij 1956: 368 {vor g > ŋ]
+
+nhd.al.n-els.
+ɣ > w /V[-front]_ Žirmunskij 1956: 290
+
+nhd.al.s-,w-els.,w-w-sz.dial.
+d > g /Vn>ŋ_V,# Jutz 1931: 192f.; Žirmunskij 1956: 368 {vor g > ŋ}
+
+nhd.al.s-els.
+ɣ > j /X_ Žirmunskij 1956: 290
+
+nhd.al.schw.,els.münst.
+n > 0 /V>Ṽ:_T Žirmunskij 1956: 354
+
+nhd.al.nw-, z-schw.
+ɡ̊ > ç /ì_#
+
+nhd.al.z-schw.
+r > ɾ/ɹ /V_C[+cor] Žirmunskij 1956: 346
+
+nhd.al.s-schw.
+w > b /V̄_V Žirmunskij 1956: 340
+r > 0 /V_C[+cor] Žirmunskij 1956: 346
+
+nhd.al.sz.
+d̥ > tt /V̆_ Jutz 1931: 188f.; Žirmunskij 1956: 253
+
+nhd.al.sz.,s-bair.dial.
+t > tt; m > mm /V̆_ Žirmunskij 1956: 253
+
+nhd.al.sz.{-s-,z-},vorarlb.
+kkx > kk /_ Jutz 1931: 212ff.; Žirmunskij 1956: 277
+
+nhd.al.sz.{-w.}
+d̥ > t /#_ Jutz 1931: 186f.
+
+nhd.al.sz.dial.
+ɡ̊ > k /V̆_#X[-voice] Jutz 1931: 226f.
+Þ > Ð̥ /#_ Jutz 1931: 203, 207f.
+D̥ > T; Ð > Þ /_C Jutz 1931: 172-175; 180f.; 189; 202; 222
+n > nn /V̆_# Jutz 1931: 237ff.; Žirmunskij 1956: 253
+ł > w /V_C Jutz 1931: 255
+m > mm; n > nn; l > ll /V̆_C Jutz 1931: 247, 258; Žirmunskij 1956: 253
+
+nhd.al.sz.dial.(n-al.,schw.)
+h > x /V_ Jutz 1931: 230f.; Žirmunskij 1956: 257 {vor x > χ?}
+
+nhd.al.sz.,vorarlb.dial.,so-bair.dial.
+x > h /V(L)_V Jutz 1931: 210f.; Žirmunskij 1956: 257
+
+nhd.al.w-,z-sz.dial.,m-,n-bair.
+Þ > Ð̥ /V̄_# Jutz 1931: 170; 184; 204; 215 Žirmunskij 1956: 311f. {bair. nach Einsilblerdehnung}
+
+nhd.s-al.,w-s-bair.
+kx > kχ; x > χ /_ Žirmunskij 1956: 257; 316
+
+nhd.al.o-s-sz.dial.
+T > D̥; Þ > Ð̥ /_#V Jutz 1931: 170; 184f.; 189f.; 204; 215
+
+nhd.al.s-sz.w.dial.,s-bair.dial.
+s̺> ʃ; z̺̊ > ʒ̊ /_V Jutz 1931: 197f.; Kranzmayer 1956: 88f.; Žirmunskij 1956: 335; Paul/Wiehl/Grosse 1998: 162
+
+nhd.al.s-sz.w.dial.
+s̺> ʃ; z̺̊ > ʒ̊ /V[+front] Jutz 1931: 197f.; Žirmunskij 1956: 335
+l > ʎ > j /V[+front]; /Cì>0_V Jutz 1931: 256
+d > n /n_{-#,r} Jutz 1931: 191; Žirmunskij 1956: 364f.
+
+nhd.s-s-al.{-s-s-}
+ŋ > 0 /V>Ṽ_x Jutz 1931: 212; Žirmunskij 1956: 353f.
+
+nhd.s-s-al.dial.,s-bair.z.
+kx > kç; x > ç /V[+front] Jutz 1931: 208f.; Kranzmayer 1956: 71b
+
+nhd.bair.
+s̺> ʃ; z̺̊ > ʒ̊ /m_ Kranzmayer 1956: 89b
+
+nhd.bair.{-dial.alpin}
+Cʲ > C /_ Kranzmayer 1956: 71
+
+nhd.bair.dial.
+n > 0 /N,T[-cor]_# Žirmunskij 1956: 358
+
+nhd.bair. (Sprachinseln)
+β > b /#_ Kranzmayer 1956: 74b
+
+nhd.n-,m-bair.
+f > v̊; s > z̊; x > ɣ̊ /{-θ}_{-:;T} Žirmunskij 1956: 329; Paul/Wiehl/Grosse 1998: 130f. {nach C: > C}
+
+nhd.mbair.
+d > n; g > ŋ /_n̩ Kranzmayer 1956: 95f.
+
+nhd.mbair.dial.
+r > 0 /_t Kranzmayer 1956: 125b {daneben > x/š}
+d > r /V_V Kranzmayer 1956: 83a
+
+nhd.n-s-bair.,z-mbair.,so-nbair.dial.
+r > r̥ /#_ Kranzmayer 1956: 122
+
+nhd.o-mbair.dial.
+g > 0 /V_V Kranzmayer 1956: 84b
+
+nhd.o-s-bair.,mbair.
+r > d /_l,n Kranzmayer 1956: 124 {teilweise vor d > n}
+
+nhd.o-s-bair.,mbair.,so-nbair.
+r > ɐ /V_$ Kranzmayer 1956: 122f., 127; Žirmunskij 1956: 346
+
+nhd.o-s-bair.,mbair.dial.
+d > g /_n>ŋ Kranzmayer 1956: 124f.
+l > ḷ /d>0_ Kranzmayer 1956: 124b
+
+nhd.s-bair.
+β > b /_m̩ Kranzmayer 1956: 86f.
+
+nhd.s-bair.ins.d.,w-g.
+ʃ > s̺; s̪> s̺/_ Kranzmayer 1956: 88f.
+
+nhd.s-bair.dial.
+r > ʃ /(V>Vɐ)_t Kranzmayer 1956: 125f.
+r > ʁ /_ Kranzmayer 1956: 121f.
+ʁ > x /(V>Vɐ)_t Kranzmayer 1956: 125f.
+f > p /_s,ʃ Kranzmayer 1956: 88a
+
+nhd.s-bair.dial.,*n-,m-bair.
+l > ł /_C Žirmunskij 1956: 342
+
+nhd.s-bair.ins.
+h > ɣ /V_V Kranzmayer 1956: 90f.
+
+nhd.s-bair.o-z.dial.
+b > v /_ Kranzmayer 1956: 87b
+
+nhd.s-bair.slov.
+d > ð; g > ɣ /_ Kranzmayer 1956: 81a {Adstrat!}
+v > b /_ Kranzmayer 1956: 87b
