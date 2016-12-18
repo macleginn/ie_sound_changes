@@ -4408,3 +4408,172 @@ w > wʲ /_j Jackson 1967: 411
 z-bret.dial.
 χ > ħ /_ Wmffre 2002: 6
 ħ > h /_V Wmffre 2002: 6
+
+*urgerm.
+w > ww; j > jj /V_H>0V Jasanoff 1978b {„Verschärfung“, Phase 1}
+R > RR /V_H>0V Lühr 1976 {„Resonantengemination“}
+t > 0 /ts_ Voyles 1992: 18
+ts > ss /_ Voyles 1992: 18
+dz > z /_D
+Kʷ > K /ū̆ Noreen 1894: 142-146; Seebold 1967: 115f.
+Kʷ > K /_C; /_# Noreen 1894: 142-146; Seebold 1967: 115; Voyles 1992: 44f.
+Kʷ > K /_ō Voyles 1992: 44f.; Rasmussen 1984: 214ff. = 1999: 94ff. {sicher}
+Kʷ > K /_ŏ Noreen 1894: 142-146; Rasmussen 1984: 214ff. = 1999: 94ff. {umstritten}
+*p > *pʰ; *t > *tʰ; *k > kʰ; *kʷ > *kʷʰ /_ Voyles 1992: 36ff.
+*pʰ > ɸ; *tʰ > *θ; *kʰ > *x; *kʷʰ > *xʷ /_ Voyles 1992: 37f. {LV-1a, wohl auch /S_}
+*z > N /V _N Voyles 1992: 65
+*Dʱ > D /V _nV Voyles 1992: 38ff.
+*w > *g /j,w,L,N_u Seebold 1982 {vor LV, nach R > uR}
+*n > D /VD_'V Luick 1964: 1,II 810f.; Lühr 1980; Rasmussen 1989b: 157; Voyles 1992: 38ff. {vor Anfangsakzent, nur /V̆_ nach Rasmussen}
+*b > p; *d > t; *g > k; *gʷ > kʷ /_ Voyles 1992: 37f. {LV-2}
+*t > 0 /V _# {oder später?}
+*ɸ > β; *θ > ð; *s > z; *x > ɣ; *xʷ > *ɣʷ /V C₀[+voice]_[+voice] Voyles 1992: 40f. {Verners Gesetz}
+*bʱ > b; *dʱ > d; *gʱ > g; *gʷʱ > gʷ /#,N_ {LV-3, alternativ > *β…}
+*bʱ > β; *dʱ > ð; *gʱ > ɣ; *gʷʱ > ɣʷ /{-#,N}_ {LV-3, alternativ > *b…}
+?*bʱ > b; *dʱ > d; *gʱ > g; *gʷʱ > gʷ /_ Vennemann 1984; Mottausch 1999; [Voyles 1992: 46f.] {LV-3}
+?*b > β; *d > ð; *g > ɣ; *gʷ > *ɣʷ /V(R)_ Voyles 1992: 46f.
+*β > b; *ð > d; *ɣ > g; *ɣʷ > gʷ /#_; /N_; /_: Noreen 1904: 175; Brøndum-Nielsen 1957: 13, 15f., 22, 23f.; Voyles 1992: 45ff.
+*j > 0 /_i
+*gʷ > b /#_ Seebold 1967; Rasmussen 1998: I 94f.
+*xʷ > ɸ; *ɣʷ > β /C[+lab]…_
+*ɣʷ > w /V_j,l,r,m,n Seebold 1967: 116-127; Voyles 1992: 44f.; Rasmussen 1998: I 89-93
+*ɣʷ > w /i,e_ Seebold 116-127
+*ɣʷ > ɣ /a,o_ Seebold 119-127; Voyles 1992: 45 (Stage 2); Rasmussen 1998: I 89-93
+w > 0 /n>n:_V Voyles 1992: 64
+m > b /#_r Voyles 1992: 64
+m > β /_n Schaffner 2000: 501ff. mit Lit.
+m > n /_# Voyles 1992: 58ff.
+n > 0 /V >Ṽ_# Voyles 1992: 58ff.
+
+*g-germ.
+x > h /_{-$,:}; xʷ > hʷ /_ Voyles 1992: 47f. {aber reversibel, wenn sekundär /_#}
+ŋ > 0 /V>Ṽ_h,x Voyles 1992: 60f.
+gʷ > gw /_ Voyles 1992: 62f.
+
+got.
+β > b; ð > d; ɣ > g /C_ Krause 1968: 69f., 131
+*β > f; *ð > *θ; *z > s /_(s)# Krause 1968: 130f.
+ɣ > x /_(s)# Krause 1968: 131 {unsicher, graphisch nicht erkennbar}
+ww > ggʷ; jj > ɟɟ /_ Krause 1968: 110f. {‹ggw›, ‹ddj›}
+x > h /_$ Krause 1968: 132f. /_V {schon g-germ.}
+z > m /_m Krause 1968: 114
+z > 0 /m_# Krause 1968: 114
+z > 0 /r,s_# Krause 1968: 113f. {nach Synkope}
+
+*g-nwgerm.
+kʷ > kw; xʷ > xw; hʷ > hw /_ Voyles 1992: 62f.
+
+*urnord.
+d > t; g > k /_# Noreen 1904: 174f.; 1923: 161; Brøndum-Nielsen 1957: 14
+β > ɸ; ð > θ; ɣ > x /_# Noreen 1904: 176; 1923: 163; Brøndum-Nielsen 1957: 13
+n > 0 /V>Ṽ:_s Noreen 1904: 190; 1923: 168
+ð > d /z_ [Brøndum-Nielsen 1957: 40f.]
+[z > d /_d Brøndum-Nielsen 1957: 40f.]
+z > ɹ̝/_ Noreen 1923: 163f., 192; Brøndum-Nielsen 1957: 12 {oder jünger, wohl nach Assimilationen}
+
+*g-anord.
+ww > ggʷ; jj > ɟɟ /_ Noreen 1904: 176; 1923: 165f.; Brøndum-Nielsen 1957: 14f. {„Verschärfung“, Phase 2}
+[x > t /V>V̄_t Noreen 1904: 178f.; 1923: 167; Heusler 1932: 51; Brøndum-Nielsen 1957: 41f.]
+n > n̥; l > l̥/_θ Brøndum-Nielsen 1957: 43f.
+θ > n̥ /n̥_; θ > l̥/l̥_ Noreen 1904: 236; 1923: 199; Heusler 1932: 50; Brøndum-Nielsen 1957: 43f.
+θ > 0 /V>V̄_l,w Noreen 1904: 192; 1923: 172; Heusler 1932: 51; Brøndum-Nielsen 1957: 62
+ɸ > β; θ > ð /{-[-voice]} Noreen 1904: 175, 198f.; 1923: 161, 179f.; Heusler 1932: 50; Brøndum-Nielsen 1957: 17
+ð > 0 /V>V̄_l,r,m,n,w Noreen 1904: 186f.; 1923: 215f.; Heusler 1932: 53; Brøndum-Nielsen 1957: 59f.
+h > 0 /X_Y Noreen 1904: 188; 1923: 167; Heusler 1932: 51f.; Brøndum-Nielsen 1957: 62ff.
+x > 0 /_# Noreen 1904: 188; 1923: 167f.; Heusler 1932: 51f.; Brøndum-Nielsen 1957: 64f. {später als sonst}
+β > w /V_(r)u Noreen 1904: 186; 1923: 163, 171f.; Heusler 1932: 52f.; Brøndum-Nielsen 1957: 28; Kümmel 2004: 114ff.
+b > m /V m_ Noreen 1913: 154
+k > kk /V̆_w Noreen 1904: 184f.; 1923: 204; Heusler 1932: 57; Brøndum-Nielsen 1957: 67f.
+k > kk; ɣ > gg /V̆_j Noreen 1904: 184; Noreen 1923: 203f.; Heusler 1932: 52, 56f.; Brøndum-Nielsen 1957: 66f.
+k > kk; ɣ > gg /V̆_l Noreen 1913: 123, 154; Noreen 1923: 204 {sporad.}
+ð > d /V̄l_ Heusler 1932: 58
+ðð > dd /_ Noreen 1923: 196; Heusler 1932: 58; 63; Brøndum-Nielsen 1957: 15f., 46 {nach Synkope}
+θ > t /_# Noreen 1913: 98f. {meist analogisch restituiert}
+[θ > t /t Noreen 1904: 179; 237; 1913: 98f.; Brøndum-Nielsen 1957: 16, 46]
+x > k /V̆_s; /C_s; /_sl,n Noreen 1904: 175; 1923: 162f.; Heusler 1932: 51; Brøndum-Nielsen 1957: 24
+θ > t /l̥,n̥,s,k,p_ Noreen 1923: 176; Heusler 1932: 55; Brøndum-Nielsen 1957: 22f.
+ð > d /V̆l_ Heusler 1932: 52 {nach 1300}
+k > c; g > ɟ; ɣ > ʝ /_j,V[+front] Noreen 1904: 177f., 216ff.; 1913: 150; 1923: 190ff.; Brøndum-Nielsen 1957: 25f.
+ɣ > ʝ /ɹ̝_ Noreen 1923: 191
+j > 0 /#_V Noreen 1904: 188f.; 1923: 168; Heusler 1932: 45; Brøndum-Nielsen 1957: 54
+j > 0 /$C_ Noreen 1904: 188f.; 1913: 106; Heusler 1932: 45
+j > 0 /_V[+front] Noreen 1904: 188f.; 1913: 106; Heusler 1932: 45
+w > 0 /#_l Noreen 1904: 191; 1923: 170; Heusler 1932: 49; Brøndum-Nielsen 1957: 51
+w > 0 /#_rV[+round] Noreen 1904: 191; 1923: 170; Brøndum-Nielsen 1957: 51
+w > 0 /_$ Noreen 1904: 192; Heusler 1932: 49f.; Brøndum-Nielsen 1957: 53f.
+w > 0 /_V[+round] Noreen 1923: 169f., 171f.; Heusler 1932: 49; Brøndum-Nielsen 1957: 50f.
+w > 0 /ō_ Noreen 1904: 191; 1923: 170; Brøndum-Nielsen 1957: 51f.
+w > 0 /V̄C_; /VC₁C₂_ Noreen 1904: 192; Noreen 1923: 170f.; Heusler 1932: 49; Brøndum-Nielsen 1957: 52f.
+n > 0 /_w Noreen 1913: 107; Brøndum-Nielsen 1957: 57
+N > 0 /'V>Ṽ:_# Noreen 1904: 189, 190; 1923: 221; Brøndum-Nielsen 1957: 57f.
+n > 0 /V>Ṽ:_l,r Noreen 1904: 190; 1923: 220; Heusler 1932: 47f.; Brøndum-Nielsen 1957: 56f.
+m > 0 /V>Ṽ:_ɸ$ Noreen 1904: 189; 1923: 220; Brøndum-Nielsen 1957: 55
+m > 0; n > 0; ŋ > 0 /'V_{-$}T>T: Noreen 1904: 179ff.; 1923: 192ff.; Heusler 1932: 48; Brøndum-Nielsen 1957: 29-38
+m > 0; n > 0; ŋ > 0 /V _T>T: Noreen 1904: 179ff.; 1923: 192ff.; Heusler 1932: 48; Brøndum-Nielsen 1957: 29-38
+N > 0 /V _# Brøndum-Nielsen 1957: 57f.
+m > β /_n Noreen 1904: 176; 1923: 164; Heusler 1932: 48; Brøndum-Nielsen 1957: 21
+nn > ð /_r,ɹ ̝Noreen 1904: 176f.; 1923: 189f.; Heusler 1932: 48f.; Brøndum-Nielsen 1957: 21 {dän. nicht belegbar!}
+ð > ɣ /Vu̯_u; /i̯o_u Noreen 1904: 176; 1923: 188f.; Heusler 1932: 53; Brøndum-Nielsen 1957: 27f.
+ɸ > m /m._V Heusler 1932: 50 {nur 1 Beispiel!}
+tt > t /_r Heusler 1932: 65
+*Kʷ > K /V[+round]_ Noreen 1904: 191f.; 1923: 170; Heusler 1932: 44; Brøndum-Nielsen 1957: 52
+*Kʷ > Kw /_ {Zwischenstufe}
+h > 0 /#_R̥ [Noreen 1913: 125, 160; Brøndum-Nielsen 1957: 309f.] {graphisch erhalten}
+R > R̥ /#h>0_ [Noreen 1913: 125, 160]
+θ > ð /#_V  Brøndum-Nielsen 1957: 98-101 {generalisierte Varianten nur o-norw.,o-nord.{–o-schw.}}
+
+g-anord.{-isl.}
+R̥ > R /{#}_ Noreen 1913: 125, 160
+
+anorw.dial.,w-/n-aschw.dial.
+pp > ʰpp; tt > ʰtt; cc > ʰcc; kk > ʰkk /_ Wolter 1965; Ternes 1989: 53; Rießler 2004 {zentrale Innovation}
+
+anorw.dial.,aschw.dial.
+p > ʰp; t > ʰt; c > ʰc; k > ʰk /_ Hansson 2001: 167-170; Rießler 2004: 176
+
+*g-nord.dial.
+l > ḷ /{-#}_{-d,t}{-:} Noreen 1923: 42
+
+g-nord.{-o-schw.}
+p > pʰ; t > tʰ; k > kʰ; kʷ > kʷʰ /#_ Haugen 1984: 92f. {dän.,isl.-fär. phonologisiert}
+
+g-onord.
+ɹ̝> r /C[+cor]_ Brøndum-Nielsen 1957: 74f. {900-1000}
+ɹ̝> r /C[-cor]_ Brøndum-Nielsen 1957: 354f. {später}
+p > pp; t > tt; k > kk /_l,n,r Noreen 1913: 154
+
+agutn.
+w > 0 /#_r Noreen 1904: 255
+*c > k; *ɟ > g /_ Noreen 1904: 216f. {falls vorhanden}
+
+ngutn.
+t > 0 /V̀_#
+j > 0 /Vt,d,n,l_
+
+aschw.dial.dal.,vml.,sml.
+ɹ̝> 0 /{-ŭ}_(##)C Noreen 1904: 251f.
+
+aschw.dial.ögl.,sml.
+ɹ̝> 0 /{-V_V}; /{-ŭ,ŏ}_# Noreen 1904: 252f.
+
+aschw.dial.uppl.,vgl.
+ɹ̝> 0 /V _C; /r(C₀)(V₀)_#; /V̀_# Noreen 1904: 249ff.
+
+g-aschw.
+ɹ̝> r /V_ Noreen 1904: 221; 1913: 146 {ab 1100}
+t > d > ð; k > g > ɣ /V̀_ Noreen 1904: 207ff.; 1913: 151f.
+d > n /V̀n_; d > l /V̀l_ Noreen 1904: 175; 1913: 153 {vor 1300}
+d > ð /V(r)_ Noreen 1904: 205f. {sekundäre Fälle}
+ð > d /b,g,l,m,n_ Noreen 1904: 195; 1913: 147
+ɣ > g /ð_ Noreen 1904: 197; 1913: 148
+ɣ > ŋ /_n Noreen 1904: 197; 1913: 148
+b > p; d > t; g > k /s Noreen 1904: 205f.; 1913: 149
+j > ʝ /$_ Noreen 1904: 211f.
+*ɸ > f /_ Noreen 1904: 212; 1913: 147
+t > s /_s Noreen 1904: 224f.; 1913: 153
+x > k /_s,t Noreen 1904: 204
+θ > t /f,k,p_ Noreen 1904: 201; 1913: 149
+x > k /s,t_ Noreen 1904: 204
+θ > t /s_ Noreen 1904: 200f.
+θ > t /l̥,n̥_ Noreen 1904: 201
+t > tt; k > kk; s > ss; ð > dd; ɣ > gg; m > mm; n > nn; l > ll /_j Noreen 1904: 228f.; 1913: 154
