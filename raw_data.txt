@@ -5389,3 +5389,334 @@ sʲ > sj /#_ Århammar 2001: 758f.
 nnfr.n-festl.
 t > ṯʲ; d > dʲ /e:,a:,o:_# Siebs 1901: 1273, 1278f.; Århammar 2001: 759
 n̪n̪ > ɲ; l̪l̪> ʎ /e:,a:,o:_# Siebs 1901: 1262, 1265, 1278f.; Århammar 2001: 759
+
+nnfr.karrh.
+ð > r ~ 0 /V_r,r̩ Århammar 2001: 761f.
+
+nnfr.bök.,*karrh.
+ð > z̪ /V_r,r̩ Siebs 1901: 1281f.; Århammar 2001: 761f.
+
+nnfr.karrh.,wied.
+d > ḏʒ /#_j Århammar 2001: 760
+
+as.
+ʝ > 0 /V_i; i_# Gallée 1910: 170f., 171f.
+β > m /_n Gallée 1910: 157, 161f.
+h > 0 /V(R)_V Gallée 1910: 175ff.; Lasch 1914: 187
+w > 0 /_o,u Gallée 1910: 149f.
+w > 0 /C_V Gallée 1910: 151; Lasch 1914: 156
+[θ > ð /V(R)_[+voice] Gallée 1910: 184f.]
+ð > d /n$_ Gallée 1910: 187
+ð > d /_# Gallée 1910: 188ff. {‹th,đ,d,t›; vor d > t}
+j > ʝ /_ Gallée 1910: 151f. {‹i,g,gi,ge›}
+w > ɣ /u,u̯_V Gallée 1910: 171
+ɣ > ʝ /_V[+front] Gallée 1910: 167-172 {‹g,i,gi›}
+d > t /_# Gallée 1910: 183 {‹d,t›}
+
+as.,anfrk.,ahd.
+C: > C /_#,C {nach LV fortwirkend, später analog. durchkreuzt} Lasch 1914: 132,135; Braune/Reiffenstein 2004: 96
+m > n /_# Borgelt 1899: 36; Gallée 1910: 155; Lasch 1914: 144f.; Braune/Reiffenstein 2004: 120
+
+as.,anfrk.
+x > s̺/_s̺[Borgelt 1899: 47]; Gallée 1910: 178; van der Meer 1927: 107f.; Goossens 1974: 68
+
+as.dial.
+k > c /_V[+front] Gallée 1910: 165 {‹ki,ke›}
+k > g /_n Gallée 1910: 165
+s > ʃ /#_l Gallée 1910: 191; Lasch 1914: 173 {‹sc›}
+c > ṯɕ /_ Gallée 1910: 165; Lasch 1914: 177f. {‹z›, sporad.}
+
+as.dial.,mnd.
+b > m /m_V Gallée 1910: 155, 160; Lasch 1914: 145f.
+f > v; θ > ð /#_ Gallée 1910: 163, 184f.; Lasch 1914: 150 {‹f› > ‹u,v›}
+
+as.dial.,anfrk.{-dial.},mhd.mfrk.
+*ɸ > x /_t Borgelt 1899: 42; Gallée 1910: 164; van der Meer 1927: 88f.; Paul/Wiehl/Grosse 1998: 175
+*β > v /_ Lasch 1914: 152
+j > 0 /C_V Lasch 1914: 137f., 186
+
+mnd.
+w > 0 /V_ Lasch 1914: 156
+n > 0 /V̀_(#)C Lasch 1914: 147
+k > ɣ /V̀_ Lasch 1914: 176 {> x /_#}
+c > k /_ Lasch 1914: 178 {sofern vorhanden}
+[x > 0 /r_t Lasch 1914: 190 {häufig}]
+x > 0 /V̄,C_# Lasch 1914: 187
+
+mnd.{-s-wf.}
+k > x /#s_ [Lasch 1914: 173f.]
+
+mnd.dial.sp-as., mnd.
+d > l ̪/l>l_̪; d > n̪ /n>n̪_ Gallée 1910: 182; Lasch 1914: 167f. {‹ld,nd›}
+w > ɣ /V[-front]_V Lasch 1914: 152, 158, 185
+w > β ~ v /_ Lasch 1914: 151f. {‹w›: ‹v› > ‹w,v›}
+
+mnd.dial.
+l̪l̪> ʎʎ; n̪n̪ > ɲɲ /_ Lasch 1914: 167f.
+s > z ~ z̊ /#_ [Lasch 1914: 171]
+
+mnd.dial.,nnd.meckl.,pomm.,nw-brand.
+d > r /V_V Lasch 1914: 139; Žirmunskij 1956: 294
+
+mnd.dial.,nnd.{-dial.}
+n̪n̪ > nn; l̪l̪> ll /_ [Lasch 1914: 167f.]
+d > 0 /V̄_V Lasch 1914: 169f.; Žirmunskij 1956: 294
+
+mnd.dial.{-wf.}
+x > ç /s̺_ Lasch 1914: 173f. {Zwischenstufe}
+ç > ʃ /s>ʃ_ Lasch 1914: 173f.
+
+o-mnd.dial.östl.
+n̪n̪ > ŋŋ /_ Lasch 1914: 168
+
+mnd.westf.
+j > gg /ei>e;î>i_; w > gg /û>u;ou>o_ Lasch 1914: 185
+
+mnd.dial.,mnl.,mhd.rip.,no-th.,n-os.
+g > ɣ /#_ Goossens 1974: 67
+
+mnd.,mnl.
+j > ʝ /_i Borgelt 1899: 33; Lasch 1914: 181; van der Meer 1927: 92 {‹g›}
+z > s; ɣ > x /_R Lasch 1914: 131f.
+ð > d /_ Borgelt 1899: 52; Lasch 1914: 165f.; van der Meer 1927: 80 {wf.of. > nns. ‹th,dh,d› > ‹d›}
+l > ł /V_C Lasch 1914: 141 {Zwischenstufe, immer?}
+C: > C /_ Lasch 1914: 135; Goossens 1974: 73f. {nach V>V̄ /_CV}
+
+sp-mnd.,nnfrk.
+d > t /#_w Lasch 1914: 162; Žirmunskij 1956: 376
+
+nnd.
+v > f /#_ Žirmunskij 1956: 337f.
+w > β /#C_ Žirmunskij 1956: 337f.
+
+nnd.(nns.,br.),balt.
+g > ɣ > ʝ /#_V[+front] Žirmunskij 1956: 285
+
+nnd.(s-)wf.,s-of.
+z > s; ɣ > x /#_ Žirmunskij 1956: 284; 331
+
+nnd.{-s-wf.,s-of.,nfrk.}
+T > Tʰ /#(R)_'V Žirmunskij 1956: 257f.
+
+n-nnd.dial.
+Tʰ > TÞ /#_ Žirmunskij 1956: 258 mit Anm. 17; Goblirsch 2005: 26
+
+nnd.{-s-wf.dial.}
+w > v /#_V Žirmunskij 1956: 337f. {wo nicht schon früher}
+
+nnd.br.
+ɣ > ʝ /#_ Žirmunskij 1956: 285f.
+ɣ > ʝ > j /l,r_ Žirmunskij 1956: 287
+s > ʃ /r_ Žirmunskij 1956: 335
+ɣ > 0 /ā,ī,au_V Žirmunskij 1956: 287
+
+nnfrk.
+s̺> ʃ /#_C Žirmunskij 1956: 333
+
+mhd.rip.,no-th.,n-os.
+ɣ > ʝ /#_ Žirmunskij 1956: 285f.
+
+nnd.dial.
+v > b̥; ɣ > ɡ̊ /V_n̩,l̩ Žirmunskij 1956: 287
+x > ç; ɣ > ʝ /{-V[-front]}_ Žirmunskij 1956: 286f.
+x > χ; ɣ > ʁ /V[-front]_ Žirmunskij 1956: 286f.
+r > 0 /V_t,s Žirmunskij 1956: 344f.
+r > ɐ /V>V̄_d,n,# Žirmunskij 1956: 344f.
+
+nnd.dial.{-dial.br.}
+d > ð /V_V
+
+nnd.holst.,meckl.
+z > z̊ /#_ Žirmunskij 1956: 331
+ʝ > ʒ /#_ Žirmunskij 1956: 341
+
+nnd.meckl.
+ɣ > ɡ̊ /V_V Žirmunskij 1956: 286f.
+
+nnd.holst.dial.
+z > z̊ /X_ Žirmunskij 1956: 331
+
+nnd.n-of.,nns.dial.
+r > ɐ /V>Vˤ_t,s Žirmunskij 1956: 345
+r > ɐ /V>Vˤ:_$C[-cor] Žirmunskij 1956: 345
+
+nnd.n-of.,z-nns.
+v > b̥; ɣ > ɡ̊ /V_V Žirmunskij 1956: 281f., 286f.
+
+nnd.wf.dial.
+v > b̥ /V_V Žirmunskij 1956: 281f.
+
+nnd.n-wf.,w-nns.,ond.
+dd > r /V_ Žirmunskij 1956: 294
+
+nnd.n-wf.dial.
+s > ʃ /#_x Žirmunskij 1956: 334
+
+nnd.s-wf.,nnfrk.
+k > 0 /s_# {nur wo k sonst erhalten!}
+
+nnd.s-wf.,s-br.
+w > b /#_l,r Žirmunskij 1956: 338f.
+
+nnd.s-wf.,s-of.,nnfrk.,(nhd.rip.)
+v > f /#_l,r Žirmunskij 1956: 338f.
+
+nnd.s-wf.dial.
+w > b /#_ Žirmunskij 1956: 338
+x > ç /#s_ Žirmunskij 1956: 334
+
+nnd.sw-wf.,of., nns.,meckl.
+p > b̥; t > d̥; k > ɡ̊ /V̄_ Žirmunskij 1956: 307
+
+nnd.wf.,of.,w-nns.
+ð > 0 /V̄_ Žirmunskij 1956: 293f.
+ð > 0 /V_V Žirmunskij 1956: 293f. {sporad.}
+
+nnd.wf.lipp.
+x > ç; ɣ > ʝ /_ Žirmunskij 1956: 284
+
+nnd.wf.pad.
+x > χ; ɣ > ʁ /_ [Žirmunskij 1956: 284]
+
+nnd.wf.dial.
+x > ç /#_V[+front]; x > χ /#_{-V[+front]} [Žirmunskij 1956: 284]
+
+anfrk.,g-ahd.
+*ɸ > f /_ Borgelt 1899: 41; Braune/Reiffenstein 2004: 128
+m > n /_ɸ>f Borgelt 1899: 36; Braune/Reiffenstein 2004: 120
+h > 0 /#_R Borgelt 1899: 31, 46; van der Meer 1927: 81; Goossens 1974: 68; Braune/Reiffenstein 2004: 147f.
+w > 0 /C_o,u Borgelt 1899: 31; van der Meer 1927: 90; Braune/Reiffenstein 2004: 108
+j > 0 /C{-r}_V Borgelt 1899: 34; Braune/Reiffenstein 2004: 115ff.
+*x > χ /_$ van der Meer 1927: 88; Braune/Reiffenstein 2004: 145f., 151f.
+k > x /s̺_ Borgelt 1899: 43f.; van der Meer 1927: 89; Goossens 1974: 76; Braune/Reiffenstein 2004: 140f.
+f > v̊ /#_ Borgelt 1899: 41; van der Meer 1927: 80; 144; Braune/Reiffenstein 2004: 130ff.
+
+anfrk.,g-ahd.{-lang.}
+θ > ð̥ /#_ Borgelt 1899: 52; Braune/Reiffenstein 2004: 163f. {vor S > Z}
+
+anfrk.,g-ahd.{-mfrk.}
+w > 0 /#_l Borgelt 1899: 31; Braune/Reiffenstein 2004: 108
+
+anfrk.,ahd.mfrk.,hess.,n-th.
+D > T /_# Borgelt 1899: 40, 46, 51; van der Meer 1927: 79f.
+*β > v /_ Borgelt 1899: 41; Braune/Reiffenstein 2004: 128
+*v > f; ɣ > x /_# Borgelt 1899: 41, 45f.; van der Meer 1927: 79f.; Braune/Reiffenstein 2004: 128, 141f.
+f > v; θ > ð; s̺> z̺‹s,z› /V_(R)V Borgelt 1899: 41f., 53; van der Meer 1927: 80, 109, 118; Braune/Reiffenstein 2004: 130-133, 163ff., 167
+s̺> z̺/#_ van der Meer 1927: 80, 109f.
+v̊ > v /_ Braune/Reiffenstein 2004: 130ff.
+
+anfrk.
+n > 0 /V_f# [Borgelt 1899: 38]; van der Meer 1927: 131
+
+mnl.
+d > ð /V_V Gossens 1974: 99f.
+d > t /_R van der Meer 1927: 80, 97
+x > s̺/s̺_V ,# van der Meer 1927: 107 {‹ss,ssch,ssc,sch›}
+ł > w /(a>)o_d,t van der Meer 1927: 65f.
+θθ > ss /_ van der Meer 1927: 105 {sporad.}
+
+mnl.dial.
+n > 0 /V _# van der Meer 1927: 132f.
+
+mnl.holl.
+d > 0 /V_V van der Meer 1927: 129ff. {nach l > w; Hyperkorrektur?}
+
+nnl.
+b > m; g > ŋ /ŋ_{-#} van der Meer 1927: 120f., 123; Goossens 1974: 83
+g > ɣ /_ Goossens 1974: 83 {nach C: > C, vor Ð > Þ}
+w > v /#_r van der Meer 1927: 119; Goossens 1974: 85
+
+nnl.dial.
+x > χ; ɣ > ʁ
+v > f; z > s; ʁ > χ /_ Goossens 1974: 27
+
+g-(vor)ahd.{-mfrk.,hess.,n-th.}
+β > b; ð > d; ɣ > g /_
+
+*g-vorahd.{-rip.,n-hess.,n-th.}
+*p > *pʰ; *t > *tʰ; *k > *kʰ /{-Þ,s}_ Braune/Reiffenstein 2004: 84f.; Goblirsch 2005: 194-199
+?*pʰ > *pf; *tʰ > *t̪s̪; *kʰ > *kx /V_V Braune/Reiffenstein 2004: 84f.; Goblirsch 2005: 194-199
+
+g-ahd.{-rip.,n-hess.,n-th.}
+*tʰ > t̪s̪/#_{-r};_:;C_ Braune/Reiffenstein 2004: 85f., 152-155 {‹c, z(z), tz›}
+?*pf > ff; *t̪s̪> s̪s̪ ‹zz, zs(s)›; *kx > xx /V_V Braune/ Reiffenstein 2004: 84f., 126f., 138f., 152f., 155ff.
+
+ahd.rip.,n-hess.,n-th.
+*t > t̪s̪‹c, z(z), tz› /#_{-r};_:;C_ Braune/Reiffenstein 2004: 85f., 152-155; Goblirsch 2005: 194-199 {Lautersatz nach südlichen Dialekten?}
+*p > ff; *t > s̪s̪ ‹zz, zs(s)›; *k > xx /V_V Braune/Reiffenstein 2004: 84f., 126f., 138f., 152f., 155ff.; Goblirsch 2005: 194-199 {Lautersatz nach südlichen Dialekten?}
+
+g-ahd.
+*θ > ð̥ /V(R)_ Braune/Reiffenstein 2004: 163ff. {vor S > Z}
+ð̥ð̥ > d̥d̥ > tt /_ Braune/Reiffenstein 2004: 166
+j > ʝ /V̆r_ Braune/Reiffenstein 2004: 116f.
+ð̥ > d̥ /_ Braune/Reiffenstein 2004: 163ff. {später, vor S > Z}
+x > ç /s̺_ Braune/Reiffenstein 2004: 140f.
+t > d̥ /n_ Paul/Wiehl/Grosse 1998: 133
+
+ahd.{-s-od.}
+ÞÞ > Þ /V̄_ Braune/Reiffenstein 2004: 100f.
+
+g-ahd.{-bair.}
+j > r /r_ Braune/Reiffenstein 2004: 115ff.
+
+g-ahd.{-mfrk.,hess.,n-th.}
+bb > pp /_ Braune/Reiffenstein 2004: 128f. {frk. später}
+f > v̊; s̺> z̺̊ /V_(R)V Braune/Reiffenstein 2004: 104, 130ff.
+
+g-ahd.{-mfrk.}
+d > d̥ /_
+w > 0 /#_r Braune/Reiffenstein 2004: 108
+d̥d̥ > tt /_ Braune/Reiffenstein 2004: 159-162
+
+ahd.rip.
+?pʰ > p; kʰ > k /_ {Lautersatz oder Archaismus?}
+
+ahd.rhfrk.
+d̥ > t /_# Braune/Reiffenstein 2004: 159f.
+
+ahd.s-mfrk., rhfrk.
+*pʰ > pf > f /l,r_ Braune/Reiffenstein 2004: 85
+
+ahd.dial.,mhd.{-al.sz.dial., s-,m-bair.dial.}
+h > 0 /V_V Kranzmayer 1956: 91f.; Paul/Wiehl/Grosse 1998: 138; Braune/Reiffenstein 2004: 149
+
+ahd.s-rhfrk.,ofrk.
+g > k /_# Braune/Reiffenstein 2004: 141f. {sporad.}
+
+ahd.ofrk.
+n > 0 /V_# Braune/Reiffenstein 2004: 121f.
+
+ahd.ofrk.,od.
+*pʰ > pf /#_;_:;C_ Braune/Reiffenstein 2004: 85
+
+ahd.ofrk.,od.
+b > b̥; g > ɡ̊ /_ Braune/Reiffenstein 2004: 129f., 143f.
+d̥ > t /X_ Braune/Reiffenstein 2004: 159f.
+
+ahd.ofrk.{-srhfrk.},od.
+d̥ > t /#_ Braune/Reiffenstein 2004: 159f.
+
+ahd.od.
+*kʰ > kx /#_;_:;C_ Braune/Reiffenstein 2004: 85, 136f.
+ɡ̊ɡ̊ > kk /_ Braune/Reiffenstein 2004: 143ff.
+b̥ > p /#_ Braune/Reiffenstein 2004: 129f. {sporad.}
+ɡ̊ > k /#_;_# Braune/Reiffenstein 2004: 143f. {sporad.}
+d̥ > t /_V(R)C[+fortis] Kranzmayer 1956: 78a {„Schröders Assimilationsgesetz“}
+
+ahd.od.bair.
+D̥ > T /_# Kranzmayer 1956: 79
+k > kx /_# Paul/Wiehl/Grosse 1998: 167; Braune/ Reiffenstein 2004: 144
+
+ahd.s-od.dial.
+D̥ > T /##_; /p,t,k,s#_ Kranzmayer 1956: 77b; Braune/ Reiffenstein 2004: 105f. {„Notkers Anlautgesetz“}
+
+ahd.,lang.
+θ > t /#_ Braune/Reiffenstein 2004: 163f.
+θ > ð > d /[+voice] Braune/Reiffenstein 2004: 163ff.
+
+mhd.
+D > T /_# Paul/Wiehl/Grosse 1998: 130
+ç > ʃ /s̺>ʃ_
+b > 0; d > 0; g > 0 /i,e_i Kranzmayer 1956: 79f.; Paul/Wiehl/Grosse 1998: 135ff.
+r > 0 /V̄_# Paul/Wiehl/Grosse 1998: 143
+t > k; d > g /_l Paul/Wiehl/Grosse 1998: 159
