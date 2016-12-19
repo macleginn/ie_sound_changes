@@ -99,7 +99,7 @@ s > ts /l,n_ Melchert 1994a: 278; 2003: 178, 183
 t > k /_w Melchert 1994a: 274
 ?s > t /#? Melchert 1994a: 274f. {sporad.}
 t > s /V_sV Melchert 1994a: 269f. {altes *tsj bleibt!}
-?kw > kw Melchert 1994a: 251
+?kw > kw /??? Melchert 1994a: 251
 
 hluw.
 d > ɾ; l > ɾ /V_V Melchert 1994a: 237f., 253, 259; 2003: 179f. {nicht = /r/ < *r, da keine umgekehrten Schreibungen}
@@ -129,10 +129,10 @@ mil.-lyk.
 *k > c /_V[+front] [Melchert 1994a: 306] {nach *o > e und a-Umlaut!}
 
 mil.,kar.
-*ɕ > *s vgl. oben IV.1.B; Adiego 2007: 259
+*ɕ > *s /??? vgl. oben IV.1.B; Adiego 2007: 259
 *s > ts /R Melchert 1994a: 314; [Adiego 2007: 260f.]
 *ts > s̺ ~ ʃ ‹z› /_ [Adiego 2007: 260f.] vgl. oben IV.1.B
-*s > s̪ ‹s› [Adiego 2007: 260f.] vgl. oben IV.1.B
+*s > s̪ ‹s› /??? [Adiego 2007: 260f.] vgl. oben IV.1.B
 
 lyk.
 *t > k /#_w Melchert 1994a: 302
@@ -141,7 +141,7 @@ lyk.
 ?*ts > s̪ ‹z› /_ vgl. oben IV.1.B
 ?*s > s̪ ‹z› /_r vgl. oben IV.1.B
 *s > h /_V Melchert 1994a: 304f. {auch /#_0>əT?}
-*ɕ > ʃ ~ s̺ ‹s› [Melchert 1994a: 302] vgl. oben IV.1.B
+*ɕ > ʃ ~ s̺ ‹s› /??? [Melchert 1994a: 302] vgl. oben IV.1.B
 *s > s̺ ~ ʃ /_(T>0) [Melchert 1994a: 304] vgl. oben IV.1.B
 *ṯɕ ‹τ› > t ‹t› /_ Melchert 1994a: 282, 284, 303; Adiego 1995: 30
 w > β ~ v /C_ Melchert 1994a: 308
@@ -168,7 +168,7 @@ j > 0 /C_V Melchert 1994a: 363f.
 j > ð /#,V_V Melchert 1994a: 364
 Vn > Ṽ /_D Melchert 1994a: 361f.
 *kw > k /_u,o Melchert 1994a: 357
-*kw > kw Melchert 1994a: 357
+*kw > kw /??? Melchert 1994a: 357
 
 *vorurtoch.
 *bɦ > m /m_ Ringe 1996: 42f.
@@ -238,7 +238,7 @@ kw > p /_T Ringe 2004: 471f.
 p > β ‹w› /V(L)_V Ringe 1996: xxivf. {dialektal}
 
 uriir.
-*χ > *h [Mayrhofer 1986: 135-139; Kobayashi 2004: 129ff.]
+*χ > *h /??? [Mayrhofer 1986: 135-139; Kobayashi 2004: 129ff.]
 "ḱ" > *c; "ḱh" > *ch; "ǵ" > *ɟ; "ǵɦ" > *ɟɦ /{-S}_ [Lu- botsky 2001]
 *Kw > *K /_ Mayrhofer 1989: 6
 *T > Th; *D > *Dɦ /_h>0 [Mayrhofer 1986: 135-139; Kobayashi 2004: 108]
@@ -284,7 +284,7 @@ S > h /_## Wackernagel 1896: 259ff.
 aia.dial.
 *ṯɕh >ṯṯɕh /ɕ>0_
 bɦ>ɦ; dɦ>ɦ; ḍɦ>ɦ /V(#)_V Wackernagel 1896: 250-253; Kobayashi 2004: 84-91 {dialektal?}
-ḍ>ɺ̣‹ḷ›;ḍ̈ɦ>ɺɦ̣ ‹ḷh›/V_VWackernagel1896:255f. {sporad.}
+ḍ>ɺ̣‹ḷ›;ḍ̈ɦ>ɺɦ̣ ‹ḷh›/V_V Wackernagel1896:255f. {sporad.}
 w > v ~ ʋ /(#)_V Wackernagel 1896: 223
 ɾ > l /? Wackernagel 1896: 216-221
 *Zɦ > S /D>T_ Wackernagel 1896: 239ff., 241f.; Scharfe 1996; Kobayashi 2004: 64ff.; 122-126 {nur dialektal, teilweise vor, teilweise nach Grassmanns Gesetz}
@@ -398,8 +398,7 @@ nia.s.,l.
 s > h /V_V Masica 1991: 194
 
 nia.s.,l.dial.
-b > ɓ; d >ɗ;ḍ > ɗ; ḏʓ > ʄ; g > ɠ /#_; /_: Turner 1924;
-Masica 1991: 209 {vor j > ḏʓ}
+b > ɓ; d >ɗ;ḍ > ɗ; ḏʓ > ʄ; g > ɠ /#_; /_: Turner 1924; Masica 1991: 209 {vor j > ḏʓ}
 ɗ > ɗ̣ /{-n}_ Turner 1924; Masica 1991: 209
 
 nia.s.
@@ -530,21 +529,20 @@ Dɦ > Th /_ Sampson 1926: 34f.; Masica 1991: 210; Matras 2002: 35 {rom. nach Hau
 *ð > l /(V)_ Sampson 1926: 35; Masica 1991: 199; Matras 2002: 33, 37
 
 nia.lom.
-*ḍ >*ṛ> r /_Sampson1926:35{altes*ṭ}
+*ḍ >*ṛ> r /_Sampson1926:35 {altes*ṭ}
 ḍ > *d /#_ [Sampson 1926: 35f.]; Matras 2002: 37f.
 d > l /#_ Sampson1926:35f.;Matras2002:37f. 
 ʃ> s /_[Matras2002:47]
 
 nia.rom.
-*ð > l; *ðɦ > *lɦ /V_V Sampson 1926: 35; Matras
-2002: 33, 37
+*ð > l; *ðɦ > *lɦ /V_V Sampson 1926: 35; Matras 2002: 33, 37
 D > Dɦ /_...Dɦ>D Sampson 1926: 34; Turner 1959; Matras 2002: 35f. {vor Dɦ > Th}
 ḍ > ɾ̣ /#_ Sampson 1926: 35 Anm. 2; Matras 2002: 37f.
 w > b /#_ Matras 2002: 32
 
 nia.rom.{-bulg.dial.}
 ɾ̣ > r /_ Sampson 1926: 35f.; Matras 2002: 50 {gegen *r = /ɾ/} nia.rom.keld.
-r > ʀ /_Matras2002:50f.
+r > ʀ /_ Matras2002:50f.
 
 nia.rom.{-dial.}
 ɾ > r /_ Matras 2002: 50f. {*r = r < *ḍ}
@@ -611,14 +609,14 @@ Th > TTh /_
 dard.k.
 ɦ > 0 /_ Masica 1991: 199f.
 w > v /V_#
-r > 0 /k,g,p,b_{sporad.}
+r > 0 /k,g,p,b_ {sporad.}
 ʆ > h; ṣ > h /? Masica1991:194,199f.
 ṣ > ʆ; ṭṣh > ṯʆh /_ Masica 1991:199f.
 ɾ̣ > r /_
 dz > z /_ Masica 1991: 207
 
 dard.k.{-dial.}
-Dɦ > D /_Masica 1991: 203
+Dɦ > D /_ Masica 1991: 203
 T > Th /_# Masica 1991: 204
 n > 0 /V̄>Ṽ:_d
 
@@ -819,10 +817,10 @@ dard.paš.no.k.
 r > 0; ɾ̣ > 0 /V_# Morgenstierne 1967: 35
 
 dard.paš.no.kurd.
-kh > k /_Morgenstierne1967:19
+kh > k /_ Morgenstierne1967:19
 
 dard.paš.no./so.
-ɦ > 0 /_Morgenstierne1967:31
+ɦ > 0 /_ Morgenstierne1967:31
 kh > x /_ Morgenstierne 1967: 19, 28f.
 x > ħ /_ Morgenstierne 1967: 28f. {dialektal}
 
@@ -837,7 +835,7 @@ r > ṛ /k,p,(b)_ Morgenstierne 1967: 17, 38f.
 
 dard.paš.nw.g.pach.
 k > p; g > b /_r vor r > l Morgenstierne1967:17,38f.
-b > 0 /_lMorgenstierne1967:17,28f.
+b > 0 /_l Morgenstierne 1967: 17,28f.
 
 dard.paš.no.a.,ka.
 k > p /_r vor r > l Morgenstierne 1967: 20, 38f.
@@ -850,10 +848,10 @@ T > 0 /_l;̥ D > 0 /_l Morgenstierne 1967: 14, 20, 38f. {sw. nur *p,k,b,g} dard.
 ṭṣh > ṣ /#_ Morgenstierne 1967: 14,17,41
 
 dard.paš.no.ch.,k.(a.,ka.)
-ṯʆ > ts; ḏʓ > dz /_Morgenstierne 1967: 20, 31
+ṯʆ > ts; ḏʓ > dz /_ Morgenstierne 1967: 20, 31
 
 dard.paš.no.ch.,k.,so.
-r > l /T_Morgenstierne 1967: 20, 38f.
+r > l /T_ Morgenstierne 1967: 20, 38f.
 
 dard.paš.nw.nang.
 ɬ > s /_ Morgenstierne 1967: 17, 38f.
@@ -866,17 +864,18 @@ dard.paš.so.d.
 Th > T; D̤ɦ > D /_ Morgenstierne 1967: 253
 
 dard.paš.sw.,nw.p.,nj.,u.,nang.,no.a.,ka.
-r > l /T[-cor]_Morgenstierne 1967: 14, 17, 20, 38f.
+r > l /T[-cor]_ Morgenstierne 1967: 14, 17, 20, 38f.
 
 dard.paš.sw.
-l̥ > l /_Morgenstierne 1967: 14, 22, 38f.
+l̥ > l /_ Morgenstierne 1967: 14, 22, 38f.
 
 dard.tir.
 ṯʆ > ts; ṯʆh > ts; ḏʓ > dz /_ ṭṭṣh > ṯʃ /_
 ṣ > x /_ṭ>t
 ʆ > 0; ṣ > 0 /_#
+dz > z /_
 
-dz > z /_ dard.d.
+dard.d.
 j > ʓ /#_ Morgenstierne 1942b: 126
 ɾ̣ > ɻ /V_ Morgenstierne 1942b: 126f.
 0 > t /ts_r
@@ -1048,7 +1047,7 @@ javest.dial.
 
 postav.
 h > ç /_j; h > x /_w Beekes1988a: 14; deVaan 2003: 574ff.
-rt̥ >r̥>l̥>ṣ Hoffmann 1986=1992:837-857;deVaan 2003: 602, 622 {av. ‹ṣ̌› mpers. ‹hr› > ‹hl›}
+rt̥ > r̥ > l̥ > ṣ /??? Hoffmann 1986=1992:837-857;deVaan 2003: 602, 622 {av. ‹ṣ̌› mpers. ‹hr› > ‹hl›}
 C > Cj > C /V>Vi_i(:),j (C = t,d,θ,ð,n,r; p,β); /V>Vi_Ce (C = t,θ,ð,r) [de Vaan 2003: 547-560]
 r > rw > r /a,o,ə,ā_u,w [de Vaan 2003: 561f. ]
 
@@ -1105,7 +1104,7 @@ x > χ; ɣ > ʁ /_ Isaev 1987: 568
 ʒ > z /_ Isaev 1987: 570
 m > 0 /r_# Isaev 1987: 578 {sporad.}
 n > 0 /s,z,r_# Isaev 1987: 578
-D: > T: {synchrone Regel}
+D: > T: /??? {synchrone Regel}
 
 oss.d.
 *ḏʑ > j /V_# Isaev 1987: 560
@@ -1238,7 +1237,7 @@ w > *β /#_ Emmerick 1989: 213 {außer Präfix *wi- > gu-}
 j > ɟ ‹gy› /#_ Emmerick 1989: 213
 C > Cj /_j,i(:) Hitch 1990: 183-189 {allophonisch, z.T. synchron weiter wirksam}
 s > sj; z > zj; ṣ > sj /_Cj [Konow 1941: 32ff.]
-k > c; g > ɟ /_Hitch1990:183,186
+k > c; g > ɟ /_ Hitch1990:183,186
 sj > ʆ; zj > ʓ /_Cj [Konow 1941: 32ff.]; Hitch 1990: 183
 ṭj > t; ð̣j > ð̣; ṭhj > ṭh; ṯj > t; ðj > ð; thj > th; pj > p; bj > b; mj > m; wj > w; ṟj > r; ṣj > ṣ; ẓj > ẓ; hj > h /(V>Vi̯)_ (V = a,ā,ū,au) [Hitch 1990: 183, 188-190; teilweise analogisch, da synchroner „Umlaut“?]
 r > rw > r /a>*au_*u>0 [Emmerick 1989: 211]
@@ -1287,9 +1286,7 @@ ṭṭh > ṭṭṣ /_ Emmerick 1989: 216
 h > x /V_V Emmerick & Pulleyblank 1993: 32
 
 waxi
-f > p; θ > t /_; x > k /_(r)V Morgenstierne 1938: 457f.;
-466ff.; Steblin-Kamenskij 1999: §38; 44; 57 {Ausnah-
-men}
+f > p; θ > t /_; x > k /_(r)V Morgenstierne 1938: 457f.; 466ff.; Steblin-Kamenskij 1999: §38; 44; 57 {Ausnahmen}
 *s > *ʆ; *z > *ʓ /_j>0 Morgenstierne 1938: 470; Steblin-Kamenskij Steblin-Kamenskij: §51, 53; 69f.
 ?ṣ > x /r_ Morgenstierne 1938: 474 [*rš fehlt bei Steblin-Kamenskij 1999] {vor ʆ > ṣ}
 ṣ > x /V_t Morgenstierne 1938: 470 {sporad.}?
@@ -1394,7 +1391,7 @@ k > c; g > ɟ /_a,e,i
 x > χ /_ Ėdel’man 1987b: 376 {vor h > x /_w?}
 ɣ > ʁ /_ Ėdel’man 1987b: 363f.
 xw > χw /_V[-front] Ėdel’man 1987b: 378
-*r > 0 /_ṣ{vor s > ṣ
+*r > 0 /_ṣ {vor s > ṣ
 s > ṣ /r_ {vor ṣ > x}
 r > *ṣ /_t
 *r > ẓ /_n,d,ð
@@ -1451,13 +1448,13 @@ baktr.
 *ṯɕ > ts; *ḏʑ > dz /_ Sims-Williams 1989c: 168
 β > f /θ_
 r > 0 /_ṣ
-*l > d /_r{oder *ð > dvor*ð > l?}
+*l > d /_r {oder *ð > dvor*ð > l?}
 p > b; t > d; ṯɕ > ḏʑ; k > g /V(r)_ Steblin-Kamenskij 1981: 399
 *ṣ > x /{-#,r}_ Ausnahmen sporad.
 *ṣ > ʃ /_
 θ > h /_
-θ > l / # _ f [ l ]̥ ?
-x > 0 /_tnacht > d,sporad.
+θ > l /#_f [l̥]?
+x > 0 /_t nach t > d, sporad.
 x > 0 /f_
 x > h /V_V
 
@@ -1470,8 +1467,7 @@ s > ɕ /i_C allophonisch?
 ts > s /V_? sporad.? spät
 
 *y-m.,pto.
-p > b; t > d; k > g /V(r)_ Morgenstierne 1938: 42ff.;
-79f. {vor b > β...} *y.-m.
+p > b; t > d; k > g /V(r)_ Morgenstierne 1938: 42ff.; 79f. {vor b > β...} *y.-m.
 *β > w /V_V Morgenstierne 1938: 42; Grünberg 1987: 176 {vor β > v, sporad.}
 ð > d /_Vð vor *ð > l
 ṯɕ > ḏʑ /V(r)_ Morgenstierne 1938: 42ff., 79f. {vor ḏʓ > ʓ}
@@ -1509,8 +1505,7 @@ x > x ~ χ; ɣ > ɣ ~ ʁ /_ {nach g > ɣ}
 
 yid.,munj.dial.
 N > 0 /_D Morgenstierne 1938: 75ff.
-*ẓ > j /V_V Morgenstierne 1938: 53f.; Grünberg
-1987: 175f. {palatalisiert nicht!}
+*ẓ > j /V_V Morgenstierne 1938: 53f.; Grünberg 1987: 175f. {palatalisiert nicht!}
 g > ɣ /V_V Morgenstierne 1938: 38; Grünberg 1987: 176
 
 yid.
@@ -1560,7 +1555,8 @@ s > ʆ /_j,V[+front] Skjærvø 1989c: 404f.
 ts > t /ṣ_; dz > d /ẓ_ [Skjærvø 1989c: 404]
 xw > x /_o,#
 S > Z > 0 /_n,ṇ Skjærvø 1989c: 405
-t > d /V#_V̀ Skjærvø 1989c: 402 {in Pronomina} x > χ; ɣ > ʁ /_
+t > d /V#_V̀ Skjærvø 1989c: 402 {in Pronomina}
+x > χ; ɣ > ʁ /_
 
 pto.{-waṇ.}
 r > 0 /_ṣ,ẓ Skjærvø 1989c: 404
@@ -1587,7 +1583,7 @@ ṣ > ʃ; ẓ > ʒ /_ Skjærvø 1989c: 386; Elfenbein 1997: 740
 b > *β; d > *ð; g > *ɣ /{-#,N}_ Morgenstierne 1929a: 24ff.; Efimov 1997: 456
 *d > b /#_β>0 Morgenstierne 1929a: 33; 1929b: 329; Efimov 1991: 263; 1997: 448
 *w > 0 /#_r Morgenstierne 1929a: 329
-*w > ɣw; *j > ʑ /#_Morgenstierne 1929a: 33; 1929b: 328f.; Efimov 1991: 270; 1997: 456ff.
+*w > ɣw; *j > ʑ /#_ Morgenstierne 1929a: 33; 1929b: 328f.; Efimov 1991: 270; 1997: 456ff.
 *s > ṣ; *z > ẓ; *n > ṇ /r>0_ [Morgenstierne 1929a: 335]
 *r > 0 /_ṣ,ẓ.ṇ [Morgenstierne 1929a: 335]
 *r > r̥ /s,θ_
@@ -1617,8 +1613,7 @@ ṇ > n /_ Efimov 1997: 460
 s > ʃ /i; /_ti Morgenstierne 1929a: 42
 f > h /#_r Morgenstierne 1929a: 38
 f > p; x > k /r_ Morgenstierne 1929a: 38; Efimov 1997: 448, 450
-f > ph; x > kh /#_ Morgenstierne 1929a: 37; Efimov
-1997: 464f. {vor xw > x}
+f > ph; x > kh /#_ Morgenstierne 1929a: 37; Efimov 1997: 464f. {vor xw > x}
 θ > th /N_ Morgenstierne 1929a: 39f.
 θ > h /_ Morgenstierne 1929a: 37; Efimov 1997: 450f.
 xw > kh /V_ Morgenstierne 1929a: 37; Efimov 1997: 450
@@ -1725,7 +1720,7 @@ sp-parth.
 *r̥ > *ɬ /θ_ s. IV.1.C
 θ > *t /_ɬ s. IV.1.C
 [*t > ɬ ~ 0 /_ɬ s. IV.1.C]
-*ɬ > s [Cabolov 1997: 47; Korn 2005: 89f.]; s. IV.1.C
+*ɬ > s /??? [Cabolov 1997: 47; Korn 2005: 89f.]; s. IV.1.C
 
 bal.
 r > r̥ /#f,s_ Korn 2005: 115ff.
@@ -1767,7 +1762,7 @@ p > ph; t > th; ṯʃ > ṯʃh; k > kh /#_; /r,n_ Geiger 1892: 418, 424, 428, 43
 
 o-bal.dial.
 m > w /V_V Geiger 1892: 413; Korn 2005: 232ff.
-θ > s; ð > z/_Korn2005:230f.
+θ > s; ð > z/_ Korn 2005: 230f.
 
 g-kurd.,gor.,kasp.maz.,sang.,sur.
 d > n /N_ Benedictsen & Chistensen 1921: 22; Cabolov 1997: 41f. {kurd. vor t > d}
@@ -1955,7 +1950,7 @@ w > 0 /C_ Pirejko 1991: 114 {auch /#x_!}
 
 tal.
 r > 0 /_${-d,z} Pirejko 1991: 117f.
-x > h ~ x /_Pirejko1991:114
+x > h ~ x /_ Pirejko1991:114
 ḏʒ > ʒ /_ vor j > ḏʒ Pirejko 1991: 112f.
 
 az.
@@ -2002,7 +1997,7 @@ s̪ > s; z̪ > z /_w,m Horn 1901: 84f.; Kent 1953: 34f.
 w > 0 /s̪>s,z̪>z,ʃ_
 s̪ > θ; z̪ > ð /_{-w,m} Kent 1953: 33; Mayrhofer 1989: 6; Klingenschmitt 2000: 209f. mit Anm. 67
 ?r > r̥ > ɬ /θ_, s. IV.1.C {nach *s̪ > θ}
-?θ > ɬ /_ɬs.obenIV.1.C
+?θ > ɬ /_ɬ s.obenIV.1.C
 ð > d /_ {jedenfalls /#,N_}
 *ṯɕ > *ɕ > s /s_
 *ʆ > s /_{-j} Klingenschmitt 2000: 208ff. apers.
@@ -2012,7 +2007,7 @@ s̪ > θ; z̪ > ð /_{-w,m} Kent 1953: 33; Mayrhofer 1989: 6; Klingenschmitt 200
 h > 0 /_r,m,ū̆,w Brandenstein & Mayrhofer 1964: 42f.
 h > 0 /V_V {sporad.}
 *θ > ʃ /_j Kent 1953: 34
-*θ > ʃ /_nKent1953:35
+*θ > ʃ /_n Kent1953:35
 
 sp-apers.,g-sw-iran.
 p > b; t > d; ṯʃ > ḏʒ; k > g /N_ Back 1978: 88, 90, 95, 103
@@ -2033,7 +2028,7 @@ s̪ > h /{-#}_ [MacKenzie 1967: 19; Back 1978: 105f.; Klingenschmitt 2000: 206f.
 
 mpers.,g-sw-iran.{-s-bašk.}
 ṯʆ > ḏʓ /V(r)_ Rastorgueva & Molčanova 1981a: 21; 48; Back 1978: 135f. {vor ḏʓ > ʓ}
-r > *l /_ð,θBack1978:136f.
+r > *l /_ð,θ Back1978:136f.
 *ð > 0 /(a>a:)l_; θ > 0 /l>l̥_ Back 1978: 136f.
 p > b; t > d /V(r)_ Hübschmann 1895: 175-178, 189f.; Horn 1901: 86; Rastorgueva & Molčanova 1981a: 21, 30, 32, 48; Back 1978: 128f.
 
@@ -2225,7 +2220,7 @@ Dɦ > Th /{-N}_ Vogt 1958: 145; Pisowicz 1976a: 208f.
 *kw > k; *gw > g; "gwɦ > gɦ /_ Brixhe 1982: 235ff.; Dia- konoff & Neroznak 1985: 5
 ?p > ph; t > th; ṯɕ > ṯɕh; k > kh /_ Diakonoff&Neroz- nak 1985: 5; 43 n.2; Lubotsky 2004: 230f. {unsicher, da graphisch kaum differenziert}
 *b > p; *d >t; *ḏʑ > *ṯɕ; *g > k /_ [Lejeune1979]; Diakonoff & Neroznak 1985: 5; Lubotsky 2004
-*bɦ > b; *dɦ > d; *ḏʑɦ > *ḏʑ; *gɦ > gLubotsky 1989b: 148f.; 2004: 230
+*bɦ > b; *dɦ > d; *ḏʑɦ > *ḏʑ; *gɦ > g /??? Lubotsky 1989b: 148f.; 2004: 230
 
 phryg.
 *ṯɕh > tsh; *ṯɕh > tsh; *ḏʑ > dz /_ Brixhe 1982: 235-246; Diakonoff & Neroznak 1985: 5
@@ -2236,8 +2231,8 @@ phryg.
 n > 0 /(V>Ṽ?)_# Brixhe 2004: 783 {aber graphisch erhalten!}
 [?ts > s; dz > z /_ Brixhe 1982: 237, 241; 2004: 783]
 
-*ural̑ b.
-*"k" > *c; "g̑" > *ɟ; *"g̑ɦ" > *ɟɦ /_ Huld 1983: 144ff.; Demiraj 1997: 63f.; Matzinger 2006: 71f.
+*uralb.
+*"k̑" > *c; "g̑" > *ɟ; *"g̑ɦ" > *ɟɦ /_ Huld 1983: 144ff.; Demiraj 1997: 63f.; Matzinger 2006: 71f.
 *c > k; *ɟ > g; *ɟɦ > gɦ /_l,r{-i} Huld 1983: 144ff.; De- miraj 1997: 63; Matzinger 2006: 71f.
 *c > *ṯɕ; *ɟ > *ḏʑ; *ɟɦ > *ḏʑɦ /{-s}_ Huld 1983: 144ff.; Demiraj 1997: 63f.; Matzinger 2006: 71f.
 ?*c > k /s_
@@ -2567,7 +2562,7 @@ n > ɲ; l > ʎ; r > ṟj /_j>0 Thumb 1910: §30
 z > dz /_ Thumb1910:§28
 *ɕ > ʃ /_ Thumb 1910: §21 {sporad.}
 
-ngr.dial. (östl.)
+ngr.dial.(östl.)
 ʝ > ç /C[-voice]_ Thumb 1910: §10 Anm. 5
 ç > ɕ /_ Thumb 1910: §21
 
@@ -2669,9 +2664,7 @@ ç > ɕ /_ Thumb 1910: §21
 *w > 0 /#_r,l Sihler 1995: 179; Meiser 1998: 111f.
 *p > *kʷ /_VC₀$kʷ Meiser 1986: 38; 1998: 97f.
 *d > j; *g > j /V_j Meiser 1986: 38; 1998: 120; 2003: 31
-*bʱ > β; *dʱ > ð; *gʱ > ɣ; *gʷʱ > ɣʷ /{-#}_ Meiser
-1986: 37; 1998: 101f.; 2003: 31; Stuart-Smith
-2004: 196-201, 203f. {Chronologie umstritten}
+*bʱ > β; *dʱ > ð; *gʱ > ɣ; *gʷʱ > ɣʷ /{-#}_ Meiser 1986: 37; 1998: 101f.; 2003: 31; Stuart-Smith 2004: 196-201, 203f. {Chronologie umstritten}
 *bʱ > pʰ; dʱ > tʰ; gʱ > kʰ; gʷʱ > kʷʰ /#_ Meiser
 1986: 37; 1998: 101f.; Stuart-Smith 2004: 196-203
 *j > 0 /V_V Meiser 1986: 38; 1998: 91; 2003: 31
@@ -3136,7 +3129,7 @@ s > ʃ /_j>0 Rohlfs 1949: 468-472
 
 n-s-it.dial.
 d > „t“; g > „k“ /_ Rohlfs 1949: 259, 263, 353, 356
-*ç > ʃ Rohlfs 1949: 414
+*ç > ʃ /??? Rohlfs 1949: 414
 
 o-s-it.dial.
 ʝ > ʓ > ʆ /_ Rohlfs 1949: 265f.; 458 {nach ɟ/ʎ > j > ʓ}
@@ -3477,7 +3470,7 @@ n-it.dial.,rätor.w-fri.
 ʃ > s; ʒ > z /_
 
 n-it.dial.lig.,lomb.,em.,rom.
-dz > z Rohlfs 1949: 264f.
+dz > z /??? Rohlfs 1949: 264f.
 
 n-it.dial.{-(lig.,tess.,piem.)}
 ts > s /_ Rohlfs 1949: 255f.; 451f., 476f. {*cj, *tj}
@@ -4373,11 +4366,13 @@ z̪ > 0 /X_ Jackson 1967: 676-679, 687 {vor s > z}
 
 mbret.z-,o-T.,no-K.,-V.
 f > v; s̺> z̺ /#_ Jackson 1967: 511f.
+
 g-bret.
 j > ʝ /t,k,d,g_ Jackson 1967: 410-416
 ʝ > ç /t_ Jackson 1967: 412-415
 s > ʃ /_j Jackson 1967: 419, 423
 ç > ʃ /t>ʃ,k>ʃ_ Jackson 1967: 410-416
+
 bret.dial.
 ʝ > ʒ /d,g>ʒ_ Jackson 1967: 412-416
 x > χ /_
@@ -4631,7 +4626,7 @@ p > pp; t > tt; k > kk; s > ss; r > rr /'V[-low]_V,# Noreen 1913: 154f. {nördl.
 w-,s-mschw.
 ð > θ /V̀_# Noreen 1904: 196; 1913: 147f. {ab 1400}
 
-z-, n-mschw.dial.nördl.{-dal.}
+z-,n-mschw.dial.nördl.{-dal.}
 ð > ɺ̣ /r>0_ Noreen 1904: 215; 1913: 146; Vigeland 1981: 36f.
 
 mschw.dial.gm.msv.
@@ -4776,6 +4771,7 @@ adän.dial.{-w-seel.sk.b.}
 adän.dial.seel.
 ɣ > w /ø_{-s,t} Noreen 1913: 149; Brøndum-Nielsen 1957: 166-179
 c > k; ɟ > g /_ Brøndum-Nielsen 1957: 193-199
+
 adän.dial.n-seel.
 ɣ > w /y,ø_u Brøndum-Nielsen 1957: 156-179
 
@@ -4978,7 +4974,7 @@ s-nisl.
 m > m̥; n > n̥; l > l̥; r > r̥ /_p,t,k,s
 
 s-nisl.,fär.dial.
-p > b̥; t > d̥; c > ɟ̊; k > ɡ̊ /X_Haugen 1984: 92f.
+p > b̥; t > d̥; c > ɟ̊; k > ɡ̊ /X_ Haugen 1984: 92f.
 
 fär.
 cʰ > kʰ; ɟ > g /_ai̯
@@ -5418,7 +5414,7 @@ C: > C /_#,C {nach LV fortwirkend, später analog. durchkreuzt} Lasch 1914: 132,
 m > n /_# Borgelt 1899: 36; Gallée 1910: 155; Lasch 1914: 144f.; Braune/Reiffenstein 2004: 120
 
 as.,anfrk.
-x > s̺/_s̺[Borgelt 1899: 47]; Gallée 1910: 178; van der Meer 1927: 107f.; Goossens 1974: 68
+x > s̺/_s̺ [Borgelt 1899: 47]; Gallée 1910: 178; van der Meer 1927: 107f.; Goossens 1974: 68
 
 as.dial.
 k > c /_V[+front] Gallée 1910: 165 {‹ki,ke›}
@@ -5627,7 +5623,7 @@ g > ɣ /_ Goossens 1974: 83 {nach C: > C, vor Ð > Þ}
 w > v /#_r van der Meer 1927: 119; Goossens 1974: 85
 
 nnl.dial.
-x > χ; ɣ > ʁ
+x > χ; ɣ > ʁ /???
 v > f; z > s; ʁ > χ /_ Goossens 1974: 27
 
 g-(vor)ahd.{-mfrk.,hess.,n-th.}
@@ -5857,7 +5853,7 @@ nhd.md.,w-al.sz.
 d > n /n_{-#} Žirmunskij 1956: 364f. {nach Apokope}
 
 nhd.mfrk.,hess.,w-schw.,(bair.)
-x > s̺/_s̺Kranzmayer 1956: 92f.; Žirmunskij 1956: 373- 376; Paul/Wiehl/Grosse 1998: 156
+x > s̺/_s̺ Kranzmayer 1956: 92f.; Žirmunskij 1956: 373- 376; Paul/Wiehl/Grosse 1998: 156
 
 nhd.mfrk.
 r > ə /V>V̄_C[+cor] Žirmunskij 1956: 345
@@ -6092,7 +6088,7 @@ urbsl.
 *ʔ > 0 /V>V̄(R)_C {nach Hirts Gesetz}
 [V>V̄ /?_D? {Winters Gesetz}]
 *Tʰ > T; *Dʱ > D /_
-*„k̑“ > *c; *“g̑“ > *ɟ
+*„k̑“ > *c; *“g̑“ > *ɟ /???
 ?*s > *ɕ /_c; *z > *ʑ /_ɟ
 ?*c > k /ɕ>s_; ɟ > g /ʑ>z_ [Lubotsky 2001: 26ff.] {umstritten}
 kʷ > k; gʷ > g /_ {nach 0 > u /Kʷ_R}
@@ -6225,7 +6221,7 @@ s > 0 /_#
 g-slav.
 *k > c; *g > ɟ; x > ç /_V[+front] Carlton 1990: 120-126; Hock 2003: 23 {2. Palatalisierung}
 T > 0 /_T,s,x Carlton 1990: 101
-ḏʓ > ʓ /{-ʓ}_Shevelov 1964: 211
+ḏʓ > ʓ /{-ʓ}_ Shevelov 1964: 211
 
 g-o/s-slav.{-n-russ.}
 c > ṯɕ; ɟ > ḏʑ; ç > ɕ /_V[+front] Tschernych 1957: 128f.
@@ -6417,13 +6413,13 @@ x > h /_ Popović 1960: 366f., 407, 436, 445
 skr.dial.
 ṯɕ > ṯʃ; ḏʑ > ḏʒ /_ Popović 1960: 252; 452
 j > ʎ /p,b,m,v_ Popović 1960: 427f. {neue Gruppen}
-h > 0 Popović 1960: 366f., 407, 436, 445
+h > 0 /??? Popović 1960: 366f., 407, 436, 445
 
 skr.šop.
 ṯʲ > c; ḏj > ɟ /_ Popović 1960: 252
 
 skr.mont.
-x > k ~ g Popović 1960: 436
+x > k ~ g /??? Popović 1960: 436
 ts > ṯɕ; s > ɕ; z > ʑ /_j>0 Popović 1960: 427f. {vor *je < ě}
 
 skr.kajk.,g-slov.
@@ -6601,7 +6597,8 @@ w-w-slk.
 w-s-w-slk.
 Cʲ > C /_ Krajčovič 1975: 117
 
-ačech. 0 > t /s_r Carlton 1990: 232
+ačech.
+0 > t /s_r Carlton 1990: 232
 w > v /_
 C > Cʲ /_V[+front] Carlton 1990: 236
 ṟʲ > ɹ̝ʲ ~ ɹ̝̊ʲ /_[αvoice] Carlton 1990: 236
@@ -6751,8 +6748,8 @@ g-westlech.
 l > ł /V_C Stieber 1973: 19, 23
 
 urpolab.
-[Cʲ] > /Cʲ/ /_V[+front]>[-front] Schleicher 1871: §82; Lehr-Spławiński 1929: 80f., 86f. {/_'å,'o,'a,'eu,'õ}
-[Cʲ] > /C/ /_V[+front] Lehr-Spławiński 1929: 81f., 88f.; Polański 1993: 803
+#[Cʲ] > /Cʲ/ /_V[+front]>[-front] Schleicher 1871: §82; Lehr-Spławiński 1929: 80f., 86f. {/_'å,'o,'a,'eu,'õ}
+#[Cʲ] > /C/ /_V[+front] Lehr-Spławiński 1929: 81f., 88f.; Polański 1993: 803
 
 polab.
 w > v; wʲ > vʲ /_
